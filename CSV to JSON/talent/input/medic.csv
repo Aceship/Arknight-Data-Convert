@@ -1,0 +1,48 @@
+Character,Rarity,Talent Name,Talent Description,Required Level,Required Potential Rank
+Lancet-2,1,Healing Mist·I,Immediately restore 200 HP to all allies after deployment,Lvl 1,0
+,,Healing Mist·II,Immediately restore 260 HP to all allies after deployment,Lvl 1,1
+,,Healing Mist·III,Immediately restore 320 HP to all allies after deployment,Lvl 1,2
+,,Healing Mist·IV,Immediately restore 380 HP to all allies after deployment,Lvl 1,3
+,,Healing Mist·V,Immediately restore 440 HP to all allies after deployment,Lvl 1,4
+,,Healing Mist·VI,Immediately restore 500 HP to all allies after deployment,Lvl 1,5
+Hibiscus,3,Healing Power Increase,Attack power +4%,Elite 1 Lvl 1,0
+,,Healing Power Increase,Attack power +8%,Elite 1 Lvl 55,0
+Ansel,3,Additional Healing,Has 7% chance to heal an additional ally,Elite 1 Lvl 1,0
+,,Additional Healing,Has 10% (+3%) chance to heal an additional ally,Elite 1 Lvl 1,4
+,,Additional Healing,Has 15% chance to heal an additional ally,Elite 1 Lvl 55,0
+,,Additional Healing,Has 18% (+3%) chance to heal an additional ally,Elite 1 Lvl 55,4
+Myrrh,4,First Aid Kit,"After deployment, immediately heal all allies for 100% of Myrrh's Attack power",Elite 1 Lvl 1,0
+,,First Aid Kit,"After deployment, immediately heal all allies for 110% (+10%) of Myrrh's Attack power",Elite 1 Lvl 1,4
+,,First Aid Kit,"After deployment, immediately heal all allies for 150% of Myrrh's Attack power",Elite 2 Lvl 1,0
+,,First Aid Kit,"After deployment, immediately heal all allies for 160% (+10%) of Myrrh's Attack power",Elite 2 Lvl 1,4
+Gavial,4,Battlefield Medic,"After deployment, all ally 【Medic】 operatives gain Attack power +5%, Defense power +50 for 15 seconds",Elite 1 Lvl 1,0
+,,Battlefield Medic,"After deployment, all ally 【Medic】 operatives gain Attack power +7% (+2%), Defense power +70 (+20) for 17 (+2) seconds",Elite 1 Lvl 1,4
+,,Battlefield Medic,"After deployment, all ally 【Medic】 operatives gain Attack power +10%, Defense power +100 for 15 seconds",Elite 2 Lvl 1,0
+,,Battlefield Medic,"After deployment, all ally 【Medic】 operatives gain Attack power +12% (+2%), Defense power +120 (+20) for 17 (+2) seconds",Elite 2 Lvl 1,4
+Perfumer,4,Lavender,"When deployed, heal all allies for 3% of Perfumer's Attack power every second",Elite 1 Lvl 1,0
+,,Lavender,"When deployed, heal all allies for 3.5% (+0.5%) of Perfumer's Attack power every second",Elite 1 Lvl 1,4
+,,Incense,"When deployed, heal all allies for 5% of Perfumer's Attack power every second",Elite 2 Lvl 1,0
+,,Incense,"When deployed, heal all allies for 5.5% (+0.5%) of Perfumer's Attack power every second",Elite 2 Lvl 1,4
+Ptilopsis,5,Ability Aura,"When deployed, slightly increase the SP recovery speed of all allies",Elite 1 Lvl 1,0
+,,Ability Aura,"When deployed, largely increase the SP recovery speed of all allies",Elite 2 Lvl 1,0
+Silence,5,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +6",Elite 1 Lvl 1,0
+,,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +8 (+2)",Elite 1 Lvl 1,4
+,,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +12",Elite 2 Lvl 1,0
+,,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +14 (+2)",Elite 2 Lvl 1,4
+Warfarin,5,Blood Sample Collection,"When an enemy dies within attack range, recover 1 SP to self and one random ally within attack range",Elite 1 Lvl 1,0
+,,Blood Sample Collection,"When an enemy dies within attack range, recover 2 SP to self and one random ally within attack range",Elite 2 Lvl 1,0
+Shining,6,Black Devil's Protection,Allies within attack range gain Defense power +20,Lvl 1,0
+,,Black Devil's Protection,Allies within attack range gain Defense power +25 (+5),Lvl 1,5
+,,Black Devil's Protection,Allies within attack range gain Defense power +40,Elite 1 Lvl 1,0
+,,Black Devil's Protection,Allies within attack range gain Defense power +45 (+5),Elite 1 Lvl 1,5
+,,Black Devil's Protection,Allies within attack range gain Defense power +60,Elite 2 Lvl 1,0
+,,Black Devil's Protection,Allies within attack range gain Defense power +65 (+5),Elite 2 Lvl 1,5
+,,Codex,Attack speed +10,Elite 2 Lvl 1,0
+,,Codex,Attack speed +13 (+3),Elite 2 Lvl 1,2
+Nightingale,6,White Devil's Protection,Allies within attack range gain magic resistance +5,Lvl 1,0
+,,White Devil's Protection,Allies within attack range gain magic resistance +7 (+2),Lvl 1,4
+,,White Devil's Protection,Allies within attack range gain magic resistance +10,Elite 1 Lvl 1,0
+,,White Devil's Protection,Allies within attack range gain magic resistance +12 (+2),Elite 1 Lvl 1,4
+,,White Devil's Protection,Allies within attack range gain magic resistance +15,Elite 2 Lvl 1,0
+,,White Devil's Protection,Allies within attack range gain magic resistance +17 (+2),Elite 2 Lvl 1,4
+,,Ephemeral Phantom,"Able to use phantoms. Phantoms cannot attack or block enemies. They have 75 magic resistance, 30% physical evasion and draw enemy attacks easily. Additionally, they lose 3% Max HP every second",Elite 2 Lvl 1,0

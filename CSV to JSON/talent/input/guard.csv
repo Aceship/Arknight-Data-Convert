@@ -1,0 +1,45 @@
+Character,Rarity,Talent Name,Talent Description,Required Level,Required Potential Rank
+Castle-3,1,Tactical Reorganization·I,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +10% for 10 seconds",Lvl 1,0
+,,Tactical Reorganization·II,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +12% for 12 seconds",Lvl 1,1
+,,Tactical Reorganization·III,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +14% for 14 seconds",Lvl 1,2
+,,Tactical Reorganization·IV,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +16% for 16 seconds",Lvl 1,3
+,,Tactical Reorganization·V,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +18% for 18 seconds",Lvl 1,4
+,,Tactical Reorganization·VI,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +20% for 20 seconds",Lvl 1,5
+Melantha,3,Attack Increase,Attack power +4%,Elite 1 Lvl 1,0
+,,Attack Increase,Attack power +8%,Elite 1 Lvl 55,0
+Dobermann,4,Instructor,All 3* operatives gain Attack power +5%,Elite 1 Lvl 1,0
+,,Instructor,All 3* operatives gain Attack power +6% (+1%),Elite 1 Lvl 1,4
+,,Instructor,All 3* operatives gain Attack power +10%,Elite 2 Lvl 1,0
+,,Instructor,All 3* operatives gain Attack power +11% (+1%),Elite 2 Lvl 1,4
+Matoimaru,4,Demonic Constitution,"Defense power -20%, however Max HP+20%",Elite 2 Lvl 1,0
+,,Demonic Constitution,"Defense power -20%, however Max HP+23% (+3%)",Elite 2 Lvl 1,4
+Frostleaf,4,Cover Strike,"Increase attack range, however attack interval slightly increases",Elite 2 Lvl 1,0
+Estelle,4,Self Regeneration,"When an enemy dies within 8 tiles of herself, recover 7% Max HP",Elite 1 Lvl 1,0
+,,Self Regeneration,"When an enemy dies within 8 tiles of herself, recover 9% (+2%) Max HP",Elite 1 Lvl 1,4
+,,Self Regeneration,"When an enemy dies within 8 tiles of herself, recover 12% Max HP",Elite 2 Lvl 1,0
+,,Self Regeneration,"When an enemy dies within 8 tiles of herself, recover 14% (+2%) Max HP",Elite 2 Lvl 1,4
+Mousse,4,Multistrike,"When attacking, 10% chance to attack twice",Elite 1 Lvl 1,0
+,,Multistrike,"When attacking, 13% (+3%) chance to attack twice",Elite 1 Lvl 1,4
+,,Multistrike,"When attacking, 20% chance to attack twice",Elite 2 Lvl 1,0
+,,Multistrike,"When attacking, 23% (+3%) chance to attack twice",Elite 2 Lvl 1,4
+Franka,5,Thermite Blade,"When attacking, 10% chance to ignore the target's defense",Elite 1 Lvl 1,0
+,,Thermite Blade,"When attacking, 20% chance to ignore the target's defense",Elite 2 Lvl 1,0
+Indra,5,Tiger Fist,"Has 15% chance to evade melee physical attacks. After a successful evade, increase the Attack power of the next attack by +80%",Elite 1 Lvl 1,0
+,,Tiger Fist,"Has 18% (+3%) chance to evade melee physical attacks. After a successful evade, increase the Attack power of the next attack by +80%",Elite 1 Lvl 1,4
+,,Tiger Fist,"Has 30% chance to evade melee physical attacks. After a successful evade, increase the Attack power of the next attack by +100%",Elite 2 Lvl 1,0
+,,Tiger Fist,"Has 33% (+3%) chance to evade melee physical attacks. After a successful evade, increase the Attack power of the next attack by +100%",Elite 2 Lvl 1,4
+Lappland,5,Mental Destruction,Attacks seal the target's special abilities for 1 second,Elite 1 Lvl 1,0
+,,Mental Destruction,Attacks seal the target's special abilities for 2 (+1) seconds,Elite 1 Lvl 1,4
+,,Mental Destruction,Attacks seal the target's special abilities for 5 seconds,Elite 2 Lvl 1,0
+,,Mental Destruction,Attacks seal the target's special abilities for 6 (+1) seconds,Elite 2 Lvl 1,4
+Specter,5,Max HP Increase,Max HP +10%,Elite 1 Lvl 1,0
+,,Max HP Increase,Max HP +12% (+2%),Elite 1 Lvl 1,4
+,,Deep Sea Regeneration,"Max HP +10%, Recover 2% Max HP every second",Elite 2 Lvl 1,0
+,,Deep Sea Regeneration,"Max HP +12% (+2%), Recover 2.5% (+0.5%) Max HP every second",Elite 2 Lvl 1,4
+Savage,5,Valley,"When there are 2 or more high tiles among the 4 adjacent tiles, Attack power and Defense power +5%",Elite 1 Lvl 1,0
+,,Valley,"When there are 2 or more high tiles among the 4 adjacent tiles, Attack power and Defense power +10%",Elite 2 Lvl 1,0
+SilverAsh,6,Leader,"Attack power +5%, All operatives' redeployment time -5%",Elite 1 Lvl 1,0
+,,Leader,"Attack power +7% (+2%), All operatives' redeployment time -7% (+2%)",Elite 1 Lvl 1,4
+,,Leader,"Attack power +10%, All operatives' redeployment time -10%",Elite 2 Lvl 1,0
+,,Leader,"Attack power +12% (+2%), All operatives' redeployment time -12% (+2%)",Elite 2 Lvl 1,4
+,,Eagle Eye,Enemies within attack range lose stealth status,Elite 2 Lvl 1,0

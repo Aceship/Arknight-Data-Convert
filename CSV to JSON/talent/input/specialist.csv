@@ -1,0 +1,26 @@
+Character,Rarity,Talent Name,Talent Description,Required Level,Required Potential Rank
+Gravel,4,Quick Deployment,Self deployment cost -1,Elite 1 Lvl 1,0
+,,Dwarfish Reinforcement,"Self deployment cost -1, All operatives with 10 or less cost gain Defense power +6%",Elite 2 Lvl 1,0
+,,Dwarfish Reinforcement,"Self deployment cost -1, All operatives with 10 or less cost gain Defense power +8% (+2%)",Elite 2 Lvl 1,4
+Rope,4,Auditory Training,Gain 15% physical evasion,Elite 1 Lvl 1,0
+,,Auditory Training,Gain 19% (+4%) physical evasion,Elite 1 Lvl 1,4
+,,Auditory Training,Gain 30% physical evasion,Elite 2 Lvl 1,0
+,,Auditory Training,Gain 34% (+4%) physical evasion,Elite 2 Lvl 1,4
+Shaw,4,Fire-fighting Gear,Magic resistance +7,Elite 1 Lvl 1,0
+,,Fire-fighting Gear,Magic resistance +15,Elite 2 Lvl 1,0
+Projekt Red,5,Bonebreaker,Every attack will deal damage equal to at least 20% Attack power,Elite 1 Lvl 1,0
+,,Bonebreaker,Every attack will deal damage equal to at least 23% (+3%) Attack power,Elite 1 Lvl 1,4
+,,Bonebreaker,Every attack will deal damage equal to at least 30% Attack power,Elite 2 Lvl 1,0
+,,Bonebreaker,Every attack will deal damage equal to at least 33% (+3%) Attack power,Elite 2 Lvl 1,4
+Cliffheart,5,Snow Hunter,"When not blocking any enemies, Attack power and Defense power +6%",Elite 1 Lvl 1,0
+,,Snow Hunter,"When not blocking any enemies, Attack power and Defense power +8% (+2%)",Elite 1 Lvl 1,4
+,,Snow Hunter,"When not blocking any enemies, Attack power and Defense power +12%",Elite 2 Lvl 1,0
+,,Snow Hunter,"When not blocking any enemies, Attack power and Defense power +14% (+2%)",Elite 2 Lvl 1,4
+Manticore,5,Hidden Killer·Intermediate,Stays hidden when idle (will not be targeted by ranged attacks). Attacking will remove the hidden status and increase the Attack power of the next attack by +25%. Regain hidden status after not attacking for 6 seconds,Elite 1 Lvl 1,0
+,,Hidden Killer·Intermediate,Stays hidden when idle (will not be targeted by ranged attacks). Attacking will remove the hidden status and increase the Attack power of the next attack by +29% (+4%). Regain hidden status after not attacking for 6 seconds,Elite 1 Lvl 1,4
+,,Hidden Killer·Elite,Stays hidden when idle (will not be targeted by ranged attacks). Attacking will remove the hidden status and increase the Attack power of the next attack by +50%. Regain hidden status after not attacking for 5 seconds,Elite 2 Lvl 1,0
+,,Hidden Killer·Elite,Stays hidden when idle (will not be targeted by ranged attacks). Attacking will remove the hidden status and increase the Attack power of the next attack by +54% (+4%). Regain hidden status after not attacking for 5 seconds,Elite 2 Lvl 1,4
+FEater,5,Kungfu,Gain 20% physical evasion,Elite 1 Lvl 1,0
+,,Kungfu,Gain 23% (+3%) physical evasion,Elite 1 Lvl 1,4
+,,Kungfu,Gain 40% physical evasion,Elite 2 Lvl 1,0
+,,Kungfu,Gain 43% (+3%) physical evasion,Elite 2 Lvl 1,4

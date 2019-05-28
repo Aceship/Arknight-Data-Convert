@@ -1,0 +1,38 @@
+Character,Rarity,Talent Name,Talent Description,Required Level,Required Potential Rank
+Durin,2,Shorty's Luck,Gain 50% magic evasion,Lvl 30,0
+12F,2,Evasion Increase,Gain 50% physical evasion,Lvl 30,0
+Lava,3,Rapid Skill Use,"After deployment, immediately gain 15 SP",Elite 1 Lvl 1,0
+,,Rapid Skill Use,"After deployment, immediately gain 20 (+5) SP",Elite 1 Lvl 1,4
+,,Rapid Skill Use,"After deployment, immediately gain 30 SP",Elite 1 Lvl 55,0
+,,Rapid Skill Use,"After deployment, immediately gain 35 (+5) SP",Elite 1 Lvl 55,4
+Steward,3,Armor Break,"Attack power +3%, prioritize attacking the enemy with the highest defense",Elite 1 Lvl 1,0
+,,Armor Break,"Attack power +6%, prioritize attacking the enemy with the highest defense",Elite 1 Lvl 55,0
+Haze,4,Black Mist,Attacks inflict magic resistance -10% for 1 second,Elite 1 Lvl 1,0
+,,Black Mist,Attacks inflict magic resistance -13% (+3%) for 1 second,Elite 1 Lvl 1,4
+,,Black Mist,Attacks inflict magic resistance -20% for 1 second,Elite 2 Lvl 1,0
+,,Black Mist,Attacks inflict magic resistance -23% (+3%) for 1 second,Elite 2 Lvl 1,4
+Gitano,4,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack power +7%; Attack speed +7; Max HP +12%",Elite 1 Lvl 1,0
+,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack power +9% (+2%); Attack speed +9 (+2); Max HP +14% (+2%)",Elite 1 Lvl 1,4
+,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack power +13%; Attack speed +13; Max HP +20%",Elite 2 Lvl 1,0
+,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack power +15% (+2%); Attack speed +15 (+2); Max HP +22% (+2%)",Elite 2 Lvl 1,4
+Amiya,5,？？？,？？？？？,Lvl 1,0
+,,Emotion Absorption,Additionally recover 2 SP when attacking enemies. Gain 8 SP after killing an enemy,Elite 2 Lvl 1,0
+,,Emotion Absorption,Additionally recover 3 (+1) SP when attacking enemies. Gain 10 (+2) SP after killing an enemy,Elite 2 Lvl 1,5
+Skyfire,5,Arcane Sniping,"When deployed, all blocked enemies receive +7% magical damage",Elite 1 Lvl 1,0
+,,Arcane Sniping,"When deployed, all blocked enemies receive +10% (+3%) magical damage",Elite 1 Lvl 1,4
+,,Arcane Sniping,"When deployed, all blocked enemies receive +15% magical damage",Elite 2 Lvl 1,0
+,,Arcane Sniping,"When deployed, all blocked enemies receive +18% (+3%) magical damage",Elite 2 Lvl 1,4
+Ifrit,6,Mental Dissolution,All enemies within attack range get magic resistance -15%,Lvl 1,0
+,,Mental Dissolution,All enemies within attack range get magic resistance -19% (+4%),Lvl 1,2
+,,Mental Dissolution,All enemies within attack range get magic resistance -27%,Elite 1 Lvl 1,0
+,,Mental Dissolution,All enemies within attack range get magic resistance -31% (+4%),Elite 1 Lvl 1,2
+,,Mental Dissolution,All enemies within attack range get magic resistance -40%,Elite 2 Lvl 1,0
+,,Mental Dissolution,All enemies within attack range get magic resistance -44% (+4%),Elite 2 Lvl 1,2
+,,Rhine Circuitry,Recover an additional 2 SP every 6 seconds,Elite 2 Lvl 1,0
+,,Rhine Circuitry,Recover an additional 2 SP every 5.5 (-0.5) seconds,Elite 2 Lvl 1,5
+Eyjafjalla,6,Inflammation,"When deployed, all ally 【Caster】 operatives gain Attack power +7%",Elite 1 Lvl 1,0
+,,Inflammation,"When deployed, all ally 【Caster】 operatives gain Attack power +9% (+2%)",Elite 1 Lvl 1,5
+,,Inflammation,"When deployed, all ally 【Caster】 operatives gain Attack power +14%",Elite 2 Lvl 1,0
+,,Inflammation,"When deployed, all ally 【Caster】 operatives gain Attack power +16% (+2%)",Elite 2 Lvl 1,5
+,,Chaotic Flame,"After deployment, immediately gain a random amount of SP",Elite 2 Lvl 1,0
+,,Chaotic Flame,"After deployment, immediately gain a random (higher) amount of SP",Elite 2 Lvl 1,2
