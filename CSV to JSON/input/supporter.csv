@@ -1,0 +1,158 @@
+Character,Rarity,SkillId,Skill Name,Skill Level,SP Cost,Initial SP,Skill Duration,Charging Type,Skill Description,,,,
+Orchid,3,skcom_quickattack[1],Swift Strike·Type α,1,55,0,25,Regen over time,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",atk,0.06,attack_speed,10
+,,,,2,54,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.09, ,10
+,,,,3,53,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.12, ,10
+,,,,4,50,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.15, ,15
+,,,,5,49,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.19, ,15
+,,,,6,48,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.22, ,15
+,,,,7,45,0,25,,"Attack power +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}", ,0.25, ,25
+Deepcolor,4,skchr_deepcl_1,Tentacles of Light & Shadow,1,40,0,30,Regen over time,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second",atk,0.15,hp_recovery_per_sec,30
+,,,,2,39,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.2, ,30
+,,,,3,38,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.25, ,30
+,,,,4,37,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.3, ,40
+,,,,5,36,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.35, ,40
+,,,,6,35,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.4, ,40
+,,,,7,34,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.45, ,50
+,,,,8,33,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.5, ,55
+,,,,9,32,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.55, ,60
+,,,,10,30,0,30,,"All tentacles gain +{{atk}:.0%} Attack and Defense power, Recover {{hp_recovery_per_sec}:.0f} HP every second", ,0.6, ,70
+Deepcolor,4,skchr_deepcl_2,Vision Trap,1,80,40,25,Regen over time,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion",prob,0.25,,
+,,,,2,80,42,28,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.25,,
+,,,,3,80,44,31,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.25,,
+,,,,4,80,46,34,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.3,,
+,,,,5,80,48,37,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.3,,
+,,,,6,80,50,40,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.3,,
+,,,,7,80,52,43,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.35,,
+,,,,8,80,54,47,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.4,,
+,,,,9,80,56,51,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.45,,
+,,,,10,80,60,55,,"Increase attack range, all allies within attack range gain {{prob}:.0%} physical evasion", ,0.5,,
+Earthspirit,4,skcom_atk_up[2],Attack Strengthening·Type β,1,40,0,25,Regen over time,Attack power +{{atk}:.0%},atk,0.2,,
+,,,,2,40,0,25,,Attack power +{{atk}:.0%}, ,0.25,,
+,,,,3,40,0,25,,Attack power +{{atk}:.0%}, ,0.3,,
+,,,,4,37,0,25,,Attack power +{{atk}:.0%}, ,0.35,,
+,,,,5,37,0,25,,Attack power +{{atk}:.0%}, ,0.4,,
+,,,,6,37,0,25,,Attack power +{{atk}:.0%}, ,0.45,,
+,,,,7,37,5,25,,Attack power +{{atk}:.0%}, ,0.5,,
+,,,,8,37,5,25,,Attack power +{{atk}:.0%}, ,0.6,,
+,,,,9,37,5,25,,Attack power +{{atk}:.0%}, ,0.7,,
+,,,,10,35,10,25,,Attack power +{{atk}:.0%}, ,0.8,,
+Earthspirit,4,skchr_skgoat_2,Quicksand,1,60,0,25,Regen over time,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds,interval,1.8,,
+,,,,2,58,0,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.8,,
+,,,,3,56,0,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.8,,
+,,,,4,54,5,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.7,,
+,,,,5,52,5,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.7,,
+,,,,6,50,5,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.7,,
+,,,,7,48,10,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.6,,
+,,,,8,46,10,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.55,,
+,,,,9,44,10,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.5,,
+,,,,10,40,15,25,,Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds, ,1.4,,
+Mayer,5,skchr_otter_1,Confusing Device,1,0,0,0,Passive,All mechanical otters gain {{prob}:.0%} physical and magic evasion,prob,0.1,,
+,,,,2,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.13,,
+,,,,3,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.15,,
+,,,,4,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.18,,
+,,,,5,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.2,,
+,,,,6,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.22,,
+,,,,7,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion, ,0.25,,
+,,,,8,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion. Allies adjacent to them also gain the same effect, ,0.25,,
+,,,,9,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion. Allies adjacent to them also gain the same effect, ,0.3,,
+,,,,10,0,0,0,,All mechanical otters gain {{prob}:.0%} physical and magic evasion. Allies adjacent to them also gain the same effect, ,0.35,,
+Mayer,5,skchr_otter_2,Explosive Retrieval,1,40,0,0,Regen over time,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved",atk_scale,3,stun,1
+,,,,2,39,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,3.2, ,1
+,,,,3,38,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,3.5, ,1
+,,,,4,37,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,3.8, ,1
+,,,,5,36,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,4, ,1
+,,,,6,35,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,4.2, ,1
+,,,,7,34,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,4.5, ,1
+,,,,8,33,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,5, ,1.5
+,,,,9,32,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,5.5, ,1.5
+,,,,10,30,0,0,,"Immediately detonate all deployed mechanical otters, dealing {{atk_scale}:.0%} magical damage to nearby enemies and stunning them for {stun} seconds. All detonated mechanical otters will be retrieved", ,6, ,2
+Pramanix,5,skchr_slbell_1,Echo Reverb,1,40,10,10,Regen over time,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed,attack@max_target,2,attack_speed,-30
+,,,,2,40,10,11,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-30
+,,,,3,40,10,12,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-30
+,,,,4,40,15,13,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-40
+,,,,5,40,15,14,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-40
+,,,,6,40,15,15,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-40
+,,,,7,40,20,16,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-50
+,,,,8,40,20,17,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-53
+,,,,9,40,20,18,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-56
+,,,,10,40,25,20,,Attacks {{attack@max_target}:.0f} targets simultaneously. All enemies within attack range have {{attack_speed}:.0f} attack speed, ,2, ,-60
+Pramanix,5,skchr_slbell_2,Natural Shock,1,40,10,10,Regen over time,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance,def,-0.35,magic_resistance,-0.2
+,,,,2,40,11,11,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.35, ,-0.2
+,,,,3,40,12,12,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.35, ,-0.2
+,,,,4,40,13,14,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.4, ,-0.23
+,,,,5,40,14,15,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.4, ,-0.23
+,,,,6,40,15,16,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.4, ,-0.23
+,,,,7,40,16,18,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.45, ,-0.26
+,,,,8,40,17,20,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.5, ,-0.26
+,,,,9,40,18,22,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.55, ,-0.26
+,,,,10,40,20,25,,All enemies within attack range have {{def}:.0%} defense and {{magic_resistance}:.0%} magic resistance, ,-0.6, ,-0.3
+Истина,5,skchr_glassb_1,Absolute Focus,1,50,20,20,Regen over time,Reduce attack interval,,,,
+,,,,2,49,20,21,,Reduce attack interval,,,,
+,,,,3,48,20,22,,Reduce attack interval,,,,
+,,,,4,47,20,23,,Highly reduce attack interval,,,,
+,,,,5,46,20,24,,Highly reduce attack interval,,,,
+,,,,6,45,20,25,,Highly reduce attack interval,,,,
+,,,,7,44,20,26,,Greatly reduce attack interval,,,,
+,,,,8,43,20,27,,Greatly reduce attack interval,,,,
+,,,,9,42,20,28,,Greatly reduce attack interval,,,,
+,,,,10,40,20,30,,Massively reduce attack interval,,,,
+Истина,5,skchr_glassb_2,Literary Storm,1,50,0,20,Regen over time,"Attack power +{{atk}:.0%}, Increase attack range, Attack 1 additional target",atk,0.2,,
+,,,,2,50,3,20,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 1 additional target", ,0.2,,
+,,,,3,50,6,20,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 1 additional target", ,0.2,,
+,,,,4,50,10,22,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.25,,
+,,,,5,50,13,22,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.25,,
+,,,,6,50,16,22,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.25,,
+,,,,7,50,20,25,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.3,,
+,,,,8,50,23,25,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.45,,
+,,,,9,50,26,25,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.6,,
+,,,,10,50,30,25,,"Attack power +{{atk}:.0%}, Increase attack range, Attack 2 additional targets", ,0.75,,
+Sora,5,skchr_sora_1,Song of Slumber,1,60,30,7,Regen over time,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}",attack@atk_to_hp_recovery_ratio,0.45,,
+,,,,2,60,30,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.45,,
+,,,,3,60,30,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.5,,
+,,,,4,60,35,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.55,,
+,,,,5,60,35,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.6,,
+,,,,6,60,35,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.65,,
+,,,,7,60,40,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.7,,
+,,,,8,60,41,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.8,,
+,,,,9,60,42,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,0.9,,
+,,,,10,60,45,7,,"Increase attack range, all enemies within attack range enter sleep status (stun+invulnerable). Additionally, trait effect increases to {{attack@atk_to_hp_recovery_ratio}:.0%}", ,1,,
+Sora,5,skchr_sora_2,Song of Battle,1,45,10,10,Regen over time,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power,atk,0.7,,
+,,,,2,45,10,11,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.7,,
+,,,,3,45,10,12,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.7,,
+,,,,4,45,15,15,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.8,,
+,,,,5,45,15,16,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.8,,
+,,,,6,45,15,17,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.8,,
+,,,,7,45,20,20,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.9,,
+,,,,8,45,21,23,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.9,,
+,,,,9,45,22,26,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,0.9,,
+,,,,10,45,25,30,,All allies within attack range gain Attack power equal to {{atk}:.0%} of Sora's Attack power, ,1,,
+Angelina,6,skchr_aglina_1,Secret Staff·Speed Charge Mode,1,10,0,20,Regen on attack,Attack power +{{atk}:.0%}. Automatic activation,atk,0.4,,
+,,,,2,10,0,21,,Attack power +{{atk}:.0%}. Automatic activation, ,0.45,,
+,,,,3,10,0,22,,Attack power +{{atk}:.0%}. Automatic activation, ,0.5,,
+,,,,4,10,0,25,,Attack power +{{atk}:.0%}. Automatic activation, ,0.6,,
+,,,,5,10,0,26,,Attack power +{{atk}:.0%}. Automatic activation, ,0.65,,
+,,,,6,10,0,27,,Attack power +{{atk}:.0%}. Automatic activation, ,0.7,,
+,,,,7,10,0,30,,Attack power +{{atk}:.0%}. Automatic activation, ,0.8,,
+,,,,8,10,0,31,,Attack power +{{atk}:.0%}. Automatic activation, ,0.9,,
+,,,,9,10,0,33,,Attack power +{{atk}:.0%}. Automatic activation, ,1,,
+,,,,10,10,0,35,,Attack power +{{atk}:.0%}. Automatic activation, ,1.1,,
+Angelina,6,skchr_aglina_2,Secret Staff·Particle Mode,1,20,0,20,Regen over time,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",damage_scale,0.3,,
+,,,,2,20,1,21,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.3,,
+,,,,3,20,2,22,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.3,,
+,,,,4,20,3,23,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.35,,
+,,,,5,20,4,24,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.35,,
+,,,,6,20,5,25,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.35,,
+,,,,7,20,6,26,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.4,,
+,,,,8,19,7,27,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.4,,
+,,,,9,18,8,28,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.4,,
+,,,,10,15,10,30,,"Massively reduce attack interval, however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active", ,0.45,,
+Angelina,6,skchr_aglina_3,Secret Staff·Anti-Gravity Mode,1,25,0,10,Regen over time,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active",atk,0.75,attack@max_target,4
+,,,,2,25,0,11,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,0.8, ,4
+,,,,3,25,0,12,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,0.85, ,4
+,,,,4,25,3,14,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,0.9, ,4
+,,,,5,25,3,15,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,0.95, ,4
+,,,,6,25,3,16,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,1, ,4
+,,,,7,25,6,18,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,1.05, ,5
+,,,,8,25,7,20,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,1.2, ,5
+,,,,9,25,8,22,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,1.35, ,5
+,,,,10,25,10,25,,"Reduce the weight of all enemies by 1 level. Increase attack range, Attack power +{{atk}:.0%}, Can attack {{attack@max_target}:.0f} enemies. Unable to attack when skill is not active", ,1.5, ,5
