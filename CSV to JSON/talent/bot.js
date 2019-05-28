@@ -5,13 +5,14 @@ var fs = require('fs')
 //     process.exit(-1);
 // }
 let charadetail = JSON.parse(fs.readFileSync("./excel/character_table.json","utf8"))
+let unread = JSON.parse(fs.readFileSync("./ace/tl-unreadablename.json","utf8"))
 var charalist= []
 Object.keys(charadetail).forEach(element => {
     let currobject = charadetail[element]
     charalist.push({name:currobject.appellation,id:element})
 });
 console.log(charalist)
-let data = fs.readFileSync("./input/vanguard.csv", 'utf8')
+// let data = fs.readFileSync("./input/vanguard.csv", 'utf8')
 let datacol = [
     'caster',
     'defender',
@@ -40,7 +41,7 @@ fs.writeFile(`./output/tl-talents.json`, JSON.stringify(combinedData, null, '\t'
 })
 // fs.readFile("./input/caster.csv")
 // console.log(data)
-
+// var data = fs.readFileSync("./input/supporter.csv","utf8")
 // ParseCSV(data)
 
 function ParseCSV(csv){
@@ -60,19 +61,31 @@ function ParseCSV(csv){
         if(currentSplit[0]!=""){
             charaname = currentSplit[0]
             talentname= currentSplit[3]
+            
             if(!collectionJson[charaname]){
+                var currunread= unread.find(search2=>charaname.includes(search2.name))
+                var namesearch = ""
+                if(currunread){
+                    console.log("found")
+                    namesearch = ` (${currunread.name_en})`
+                }
+                console.log(charaname)
                 charaname = charalist.find(search=>{
-                    if(search.name==charaname)
+                    
+                    if(search.name+namesearch==charaname){
+                        
                         return search.id
-                    else if(charaname.includes(search.name))
-                        return search.id
+                    }
+                        
+                    // else if(charaname.includes(search.name))
+                    //     return search.id
                 }).id
                 currenttalentnum=0
                 currenttalentgroup=0
             }
             
             // console.log(charadetail)
-            console.log(charaname)
+            
             
             collectionJson[charaname]=[]
             collectionJson[charaname].push([])
