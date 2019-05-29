@@ -22,6 +22,10 @@ Skyfire,5,Arcane Sniping,"When deployed, all blocked enemies receive +7% magical
 ,,Arcane Sniping,"When deployed, all blocked enemies receive +10% (+3%) magical damage",Elite 1 Lvl 1,4
 ,,Arcane Sniping,"When deployed, all blocked enemies receive +15% magical damage",Elite 2 Lvl 1,0
 ,,Arcane Sniping,"When deployed, all blocked enemies receive +18% (+3%) magical damage",Elite 2 Lvl 1,4
+Nightmare,5,Dual Personality,"When equipping Skill 1, obtain 20% physical and magic evasion. When equipping Skill 2, Attack power +9%",Elite 1 Lvl 1,0
+,,Dual Personality,"When equipping Skill 1, obtain 25% (+5%) physical and magic evasion. When equipping Skill 2, Attack power +12% (+3%)",Elite 1 Lvl 1,4
+,,Dual Personality,"When equipping Skill 1, obtain 40% physical and magic evasion. When equipping Skill 2, Attack power +15%",Elite 2 Lvl 1,0
+,,Dual Personality,"When equipping Skill 1, obtain 45% (+5%) physical and magic evasion. When equipping Skill 2, Attack power +18% (+3%)",Elite 2 Lvl 1,4
 Ifrit,6,Mental Dissolution,All enemies within attack range get magic resistance -15%,Lvl 1,0
 ,,Mental Dissolution,All enemies within attack range get magic resistance -19% (+4%),Lvl 1,2
 ,,Mental Dissolution,All enemies within attack range get magic resistance -27%,Elite 1 Lvl 1,0

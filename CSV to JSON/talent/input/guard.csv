@@ -7,6 +7,10 @@ Castle-3,1,Tactical Reorganization·I,"After deployment, all ally 【Melee】 op
 ,,Tactical Reorganization·VI,"After deployment, all ally 【Melee】 operatives gain Attack power and Defense power +20% for 20 seconds",Lvl 1,5
 Melantha,3,Attack Increase,Attack power +4%,Elite 1 Lvl 1,0
 ,,Attack Increase,Attack power +8%,Elite 1 Lvl 55,0
+Midnight,3,Weakpoint Aiming·Beginner,"When attacking, 10% chance to increase Attack power to 150%",Elite 1 Lvl 1,0
+,,Weakpoint Aiming·Beginner,"When attacking, 10% chance to increase Attack power to 160% (+10%)",Elite 1 Lvl 1,4
+,,Weakpoint Aiming·Beginner,"When attacking, 20% chance to increase Attack power to 150%",Elite 1 Lvl 55,0
+,,Weakpoint Aiming·Beginner,"When attacking, 20% chance to increase Attack power to 160% (+10%)",Elite 1 Lvl 55,4
 Dobermann,4,Instructor,All 3* operatives gain Attack power +5%,Elite 1 Lvl 1,0
 ,,Instructor,All 3* operatives gain Attack power +6% (+1%),Elite 1 Lvl 1,4
 ,,Instructor,All 3* operatives gain Attack power +10%,Elite 2 Lvl 1,0
@@ -22,6 +26,10 @@ Mousse,4,Multistrike,"When attacking, 10% chance to attack twice",Elite 1 Lvl 1,
 ,,Multistrike,"When attacking, 13% (+3%) chance to attack twice",Elite 1 Lvl 1,4
 ,,Multistrike,"When attacking, 20% chance to attack twice",Elite 2 Lvl 1,0
 ,,Multistrike,"When attacking, 23% (+3%) chance to attack twice",Elite 2 Lvl 1,4
+Beehunter,4,Athletics Focus,"When attacking the same target, every attack increases Attack power by 3%, stacking up to 5 layers. Changing targets will reset the effect",Elite 1 Lvl 1,0
+,,Athletics Focus,"When attacking the same target, every attack increases Attack power by 4% (+1%), stacking up to 5 layers. Changing targets will reset the effect",Elite 1 Lvl 1,4
+,,Athletics Focus,"When attacking the same target, every attack increases Attack power by 5%, stacking up to 5 layers. Changing targets will reset the effect",Elite 2 Lvl 1,0
+,,Athletics Focus,"When attacking the same target, every attack increases Attack power by 6% (+1%), stacking up to 5 layers. Changing targets will reset the effect",Elite 2 Lvl 1,4
 Franka,5,Thermite Blade,"When attacking, 10% chance to ignore the target's defense",Elite 1 Lvl 1,0
 ,,Thermite Blade,"When attacking, 20% chance to ignore the target's defense",Elite 2 Lvl 1,0
 Indra,5,Tiger Fist,"Has 15% chance to evade melee physical attacks. After a successful evade, increase the Attack power of the next attack by +80%",Elite 1 Lvl 1,0
@@ -43,3 +51,8 @@ SilverAsh,6,Leader,"Attack power +5%, All operatives' redeployment time -5%",Eli
 ,,Leader,"Attack power +10%, All operatives' redeployment time -10%",Elite 2 Lvl 1,0
 ,,Leader,"Attack power +12% (+2%), All operatives' redeployment time -12% (+2%)",Elite 2 Lvl 1,4
 ,,Eagle Eye,Enemies within attack range lose stealth status,Elite 2 Lvl 1,0
+Skadi,6,Deep Sea Predators,All 【Abyssal Hunters】 operatives gain Attack power +7%,Elite 1 Lvl 1,0
+,,Deep Sea Predators,All 【Abyssal Hunters】 operatives gain Attack power +9% (+2%),Elite 1 Lvl 1,4
+,,Deep Sea Predators,All 【Abyssal Hunters】 operatives gain Attack power +14%,Elite 2 Lvl 1,0
+,,Deep Sea Predators,All 【Abyssal Hunters】 operatives gain Attack power +16% (+2%),Elite 2 Lvl 1,4
+,,Swift Deployment,Self redeploy time -10 seconds,Elite 2 Lvl 1,0

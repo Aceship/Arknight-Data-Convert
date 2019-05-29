@@ -21,6 +21,10 @@ Vigna,4,Brute Thrust,"When attacking, 10% chance to increase Attack power by +50
 ,,Assault Leader,Deployment cost of all 【Vanguard】 operatives in the same team -1,Elite 2 Lvl 1,0
 Texas,5,Tactical Delivery,Obtain an additional 1 initial cost on battle start,Elite 1 Lvl 1,0
 ,,Tactical Delivery,Obtain an additional 2 initial cost on battle start,Elite 2 Lvl 1,0
+Grani,5,Mounted Police,"When deployed, all 【Vanguard】 operatives gain 10% physical evasion",Elite 1 Lvl 1,0
+,,Mounted Police,"When deployed, all 【Vanguard】 operatives gain 15% (+5%) physical evasion",Elite 1 Lvl 1,4
+,,Mounted Police,"When deployed, all 【Vanguard】 operatives gain 20% physical evasion",Elite 2 Lvl 1,0
+,,Mounted Police,"When deployed, all 【Vanguard】 operatives gain 25% (+5%) physical evasion",Elite 2 Lvl 1,4
 Siege,6,King of Beasts,All 【Vanguard】 operatives gain Attack power and Defense power +4%,Elite 1 Lvl 1,0
 ,,King of Beasts,All 【Vanguard】 operatives gain Attack power and Defense power +6% (+2%),Elite 1 Lvl 1,4
 ,,King of Beasts,All 【Vanguard】 operatives gain Attack power and Defense power +8%,Elite 2 Lvl 1,0
