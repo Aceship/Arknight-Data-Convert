@@ -6,14 +6,15 @@ var fs = require('fs')
 // }
 let data = fs.readFileSync("./input/sniper.csv", 'utf8')
 let datacol = [
-    'caster',
-    'defender',
-    'guard',
-    'medic',
-    'sniper',
-    'specialist',
-    'supporter',
-    'vanguard'
+    // 'caster',
+    // 'defender',
+    // 'guard',
+    // 'medic',
+    // 'sniper',
+    // 'specialist',
+    // 'supporter',
+    // 'vanguard'
+    'all'
 ]
 let collectionData = []
 datacol.forEach(element => {
@@ -26,7 +27,7 @@ collectionData.forEach(element => {
     Object.assign(combinedData,element)
 });
 
-fs.writeFile(`./output/skills-tl.json`, JSON.stringify(combinedData, null, '\t'), function (err) {
+fs.writeFile(`./output/tl-skills.json`, JSON.stringify(combinedData, null, '\t'), function (err) {
         if (err) {
             return console.log(err);
         }
