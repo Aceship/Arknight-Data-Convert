@@ -83,6 +83,21 @@
 			"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends"
 		]
 	},
+	"skchr_greyy_2": {
+		"name": "Static Release",
+		"desc": [
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",
+			"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x"
+		]
+	},
 	"skcom_magic_rage[3]": {
 		"name": "Tactical Chanting·Type γ",
 		"desc": [
@@ -300,6 +315,18 @@
 			"Defense +{{def}:.0%}",
 			"Defense +{{def}:.0%}",
 			"Defense +{{def}:.0%}"
+		]
+	},
+	"skchr_spot_1": {
+		"name": "Secondary Healing Mode",
+		"desc": [
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)"
 		]
 	},
 	"skchr_yak_1": {
@@ -791,6 +818,36 @@
 			"Greatly reduce attack interval ({base_attack_time} seconds)"
 		]
 	},
+	"skchr_swire_1": {
+		"name": "Command Dispatch",
+		"desc": [
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Increase talent range, talent effect increased to {talent_scale}x",
+			"Greatly increase talent range, talent effect increased to {talent_scale}x",
+			"Greatly increase talent range, talent effect increased to {talent_scale}x",
+			"Greatly increase talent range, talent effect increased to {talent_scale}x",
+			"Greatly increase talent range, talent effect increased to {talent_scale}x"
+		]
+	},
+	"skchr_swire_2": {
+		"name": "Cooperative Combat",
+		"desc": [
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",
+			"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x"
+		]
+	},
 	"skcom_quickattack[3]": {
 		"name": "Swift Strike·Type γ",
 		"desc": [
@@ -971,6 +1028,51 @@
 			"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)"
 		]
 	},
+	"skchr_chen_1": {
+		"name": "Sheath Strike",
+		"desc": [
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",
+			"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds"
+		]
+	},
+	"skchr_chen_2": {
+		"name": "Crimson Firmament·Quick Draw",
+		"desc": [
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",
+			"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator"
+		]
+	},
+	"skchr_chen_3": {
+		"name": "Crimson Firmament·Shadow Assault",
+		"desc": [
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",
+			"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit"
+		]
+	},
 	"skchr_skadi_2": {
 		"name": "Wave Leaping Strike",
 		"desc": [
@@ -1100,6 +1202,21 @@
 			"Attack +{{atk}:.0%}"
 		]
 	},
+	"skchr_susuro_2": {
+		"name": "Deep Healing",
+		"desc": [
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",
+			"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle"
+		]
+	},
 	"skchr_flower_2": {
 		"name": "Fine-tuning",
 		"desc": [
@@ -1188,6 +1305,36 @@
 			"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",
 			"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",
 			"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds"
+		]
+	},
+	"skchr_ceylon_1": {
+		"name": "Concentrated Hydrotherapy",
+		"desc": [
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges",
+			"The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges"
+		]
+	},
+	"skchr_ceylon_2": {
+		"name": "Water Spirit's Protection",
+		"desc": [
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",
+			"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)"
 		]
 	},
 	"skchr_shining_1": {
@@ -1559,6 +1706,51 @@
 			"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval to a certain extent ({base_attack_time} seconds). Automatic activation"
 		]
 	},
+	"skchr_shwaz_1": {
+		"name": "Augment Crossbow",
+		"desc": [
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",
+			"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}"
+		]
+	},
+	"skchr_shwaz_2": {
+		"name": "Sharp Twilight Eye",
+		"desc": [
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}"
+		]
+	},
+	"skchr_shwaz_3": {
+		"name": "Termination of Tactics",
+		"desc": [
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",
+			"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}"
+		]
+	},
 	"skchr_gravel_1": {
 		"name": "Shadow Raid",
 		"desc": [
@@ -1914,6 +2106,36 @@
 			"Attack +{{atk}:.0%}, increase attack range and attack 2 additional targets",
 			"Attack +{{atk}:.0%}, increase attack range and attack 2 additional targets",
 			"Attack +{{atk}:.0%}, increase attack range and attack 2 additional targets"
+		]
+	},
+	"skchr_glacus_1": {
+		"name": "Parallel Reload",
+		"desc": [
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target",
+			"Attack +{{atk}:.0%}, attack an additional target"
+		]
+	},
+	"skchr_glacus_2": {
+		"name": "Counter EMP",
+		"desc": [
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun].",
+			"Release a shockwave outwards, dealing {{atk_scale[normal]}:.0%} magical damage to nearby enemies and [Freeze] them (unable to move) for {frozen} seconds. If the enemy is a [Drone], damage is doubled and the effect is changed to [Stun]."
 		]
 	},
 	"skchr_sora_1": {

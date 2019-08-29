@@ -1,0 +1,45 @@
+﻿"Character","Rarity","Talent Name","Talent Description","Required Level","Required Potential Rank"
+"Rangers",2,"Anti-air Master","When attacking flying targets, Attack +50%","Lvl 30",0
+"Kroos",3,"Weakpoint Aiming·Beginner","When attacking, 10% chance to increase Attack to 150%","Elite 1 Lvl 1",0
+,,"Weakpoint Aiming·Beginner","When attacking, 10% chance to increase Attack to 160% (+10%)","Elite 1 Lvl 1",4
+,,"Weakpoint Aiming·Beginner","When attacking, 20% chance to increase Attack to 150%","Elite 1 Lvl 55",0
+,,"Weakpoint Aiming·Beginner","When attacking, 20% chance to increase Attack to 160% (+10%)","Elite 1 Lvl 55",4
+"Adnachiel",3,"Weakness Breakthrough","Attack speed +4, prioritize attacking enemies using ranged weapons","Elite 1 Lvl 1",0
+,,"Weakness Breakthrough","Attack speed +8, prioritize attacking enemies using ranged weapons","Elite 1 Lvl 55",0
+"Catapult",3,"Lightening","Self deployment cost -1","Elite 1 Lvl 1",0
+"Jessica",4,"Rapid Magazine","Attack speed +6","Elite 1 Lvl 1",0
+,,"Rapid Magazine","Attack speed +12","Elite 2 Lvl 1",0
+"Meteor",4,"Anti-air Specialization","When attacking flying targets, Attack +20%","Elite 1 Lvl 1",0
+,,"Anti-air Specialization","When attacking flying targets, Attack +25% (+5%)","Elite 1 Lvl 1",4
+,,"Anti-air Specialization","When attacking flying targets, Attack +35%","Elite 2 Lvl 1",0
+,,"Anti-air Specialization","When attacking flying targets, Attack +40% (+5%)","Elite 2 Lvl 1",4
+"ShiraYuki",4,"Heavy Shuriken","Slightly increase attack interval (+0.2 seconds), however Attack +20%","Elite 2 Lvl 1",0
+"Blue Poison",5,"Neurotoxin","Attacks poison the target, dealing 30 magical damage every second for 3 seconds","Elite 1 Lvl 1",0
+,,"Neurotoxin","Attacks poison the target, dealing 40 (+10) magical damage every second for 3 seconds","Elite 1 Lvl 1",4
+,,"Neurotoxin","Attacks poison the target, dealing 75 magical damage every second for 3 seconds","Elite 2 Lvl 1",0
+,,"Neurotoxin","Attacks poison the target, dealing 85 (+10) magical damage every second for 3 seconds","Elite 2 Lvl 1",4
+"Platinum",5,"Charged Attack","The longer the interval since the last attack, the higher the Attack power of the next attack (Maximum 2.5 seconds, Attack 140%)","Elite 1 Lvl 1",0
+,,"Charged Attack","The longer the interval since the last attack, the higher the Attack power of the next attack (Maximum 2.5 seconds, Attack 150% (+10%))","Elite 1 Lvl 1",4
+,,"Charged Attack","The longer the interval since the last attack, the higher the Attack power of the next attack (Maximum 2.5 seconds, Attack 180%)","Elite 2 Lvl 1",0
+,,"Charged Attack","The longer the interval since the last attack, the higher the Attack power of the next attack (Maximum 2.5 seconds, Attack 190% (+10%))","Elite 2 Lvl 1",4
+"Meteorite",5,"High-explosive Modification","When attacking or using skills, 15% chance to increase Attack by +60%","Elite 1 Lvl 1",0
+,,"High-explosive Modification","When attacking or using skills, 30% chance to increase Attack by +60%","Elite 2 Lvl 1",0
+"Provence",5,"Hunting Arrow","When attacking, 20% chance to increase Attack to 140%. If the enemy is in the tile in front of Provence, the chance increases to 50%","Elite 1 Lvl 1",0
+,,"Hunting Arrow","When attacking, 20% chance to increase Attack to 150% (+10%). If the enemy is in the tile in front of Provence, the chance increases to 50%","Elite 1 Lvl 1",4
+,,"Hunting Arrow","When attacking, 20% chance to increase Attack to 180%. If the enemy is in the tile in front of Provence, the chance increases to 50%","Elite 2 Lvl 1",0
+,,"Hunting Arrow","When attacking, 20% chance to increase Attack to 190% (+10%). If the enemy is in the tile in front of Provence, the chance increases to 50%","Elite 2 Lvl 1",4
+"Firewatch",5,"Assassin","When attacking enemies wielding ranged weapons, Attack increases to 120%","Elite 1 Lvl 1",0
+,,"Assassin","When attacking enemies wielding ranged weapons, Attack increases to 125% (+5%)","Elite 1 Lvl 1",4
+,,"Assassin","When attacking enemies wielding ranged weapons, Attack increases to 140%","Elite 2 Lvl 1",0
+,,"Assassin","When attacking enemies wielding ranged weapons, Attack increases to 145% (+5%)","Elite 2 Lvl 1",4
+"Exusiai",6,"Rapid Magazine","Attack speed +6","Elite 1 Lvl 1",0
+,,"Rapid Magazine","Attack speed +9 (+3)","Elite 1 Lvl 1",2
+,,"Rapid Magazine","Attack speed +12","Elite 2 Lvl 1",0
+,,"Rapid Magazine","Attack speed +15 (+3)","Elite 2 Lvl 1",2
+,,"Angel's Blessings","Attack +6%, Max HP +10%. When deployed, grant the same effect to a random ally","Elite 2 Lvl 1",0
+,,"Angel's Blessings","Attack +8% (+2%), Max HP +13% (+3%). When deployed, grant the same effect to a random ally","Elite 2 Lvl 1",5
+"Schwarz",6,"Sharp Arrowhead","When attacking, 20% chance to increase Attack to 130%","Lvl 1",0
+,,"Armor-piercing Arrowhead","When attacking, 20% chance to increase Attack to 130% and decrease the target's Defense by 10% for 5 seconds","Elite 1 Lvl 1",0
+,,"Armor-piercing Arrowhead","When attacking, 20% chance to increase Attack to 160% and decrease the target's Defense by 20% for 5 seconds","Elite 2 Lvl 1",0
+,,"Crossfire","When Schwarz and at least one other 【Sniper】 operative are deployed, all 【Sniper】 operatives gain Attack +8%","Elite 2 Lvl 1",0
+,,"Crossfire","When Schwarz and at least one other 【Sniper】 operative are deployed, all 【Sniper】 operatives gain Attack +10% (+2%)","Elite 2 Lvl 1",5

@@ -4,7 +4,7 @@ var fs = require('fs')
 //     console.log("Usage: " + __filename + " path/to/directory");
 //     process.exit(-1);
 // }
-let charadetail = JSON.parse(fs.readFileSync("./excel/character_table.json","utf8"))
+let charadetail = JSON.parse(fs.readFileSync("./././excel/character_table.json","utf8"))
 let unread = JSON.parse(fs.readFileSync("./ace/tl-unreadablename.json","utf8"))
 var charalist= []
 Object.keys(charadetail).forEach(element => {
@@ -70,10 +70,11 @@ function ParseCSV(csv){
                     namesearch = ` (${currunread.name_en})`
                 }
                 console.log(charaname)
+                
                 charaname = charalist.find(search=>{
                     
                     if(search.name+namesearch==charaname){
-                        
+                        console.log(search.id)
                         return search.id
                     }
                         

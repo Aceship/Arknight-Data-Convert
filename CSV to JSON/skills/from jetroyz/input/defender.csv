@@ -13,6 +13,13 @@
 ,,,5,"Defense +{{def}:.0%}",45,0,30,
 ,,,6,"Defense +{{def}:.0%}",45,0,30,
 ,,,7,"Defense +{{def}:.0%}",40,0,30,
+"Spot",3,"Secondary Healing Mode",1,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,15,15,"Regen over time"
+,,,2,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,15,16,
+,,,3,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,15,17,
+,,,4,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,20,20,
+,,,5,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,20,21,
+,,,6,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,20,22,
+,,,7,"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",40,25,25,
 "Matterhorn",4,"Body Strengthening",1,"Max HP +{{max_hp}:.0%}, recover {{hp_recovery_per_sec}:.0f} HP every second",45,0,25,"Regen over time"
 ,,,2,"Max HP +{{max_hp}:.0%}, recover {{hp_recovery_per_sec}:.0f} HP every second",44,0,25,
 ,,,3,"Max HP +{{max_hp}:.0%}, recover {{hp_recovery_per_sec}:.0f} HP every second",43,0,25,
