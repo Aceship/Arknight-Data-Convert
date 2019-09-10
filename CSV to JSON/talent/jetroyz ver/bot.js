@@ -7,8 +7,8 @@ const splitEasy = require("csv-split-easy");
 // }
 let data = fs.readFileSync("./input/vanguard.csv", 'utf8')
 // let progress = fs.readFileSync("./input/progress.csv", 'utf8')
-let charadetail = JSON.parse(fs.readFileSync("./excel/character_table.json","utf8"))
-let unreadablename = JSON.parse(fs.readFileSync("./extra/tl-unreadablename.json","utf8"))
+let charadetail = JSON.parse(fs.readFileSync("../../../json/excel/character_table.json","utf8"))
+let unreadablename = JSON.parse(fs.readFileSync("../../../json/tl-unreadablename.json","utf8"))
 let datacol = [
     'caster',
     'defender',
@@ -26,8 +26,13 @@ let customjson = {}
 Object.keys(charadetail).forEach(element => {
     var currchara = charadetail[element]
     var currname = currchara.appellation
-    if(unreadablename[currchara.appellation]){
-        currname = `${currchara.appellation} (${unreadablename[currchara.appellation]})`
+
+
+    // console.log(unreadablename[currchara.appellation])
+    var checkUnread = unreadablename.find(search=>search.name == currchara.appellation)
+    console.log(checkUnread)
+    if(checkUnread){
+        currname = `${currchara.appellation} (${checkUnread.name_en})`
     }
     // console.log(currname)
     // console.log(currchara.skills)
@@ -94,6 +99,8 @@ fs.writeFile(`./output/tl-talents.json`, JSON.stringify(combinedData, null, '\t'
 // var currjson = createJSON(curr)
 
 // console.log(currjson)
+
+console.log(customjson)
 function createJSON(csv){
     var json={}
     var currChara =''
