@@ -1,204 +1,205 @@
-"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration",""
-"Lava","3","Tactical Chanting·Type α","1","Attack speed +{{attack_speed}:.0f}","50","","20",""
-"","","","2","Attack speed +{{attack_speed}:.0f}","50","","20",""
-"","","","3","Attack speed +{{attack_speed}:.0f}","50","","20",""
-"","","","4","Attack speed +{{attack_speed}:.0f}","45","","20",""
-"","","","5","Attack speed +{{attack_speed}:.0f}","45","","20",""
-"","","","6","Attack speed +{{attack_speed}:.0f}","45","","20",""
-"","","","7","Attack speed +{{attack_speed}:.0f}","40","","20",""
-"Steward","3","Powerful Strike·Type α","1","The next attack deals {{atk_scale}:.0%} damage","5","","",""
-"","","","2","The next attack deals {{atk_scale}:.0%} damage","5","","",""
-"","","","3","The next attack deals {{atk_scale}:.0%} damage","5","","",""
-"","","","4","The next attack deals {{atk_scale}:.0%} damage","4","","",""
-"","","","5","The next attack deals {{atk_scale}:.0%} damage","4","","",""
-"","","","6","The next attack deals {{atk_scale}:.0%} damage","4","","",""
-"","","","7","The next attack deals {{atk_scale}:.0%} damage","4","","",""
-"Haze","4","Attack Strengthening·Type β","1","Attack +{{atk}:.0%}","40","","25",""
-"","","","2","Attack +{{atk}:.0%}","40","","25",""
-"","","","3","Attack +{{atk}:.0%}","40","","25",""
-"","","","4","Attack +{{atk}:.0%}","37","","25",""
-"","","","5","Attack +{{atk}:.0%}","37","","25",""
-"","","","6","Attack +{{atk}:.0%}","37","","25",""
-"","","","7","Attack +{{atk}:.0%}","37","5","25",""
-"","","","8","Attack +{{atk}:.0%}","37","5","25",""
-"","","","9","Attack +{{atk}:.0%}","37","5","25",""
-"","","","10","Attack +{{atk}:.0%}","35","10","25",""
-"Haze","4","Crimson Eyes","1","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","2","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","3","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","4","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","5","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","6","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","","25",""
-"","","","7","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","30","","25",""
-"","","","8","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","30","","25",""
-"","","","9","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","30","","25",""
-"","","","10","Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","25","","25",""
-"Gitano","4","Tactical Chanting·Type β","1","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","2","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","3","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","4","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","5","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","6","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","7","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","8","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","9","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","10","Attack speed +{{attack_speed}:.0f}","35","10","25",""
-"Gitano","4","Fate","1","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","100","50","30",""
-"","","","2","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","100","50","30",""
-"","","","3","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","100","50","30",""
-"","","","4","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","95","50","30",""
-"","","","5","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","95","50","30",""
-"","","","6","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","95","50","30",""
-"","","","7","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","90","50","30",""
-"","","","8","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","90","50","30",""
-"","","","9","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","90","50","30",""
-"","","","10","Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends","85","50","30",""
-"Greyy","4","Tactical Chanting·Type β","1","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","2","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","3","Attack speed +{{attack_speed}:.0f}","45","","25",""
-"","","","4","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","5","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","6","Attack speed +{{attack_speed}:.0f}","40","","25",""
-"","","","7","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","8","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","9","Attack speed +{{attack_speed}:.0f}","37","5","25",""
-"","","","10","Attack speed +{{attack_speed}:.0f}","35","10","25",""
-"Greyy","4","Static Release","1","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","20",""
-"","","","2","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","21",""
-"","","","3","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","22",""
-"","","","4","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","23",""
-"","","","5","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","24",""
-"","","","6","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","25",""
-"","","","7","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","26",""
-"","","","8","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","27",""
-"","","","9","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","28",""
-"","","","10","Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x","60","","30",""
-"Amiya","5","Tactical Chanting·Type γ","1","Attack speed +{{attack_speed}:.0f}","40","","30",""
-"","","","2","Attack speed +{{attack_speed}:.0f}","40","","30",""
-"","","","3","Attack speed +{{attack_speed}:.0f}","40","","30",""
-"","","","4","Attack speed +{{attack_speed}:.0f}","35","5","30",""
-"","","","5","Attack speed +{{attack_speed}:.0f}","35","5","30",""
-"","","","6","Attack speed +{{attack_speed}:.0f}","35","5","30",""
-"","","","7","Attack speed +{{attack_speed}:.0f}","32","10","30",""
-"","","","8","Attack speed +{{attack_speed}:.0f}","32","10","30",""
-"","","","9","Attack speed +{{attack_speed}:.0f}","32","10","30",""
-"","","","10","Attack speed +{{attack_speed}:.0f}","30","15","30",""
-"Amiya","5","Mental Burst","1","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","2","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","3","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","4","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","5","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","6","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","7","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","8","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","9","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"","","","10","Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends","100","","25",""
-"Amiya","5","Chimaera","1","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","2","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","3","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","4","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","5","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","6","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","7","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","8","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","9","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"","","","10","Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends","120","","30",""
-"Skyfire","5","Attack Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","","30",""
-"","","","2","Attack +{{atk}:.0%}","40","","30",""
-"","","","3","Attack +{{atk}:.0%}","40","","30",""
-"","","","4","Attack +{{atk}:.0%}","37","5","30",""
-"","","","5","Attack +{{atk}:.0%}","37","5","30",""
-"","","","6","Attack +{{atk}:.0%}","37","5","30",""
-"","","","7","Attack +{{atk}:.0%}","35","10","30",""
-"","","","8","Attack +{{atk}:.0%}","34","10","30",""
-"","","","9","Attack +{{atk}:.0%}","33","10","30",""
-"","","","10","Attack +{{atk}:.0%}","30","15","30",""
-"Skyfire","5","Flame of Heaven","1","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","35","","25",""
-"","","","2","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","34","","25",""
-"","","","3","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","33","","25",""
-"","","","4","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","32","","28",""
-"","","","5","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","31","","28",""
-"","","","6","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","30","","28",""
-"","","","7","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","29","","31",""
-"","","","8","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","28","","33",""
-"","","","9","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","27","","35",""
-"","","","10","Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds","25","","40",""
-"Nightmare","5","Soul Absorption","1","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","30","60",""
-"","","","2","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","30","60",""
-"","","","3","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","30","60",""
-"","","","4","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","35","60",""
-"","","","5","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","35","60",""
-"","","","6","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","35","60",""
-"","","","7","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","40","60",""
-"","","","8","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","43","60",""
-"","","","9","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","46","60",""
-"","","","10","Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt","80","50","60",""
-"Nightmare","5","Nightmare Shadow","1","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","30","","-1",""
-"","","","2","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","29","","-1",""
-"","","","3","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","28","","-1",""
-"","","","4","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","27","","-1",""
-"","","","5","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","26","","-1",""
-"","","","6","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","25","","-1",""
-"","","","7","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","24","","-1",""
-"","","","8","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","23","","-1",""
-"","","","9","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","22","","-1",""
-"","","","10","Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds","20","","-1",""
-"Ifrit","6","Fanaticism","1","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","50","","20",""
-"","","","2","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","49","","20",""
-"","","","3","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","48","","20",""
-"","","","4","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","47","10","20",""
-"","","","5","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","46","10","20",""
-"","","","6","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","45","10","20",""
-"","","","7","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","44","15","20",""
-"","","","8","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","43","15","20",""
-"","","","9","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","42","15","20",""
-"","","","10","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","40","20","20",""
-"Ifrit","6","Sunburst","1","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","9","","-1",""
-"","","","2","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","9","","-1",""
-"","","","3","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","9","","-1",""
-"","","","4","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","8","","-1",""
-"","","","5","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","8","","-1",""
-"","","","6","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","8","","-1",""
-"","","","7","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","8","","-1",""
-"","","","8","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","9","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","10","The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"Ifrit","6","Burning Ground","1","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","40","","20",""
-"","","","2","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","39","","20",""
-"","","","3","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","38","","20",""
-"","","","4","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","36","","20",""
-"","","","5","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","35","","20",""
-"","","","6","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","34","","20",""
-"","","","7","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","31","","20",""
-"","","","8","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","30","","20",""
-"","","","9","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","29","","20",""
-"","","","10","Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second","28","","20",""
-"Eyjafjalla","6","Double Chant","1","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","45","10","25",""
-"","","","2","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","44","10","25",""
-"","","","3","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","43","10","25",""
-"","","","4","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","42","15","25",""
-"","","","5","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","41","15","25",""
-"","","","6","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","40","15","25",""
-"","","","7","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","39","20","25",""
-"","","","8","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","38","20","25",""
-"","","","9","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","37","20","25",""
-"","","","10","Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}","35","25","25",""
-"Eyjafjalla","6","Ignite","1","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","2","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","3","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","4","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","5","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","6","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","7","","-1",""
-"","","","7","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","6","","-1",""
-"","","","8","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","6","","-1",""
-"","","","9","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","6","","-1",""
-"","","","10","The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","5","","-1",""
-"Eyjafjalla","6","Volcano","1","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","30","15",""
-"","","","2","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","31","15",""
-"","","","3","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","32","15",""
-"","","","4","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","33","15",""
-"","","","5","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","34","15",""
-"","","","6","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","35","15",""
-"","","","7","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","40","15",""
-"","","","8","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","45","15",""
-"","","","9","Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range","80","50","15",""
+﻿Character,Rarity,Skill Name,Skill Level,Skill Description,SP Cost,Initial SP,Skill Duration,Charging Type
+Lava,3,Tactical Chanting·Type α,1,Attack speed +{{attack_speed}:.0f},50,0,20,Regen over time
+,,,2,Attack speed +{{attack_speed}:.0f},50,0,20,
+,,,3,Attack speed +{{attack_speed}:.0f},50,0,20,
+,,,4,Attack speed +{{attack_speed}:.0f},45,0,20,
+,,,5,Attack speed +{{attack_speed}:.0f},45,0,20,
+,,,6,Attack speed +{{attack_speed}:.0f},45,0,20,
+,,,7,Attack speed +{{attack_speed}:.0f},40,0,20,
+Steward,3,Powerful Strike·Type α,1,The next attack deals {{atk_scale}:.0%} damage,5,0,0,Regen on attack
+,,,2,The next attack deals {{atk_scale}:.0%} damage,5,0,0,
+,,,3,The next attack deals {{atk_scale}:.0%} damage,5,0,0,
+,,,4,The next attack deals {{atk_scale}:.0%} damage,4,0,0,
+,,,5,The next attack deals {{atk_scale}:.0%} damage,4,0,0,
+,,,6,The next attack deals {{atk_scale}:.0%} damage,4,0,0,
+,,,7,The next attack deals {{atk_scale}:.0%} damage,4,0,0,
+Haze,4,Attack Strengthening·Type β,1,Attack +{{atk}:.0%},40,0,25,Regen over time
+,,,2,Attack +{{atk}:.0%},40,0,25,
+,,,3,Attack +{{atk}:.0%},40,0,25,
+,,,4,Attack +{{atk}:.0%},37,0,25,
+,,,5,Attack +{{atk}:.0%},37,0,25,
+,,,6,Attack +{{atk}:.0%},37,0,25,
+,,,7,Attack +{{atk}:.0%},37,5,25,
+,,,8,Attack +{{atk}:.0%},37,5,25,
+,,,9,Attack +{{atk}:.0%},37,5,25,
+,,,10,Attack +{{atk}:.0%},35,10,25,
+Haze,4,Crimson Eyes,1,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,Regen over time
+,,,2,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,
+,,,3,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,
+,,,4,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,
+,,,5,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,
+,,,6,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,0,25,
+,,,7,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",30,0,25,
+,,,8,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",30,0,25,
+,,,9,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",30,0,25,
+,,,10,"Max HP {{max_hp}:.0%}, Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",25,0,25,
+Gitano,4,Tactical Chanting·Type β,1,Attack speed +{{attack_speed}:.0f},45,0,25,Regen over time
+,,,2,Attack speed +{{attack_speed}:.0f},45,0,25,
+,,,3,Attack speed +{{attack_speed}:.0f},45,0,25,
+,,,4,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,5,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,6,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,7,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,8,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,9,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,10,Attack speed +{{attack_speed}:.0f},35,10,25,
+Gitano,4,Fate,1,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",100,50,30,Regen over time
+,,,2,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",100,50,30,
+,,,3,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",100,50,30,
+,,,4,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",95,50,30,
+,,,5,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",95,50,30,
+,,,6,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",95,50,30,
+,,,7,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",90,50,30,
+,,,8,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",90,50,30,
+,,,9,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",90,50,30,
+,,,10,"Attack +{{atk}:.0%}, increase attack range and attack all enemies within range simultaneously. Stops attacking for {{time}:.0f} seconds after skill ends",85,50,30,
+Greyy,4,Tactical Chanting·Type β,1,Attack speed +{{attack_speed}:.0f},45,0,25,Regen over time
+,,,2,Attack speed +{{attack_speed}:.0f},45,0,25,
+,,,3,Attack speed +{{attack_speed}:.0f},45,0,25,
+,,,4,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,5,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,6,Attack speed +{{attack_speed}:.0f},40,0,25,
+,,,7,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,8,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,9,Attack speed +{{attack_speed}:.0f},37,5,25,
+,,,10,Attack speed +{{attack_speed}:.0f},35,10,25,
+Greyy,4,Static Release,1,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,20,Regen over time
+,,,2,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,21,
+,,,3,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,22,
+,,,4,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,23,
+,,,5,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,24,
+,,,6,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,25,
+,,,7,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,26,
+,,,8,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,27,
+,,,9,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,28,
+,,,10,"Attack speed +{{attack_speed}:.0f}, duration of talent effect increased to {talent_scale}x",60,0,30,
+Amiya,5,Tactical Chanting·Type γ,1,Attack speed +{{attack_speed}:.0f},40,0,30,Regen over time
+,,,2,Attack speed +{{attack_speed}:.0f},40,0,30,
+,,,3,Attack speed +{{attack_speed}:.0f},40,0,30,
+,,,4,Attack speed +{{attack_speed}:.0f},35,5,30,
+,,,5,Attack speed +{{attack_speed}:.0f},35,5,30,
+,,,6,Attack speed +{{attack_speed}:.0f},35,5,30,
+,,,7,Attack speed +{{attack_speed}:.0f},32,10,30,
+,,,8,Attack speed +{{attack_speed}:.0f},32,10,30,
+,,,9,Attack speed +{{attack_speed}:.0f},32,10,30,
+,,,10,Attack speed +{{attack_speed}:.0f},30,15,30,
+Amiya,5,Mental Burst,1,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,Regen over time
+,,,2,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,3,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,4,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,5,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,6,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,7,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,8,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,9,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+,,,10,"Every attack deals {{attack@times}:.0f} hits at {{attack@atk_scale}:.0%} damage each to random enemies within attack range. Automatic activation, Amiya is stunned for {{stun}:.0f} seconds after the skill ends",100,0,25,
+Amiya,5,Chimaera,1,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,Regen over time
+,,,2,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,3,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,4,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,5,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,6,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,7,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,8,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,9,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+,,,10,"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",120,0,30,
+Skyfire,5,Attack Strengthening·Type γ,1,Attack +{{atk}:.0%},40,0,30,Regen over time
+,,,2,Attack +{{atk}:.0%},40,0,30,
+,,,3,Attack +{{atk}:.0%},40,0,30,
+,,,4,Attack +{{atk}:.0%},37,5,30,
+,,,5,Attack +{{atk}:.0%},37,5,30,
+,,,6,Attack +{{atk}:.0%},37,5,30,
+,,,7,Attack +{{atk}:.0%},35,10,30,
+,,,8,Attack +{{atk}:.0%},34,10,30,
+,,,9,Attack +{{atk}:.0%},33,10,30,
+,,,10,Attack +{{atk}:.0%},30,15,30,
+Skyfire,5,Flame of Heaven,1,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",35,0,25,Regen over time
+,,,2,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",34,0,25,
+,,,3,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",33,0,25,
+,,,4,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",32,0,28,
+,,,5,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",31,0,28,
+,,,6,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",30,0,28,
+,,,7,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",29,0,31,
+,,,8,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",28,0,33,
+,,,9,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",27,0,35,
+,,,10,"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",25,0,40,
+Nightmare,5,Soul Absorption,1,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,30,60,Regen over time
+,,,2,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,30,60,
+,,,3,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,30,60,
+,,,4,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,35,60,
+,,,5,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,35,60,
+,,,6,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,35,60,
+,,,7,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,40,60,
+,,,8,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,43,60,
+,,,9,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,46,60,
+,,,10,Every attack will heal up to {{attack@max_target}:.0f} allies within attack range for {{attack@heal_scale}:.0%} of the damage dealt,80,50,60,
+Nightmare,5,Nightmare Shadow,1,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",30,0,-1,Regen over time
+,,,2,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",29,0,-1,
+,,,3,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",28,0,-1,
+,,,4,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",27,0,-1,
+,,,5,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",26,0,-1,
+,,,6,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",25,0,-1,
+,,,7,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",24,0,-1,
+,,,8,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",23,0,-1,
+,,,9,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",22,0,-1,
+,,,10,"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",20,0,-1,
+Ifrit,6,Fanaticism,1,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",50,0,20,Regen over time
+,,,2,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",49,0,20,
+,,,3,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",48,0,20,
+,,,4,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",47,10,20,
+,,,5,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",46,10,20,
+,,,6,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",45,10,20,
+,,,7,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",44,15,20,
+,,,8,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",43,15,20,
+,,,9,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",42,15,20,
+,,,10,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",40,20,20,
+Ifrit,6,Sunburst,1,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",9,0,-1,Regen over time
+,,,2,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",9,0,-1,
+,,,3,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",9,0,-1,
+,,,4,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",8,0,-1,
+,,,5,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",8,0,-1,
+,,,6,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",8,0,-1,
+,,,7,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",8,0,-1,
+,,,8,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,9,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,10,"The next attack deals {{atk_scale}:.0%} magical damage. Additionally, inflict {{def}:.0f} Defense and burn the target for 3 seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+Ifrit,6,Burning Ground,1,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",40,0,20,Regen over time
+,,,2,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",39,0,20,
+,,,3,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",38,0,20,
+,,,4,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",36,0,20,
+,,,5,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",35,0,20,
+,,,6,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",34,0,20,
+,,,7,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",31,0,20,
+,,,8,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",30,0,20,
+,,,9,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",29,0,20,
+,,,10,"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",28,0,20,
+Eyjafjalla,6,Double Chant,1,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",45,10,25,Regen over time
+,,,2,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",44,10,25,
+,,,3,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",43,10,25,
+,,,4,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",42,15,25,
+,,,5,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",41,15,25,
+,,,6,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",40,15,25,
+,,,7,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",39,20,25,
+,,,8,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",38,20,25,
+,,,9,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",37,20,25,
+,,,10,"Attack speed +{{amgoat_s_1[a].attack_speed}:.0f}. On the 2nd cast and onwards, additionally increase Attack by +{{amgoat_s_1[b].atk}:.0%}",35,25,25,
+Eyjafjalla,6,Ignite,1,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,Regen over time
+,,,2,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,3,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,4,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,5,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,6,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",7,0,-1,
+,,,7,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",6,0,-1,
+,,,8,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",6,0,-1,
+,,,9,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",6,0,-1,
+,,,10,"The next attack deals {{fk}:.0%} magical damage, with enemies nearby the target receiving half the damage. Additionally, inflict {{magic_resistance}:.0%} Magic resistance to all targets for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",5,0,-1,
+Eyjafjalla,6,Volcano,1,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,30,15,Regen over time
+,,,2,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,31,15,
+,,,3,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,32,15,
+,,,4,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,33,15,
+,,,5,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,34,15,
+,,,6,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,35,15,
+,,,7,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,40,15,
+,,,8,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,45,15,
+,,,9,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,50,15,
+,,,10,"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",80,55,15,

@@ -31,7 +31,7 @@ let datacol = [
     // 'all'
 ]
 console.log(datacol.length)
-// for(i=0;i<datacol.length;i++){
+// for(i=0;i<datacol.length+1  ;i++){
 //     var currsheetName = workbook.SheetNames[i]
 //     var currentsheet = workbook.Sheets[workbook.SheetNames[i]]
 //     // var csv = XLSX.utils.sheet_to_csv(currentsheet,{FS:"\t",RS:"\n"})

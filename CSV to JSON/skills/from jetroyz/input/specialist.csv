@@ -1,140 +1,141 @@
-"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration",""
-"Gravel","4","Shadow Raid","1","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","2","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","3","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","4","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","5","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","6","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","7","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","8","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","9","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","10","Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"Gravel","4","Rat Pack","1","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","2","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","3","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","4","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","5","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","6","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","7","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","8","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","9","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"","","","10","Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds","","","-1",""
-"Rope","4","Hook Shot","1","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage","7","","",""
-"","","","2","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage","7","","",""
-"","","","3","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage","7","","",""
-"","","","4","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","5","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","6","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","7","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"","","","8","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"","","","9","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"","","","10","The next attack will pull the enemy towards self with large force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"Rope","4","Duplex Hook","1","Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage","25","10","",""
-"","","","2","Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage","24","10","",""
-"","","","3","Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage","23","10","",""
-"","","","4","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","22","10","",""
-"","","","5","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","21","10","",""
-"","","","6","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","20","10","",""
-"","","","7","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","19","10","",""
-"","","","8","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","18","10","",""
-"","","","9","Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage","17","10","",""
-"","","","10","Pull 2 faraway enemies towards self with large force, dealing {{atk_scale}:.0%} physical damage","15","10","",""
-"Shaw","4","Steam Pump","1","The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","2","The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","3","The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","4","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","5","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","6","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","7","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","6","","",""
-"","","","8","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"","","","9","The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"","","","10","The next attack will push the target away with large force, dealing {{atk_scale}:.0%} physical damage","5","","",""
-"Shaw","4","High-pressure Water Cannon","1","Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","2","Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","3","Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","4","Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","5","Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","6","Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","7","Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage","20","","",""
-"","","","8","Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage","19","","",""
-"","","","9","Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage","18","","",""
-"","","","10","Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage","17","","",""
-"Projekt Red","5","Execution Mode","1","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","2","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","3","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","4","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","5","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","6","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","7","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","8","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","9","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"","","","10","Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion","","","10",""
-"Projekt Red","5","Wolf Pack","1","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","2","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","3","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","4","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","5","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","6","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","7","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","8","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","9","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"","","","10","Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds","","","",""
-"Cliffheart","5","Chain Hook","1","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage","7","","",""
-"","","","2","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage","7","","",""
-"","","","3","The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage","7","","",""
-"","","","4","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","6","","",""
-"","","","5","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","6","","",""
-"","","","6","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","6","","",""
-"","","","7","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","5","","",""
-"","","","8","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","5","","",""
-"","","","9","The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage","5","","",""
-"","","","10","The next attack will pull the enemy towards self with large force, dealing {{atk_scale}:.0%} magical damage","4","","",""
-"Cliffheart","5","Binding Chain","1","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","25","10","",""
-"","","","2","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","24","10","",""
-"","","","3","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","23","10","",""
-"","","","4","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","22","10","",""
-"","","","5","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","21","10","",""
-"","","","6","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","20","10","",""
-"","","","7","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","19","10","",""
-"","","","8","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","18","10","",""
-"","","","9","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","17","10","",""
-"","","","10","Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with large force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds","15","10","",""
-"Manticore","5","Scorpion Venom","1","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","2","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","3","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","4","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","5","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","6","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","7","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","8","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","9","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"","","","10","Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","","","-1",""
-"Manticore","5","Charging Poison Strike","1","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","31",""
-"","","","2","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","32",""
-"","","","3","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","33",""
-"","","","4","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","34",""
-"","","","5","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","35",""
-"","","","6","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","","36",""
-"","","","7","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","5","37",""
-"","","","8","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","6","38",""
-"","","","9","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","8","39",""
-"","","","10","Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds","20","10","40",""
-"FEater","5","Metallic Union","1","The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","2","The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","3","The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","4","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","5","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","6","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","7","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","6","","-1",""
-"","","","8","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","5","","-1",""
-"","","","9","The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","5","","-1",""
-"","","","10","The next attack will push the target away with large force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds","5","","-1",""
-"FEater","5","Collapsing Strike","1","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","20","","-1",""
-"","","","2","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","20","","-1",""
-"","","","3","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","20","","-1",""
-"","","","4","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","19","","-1",""
-"","","","5","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","19","","-1",""
-"","","","6","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","19","","-1",""
-"","","","7","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","18","","-1",""
-"","","","8","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","17","","-1",""
-"","","","9","Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds","16","","-1",""
+﻿Character,Rarity,Skill Name,Skill Level,Skill Description,SP Cost,Initial SP,Skill Duration,Charging Type
+Gravel,4,Shadow Raid,1,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,Passive
+,,,2,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,3,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,4,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,5,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,6,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,7,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,8,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,9,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,10,"Defense +{{def}:.0%} after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+Gravel,4,Rat Pack,1,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,Passive
+,,,2,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,3,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,4,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,5,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,6,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,7,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,8,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,9,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+,,,10,"Obtain a shield that absorbs damage equal to {{hp_ratio}:.0%} of Max HP after deploying, effect weakens over {{duration}:.0f} seconds",0,0,-1,
+Rope,4,Hook Shot,1,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage",7,0,0,Regen over time
+,,,2,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage",7,0,0,
+,,,3,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage",7,0,0,
+,,,4,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,5,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,6,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,7,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+,,,8,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+,,,9,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+,,,10,"The next attack will pull the enemy towards self with large force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+Rope,4,Duplex Hook,1,"Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage",25,10,0,Regen over time
+,,,2,"Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage",24,10,0,
+,,,3,"Pull 2 faraway enemies towards self with small force, dealing {{atk_scale}:.0%} physical damage",23,10,0,
+,,,4,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",22,10,0,
+,,,5,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",21,10,0,
+,,,6,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",20,10,0,
+,,,7,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",19,10,0,
+,,,8,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",18,10,0,
+,,,9,"Pull 2 faraway enemies towards self with medium force, dealing {{atk_scale}:.0%} physical damage",17,10,0,
+,,,10,"Pull 2 faraway enemies towards self with large force, dealing {{atk_scale}:.0%} physical damage",15,10,0,
+Shaw,4,Steam Pump,1,"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage",6,0,0,Regen over time
+,,,2,"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,3,"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,4,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,5,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,6,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,7,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",6,0,0,
+,,,8,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+,,,9,"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+,,,10,"The next attack will push the target away with large force, dealing {{atk_scale}:.0%} physical damage",5,0,0,
+Shaw,4,High-pressure Water Cannon,1,"Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage",20,0,0,Regen over time
+,,,2,"Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,3,"Immediately push away all enemies 2 tiles ahead with small force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,4,"Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,5,"Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,6,"Immediately push away all enemies 2 tiles ahead with medium force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,7,"Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage",20,0,0,
+,,,8,"Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage",19,0,0,
+,,,9,"Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage",18,0,0,
+,,,10,"Immediately push away all enemies 2 tiles ahead with large force, dealing {{atk_scale}:.0%} physical damage",17,0,0,
+Projekt Red,5,Execution Mode,1,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,Passive
+,,,2,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,3,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,4,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,5,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,6,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,7,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,8,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,9,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+,,,10,"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",0,0,10,
+Projekt Red,5,Wolf Pack,1,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,Passive
+,,,2,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,3,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,4,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,5,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,6,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,7,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,8,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,9,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+,,,10,Immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies after deploying and stun them for {stun} seconds,0,0,0,
+Cliffheart,5,Chain Hook,1,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage",7,0,0,Regen over time
+,,,2,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage",7,0,0,
+,,,3,"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} magical damage",7,0,0,
+,,,4,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",6,0,0,
+,,,5,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",6,0,0,
+,,,6,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",6,0,0,
+,,,7,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",5,0,0,
+,,,8,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",5,0,0,
+,,,9,"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} magical damage",5,0,0,
+,,,10,"The next attack will pull the enemy towards self with large force, dealing {{atk_scale}:.0%} magical damage",4,0,0,
+Cliffheart,5,Binding Chain,1,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",25,10,0,Regen over time
+,,,2,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",24,10,0,
+,,,3,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",23,10,0,
+,,,4,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",22,10,0,
+,,,5,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",21,10,0,
+,,,6,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",20,10,0,
+,,,7,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",19,10,0,
+,,,8,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",18,10,0,
+,,,9,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",17,10,0,
+,,,10,"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with large force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",15,10,0,
+Manticore,5,Scorpion Venom,1,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,Passive
+,,,2,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,3,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,4,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,5,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,6,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,7,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,8,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,9,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+,,,10,Every attack inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds,0,0,-1,
+Manticore,5,Charging Poison Strike,1,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,31,Regen over time
+,,,2,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,32,
+,,,3,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,33,
+,,,4,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,34,
+,,,5,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,35,
+,,,6,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,0,36,
+,,,7,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,5,37,
+,,,8,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,6,38,
+,,,9,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,8,39,
+,,,10,"Slows pre-attack animation, increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}. Attacked targets are stunned for {attack@stun} seconds",20,10,40,
+FEater,5,Metallic Union,1,"The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,Regen over time
+,,,2,"The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,3,"The next attack will push the target away with small force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,4,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,5,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,6,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,7,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",6,0,-1,
+,,,8,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",5,0,-1,
+,,,9,"The next attack will push the target away with medium force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",5,0,-1,
+,,,10,"The next attack will push the target away with large force, inflicting {{move_speed}:.0%} movement speed for {{duration}:.0f} seconds",5,0,-1,
+FEater,5,Collapsing Strike,1,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",20,0,-1,Regen over time
+,,,2,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",20,0,-1,
+,,,3,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",20,0,-1,
+,,,4,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",19,0,-1,
+,,,5,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",19,0,-1,
+,,,6,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with medium force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",19,0,-1,
+,,,7,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",18,0,-1,
+,,,8,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",17,0,-1,
+,,,9,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with large force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",16,0,-1,
+,,,10,"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with huge force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds",15,0,-1,
