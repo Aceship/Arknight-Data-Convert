@@ -1,402 +1,401 @@
-﻿"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration","Charging Type"
-"Melantha",3,"Attack Strengthening·Type α",1,"Attack +{{atk}:.0%}",50,0,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",50,0,20,
-,,,3,"Attack +{{atk}:.0%}",50,0,20,
-,,,4,"Attack +{{atk}:.0%}",45,0,20,
-,,,5,"Attack +{{atk}:.0%}",45,0,20,
-,,,6,"Attack +{{atk}:.0%}",45,0,20,
-,,,7,"Attack +{{atk}:.0%}",40,0,20,
-"Popukar",3,"Attack Strengthening·Type α",1,"Attack +{{atk}:.0%}",50,0,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",50,0,20,
-,,,3,"Attack +{{atk}:.0%}",50,0,20,
-,,,4,"Attack +{{atk}:.0%}",45,0,20,
-,,,5,"Attack +{{atk}:.0%}",45,0,20,
-,,,6,"Attack +{{atk}:.0%}",45,0,20,
-,,,7,"Attack +{{atk}:.0%}",40,0,20,
-"Midnight",3,"Weapon Enchanting·Type α",1,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",80,20,30,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",79,20,31,
-,,,3,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",78,20,32,
-,,,4,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",75,25,35,
-,,,5,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",74,25,36,
-,,,6,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",73,25,37,
-,,,7,"Attack +{{atk}:.0%}, change damage type of normal attack to magical damage",70,30,40,
-"Dobermann",4,"Powerful Strike·Type β",1,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,"Regen on attack"
-,,,2,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,3,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,4,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,5,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,6,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,7,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,8,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,9,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,10,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-"Dobermann",4,"Supervision",1,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",80,30,25,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",79,30,25,
-,,,3,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",78,30,25,
-,,,4,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",77,32,25,
-,,,5,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",76,32,25,
-,,,6,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",75,32,25,
-,,,7,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",74,34,25,
-,,,8,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",73,36,25,
-,,,9,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",72,38,25,
-,,,10,"Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x",70,40,25,
-"Matoimaru",4,"Health Recovery·Type β",1,"Immediately recover {{heal_scale}:.0%} of Max HP",30,0,0,"Regen over time"
-,,,2,"Immediately recover {{heal_scale}:.0%} of Max HP",29,0,0,
-,,,3,"Immediately recover {{heal_scale}:.0%} of Max HP",28,0,0,
-,,,4,"Immediately recover {{heal_scale}:.0%} of Max HP",27,3,0,
-,,,5,"Immediately recover {{heal_scale}:.0%} of Max HP",26,3,0,
-,,,6,"Immediately recover {{heal_scale}:.0%} of Max HP",25,3,0,
-,,,7,"Immediately recover {{heal_scale}:.0%} of Max HP",24,7,0,
-,,,8,"Immediately recover {{heal_scale}:.0%} of Max HP",23,8,0,
-,,,9,"Immediately recover {{heal_scale}:.0%} of Max HP",22,9,0,
-,,,10,"Immediately recover {{heal_scale}:.0%} of Max HP",20,10,0,
-"Matoimaru",4,"Demon Strength",1,"Reduce Defense to 0, Attack +{{atk}:.0%}",35,0,10,"Regen over time"
-,,,2,"Reduce Defense to 0, Attack +{{atk}:.0%}",35,0,10,
-,,,3,"Reduce Defense to 0, Attack +{{atk}:.0%}",35,0,10,
-,,,4,"Reduce Defense to 0, Attack +{{atk}:.0%}",32,0,11,
-,,,5,"Reduce Defense to 0, Attack +{{atk}:.0%}",32,0,11,
-,,,6,"Reduce Defense to 0, Attack +{{atk}:.0%}",32,0,11,
-,,,7,"Reduce Defense to 0, Attack +{{atk}:.0%}",29,5,12,
-,,,8,"Reduce Defense to 0, Attack +{{atk}:.0%}",28,6,13,
-,,,9,"Reduce Defense to 0, Attack +{{atk}:.0%}",27,7,14,
-,,,10,"Reduce Defense to 0, Attack +{{atk}:.0%}",25,10,15,
-"Frostleaf",4,"Frosty Spear",1,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",5,0,-1,"Regen over time"
-,,,2,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",5,0,-1,
-,,,3,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",5,0,-1,
-,,,4,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",4,0,-1,
-,,,5,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",4,0,-1,
-,,,6,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",4,0,-1,
-,,,7,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",4,0,-1,
-,,,8,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",3,0,-1,
-,,,9,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",3,0,-1,
-,,,10,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds",3,0,-1,
-"Frostleaf",4,"Freezing Spear",1,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",60,0,25,"Regen over time"
-,,,2,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",59,0,25,
-,,,3,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",58,0,25,
-,,,4,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",57,0,25,
-,,,5,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",56,0,25,
-,,,6,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",55,0,25,
-,,,7,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",54,0,25,
-,,,8,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",53,0,25,
-,,,9,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",52,0,25,
-,,,10,"Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds",50,0,25,
-"Estelle",4,"Attack Strengthening·Type β",1,"Attack +{{atk}:.0%}",40,0,25,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",40,0,25,
-,,,3,"Attack +{{atk}:.0%}",40,0,25,
-,,,4,"Attack +{{atk}:.0%}",37,0,25,
-,,,5,"Attack +{{atk}:.0%}",37,0,25,
-,,,6,"Attack +{{atk}:.0%}",37,0,25,
-,,,7,"Attack +{{atk}:.0%}",37,5,25,
-,,,8,"Attack +{{atk}:.0%}",37,5,25,
-,,,9,"Attack +{{atk}:.0%}",37,5,25,
-,,,10,"Attack +{{atk}:.0%}",35,10,25,
-"Estelle",4,"Self-sacrifice",1,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",25,10,15,"Regen when attacked"
-,,,2,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",25,10,15,
-,,,3,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",25,10,15,
-,,,4,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",24,10,15,
-,,,5,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",24,10,15,
-,,,6,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",24,10,15,
-,,,7,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",23,10,15,
-,,,8,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",22,10,15,
-,,,9,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",21,10,15,
-,,,10,"Attack +{{atk}:.0%}, however become unable to be healed by other operators",20,10,15,
-"Mousse",4,"Cat Scratch",1,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",6,0,0,"Regen on attack"
-,,,2,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",6,0,0,
-,,,3,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",6,0,0,
-,,,4,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,5,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,6,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,7,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,8,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,9,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",5,0,0,
-,,,10,"The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds",4,0,0,
-"Mousse",4,"Bristling Fur",1,"Attack and Defense +{{atk}:.0%}",80,20,40,"Regen over time"
-,,,2,"Attack and Defense +{{atk}:.0%}",80,21,40,
-,,,3,"Attack and Defense +{{atk}:.0%}",80,22,40,
-,,,4,"Attack and Defense +{{atk}:.0%}",80,25,40,
-,,,5,"Attack and Defense +{{atk}:.0%}",80,26,40,
-,,,6,"Attack and Defense +{{atk}:.0%}",80,27,40,
-,,,7,"Attack and Defense +{{atk}:.0%}",80,30,40,
-,,,8,"Attack and Defense +{{atk}:.0%}",80,35,40,
-,,,9,"Attack and Defense +{{atk}:.0%}",80,40,40,
-,,,10,"Attack and Defense +{{atk}:.0%}",80,45,40,
-"Beehunter",4,"High Mobility",1,"Gain {{prob}:.0%} physical evasion",0,0,0,"Passive"
-,,,2,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,3,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,4,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,5,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,6,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,7,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,8,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,9,"Gain {{prob}:.0%} physical evasion",0,0,0,
-,,,10,"Gain {{prob}:.0%} physical evasion",0,0,0,
-"Beehunter",4,"Swift Punch",1,"Reduce attack interval ({base_attack_time} seconds)",40,0,10,"Regen over time"
-,,,2,"Reduce attack interval ({base_attack_time} seconds)",39,0,10,
-,,,3,"Reduce attack interval ({base_attack_time} seconds)",38,0,10,
-,,,4,"Highly reduce attack interval ({base_attack_time} seconds)",35,0,10,
-,,,5,"Highly reduce attack interval ({base_attack_time} seconds)",34,0,10,
-,,,6,"Highly reduce attack interval ({base_attack_time} seconds)",33,0,10,
-,,,7,"Highly reduce attack interval ({base_attack_time} seconds)",30,0,10,
-,,,8,"Greatly reduce attack interval ({base_attack_time} seconds)",27,0,10,
-,,,9,"Greatly reduce attack interval ({base_attack_time} seconds)",24,0,10,
-,,,10,"Greatly reduce attack interval ({base_attack_time} seconds)",20,0,10,
-"Swire",5,"Command Dispatch",1,"Increase talent range, talent effect increased to {talent_scale}x",60,20,15,"Regen over time"
-,,,2,"Increase talent range, talent effect increased to {talent_scale}x",59,20,17,
-,,,3,"Increase talent range, talent effect increased to {talent_scale}x",58,20,19,
-,,,4,"Increase talent range, talent effect increased to {talent_scale}x",55,20,21,
-,,,5,"Increase talent range, talent effect increased to {talent_scale}x",54,20,23,
-,,,6,"Increase talent range, talent effect increased to {talent_scale}x",53,20,25,
-,,,7,"Greatly increase talent range, talent effect increased to {talent_scale}x",50,20,27,
-,,,8,"Greatly increase talent range, talent effect increased to {talent_scale}x",47,20,29,
-,,,9,"Greatly increase talent range, talent effect increased to {talent_scale}x",44,20,31,
-,,,10,"Greatly increase talent range, talent effect increased to {talent_scale}x",40,20,35,
-"Swire",5,"Cooperative Combat",1,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",60,20,15,"Regen on attack"
-,,,2,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",59,20,15,
-,,,3,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",58,20,15,
-,,,4,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",55,20,18,
-,,,5,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",54,20,18,
-,,,6,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",53,20,18,
-,,,7,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",50,20,21,
-,,,8,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",49,20,23,
-,,,9,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",48,20,26,
-,,,10,"Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x",45,20,30,
-"Franka",5,"Swift Strike·Type γ",1,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",45,0,35,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",44,0,35,
-,,,3,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",43,0,35,
-,,,4,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",42,5,35,
-,,,5,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",41,5,35,
-,,,6,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",40,5,35,
-,,,7,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",39,10,35,
-,,,8,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",38,10,35,
-,,,9,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",37,10,35,
-,,,10,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,15,35,
-"Franka",5,"Extreme Sharpness",1,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,20,"Regen over time"
-,,,2,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,20,
-,,,3,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,20,
-,,,4,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,23,
-,,,5,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,23,
-,,,6,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,0,23,
-,,,7,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,5,26,
-,,,8,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,5,27,
-,,,9,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,5,28,
-,,,10,"Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x",20,10,30,
-"Indra",5,"Armor-crushing Fist",1,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,"Regen on attack"
-,,,2,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,3,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,4,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,5,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,6,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,7,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,8,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,9,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-,,,10,"The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense",4,0,0,
-"Indra",5,"Soul Rend",1,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,0,25,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,0,25,
-,,,3,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,0,25,
-,,,4,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,5,25,
-,,,5,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,5,25,
-,,,6,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,5,25,
-,,,7,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,10,25,
-,,,8,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,15,25,
-,,,9,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,20,25,
-,,,10,"Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt",50,25,25,
-"Lappland",5,"Sundial",1,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",40,0,-1,"Regen on attack"
-,,,2,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",40,0,-1,
-,,,3,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",40,0,-1,
-,,,4,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",37,0,-1,
-,,,5,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",37,0,-1,
-,,,6,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",37,0,-1,
-,,,7,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",33,0,-1,
-,,,8,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",32,0,-1,
-,,,9,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",31,0,-1,
-,,,10,"Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration",30,0,-1,
-"Lappland",5,"Wolf Spirit",1,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",30,0,15,"Regen on attack"
-,,,2,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",29,0,15,
-,,,3,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",28,0,15,
-,,,4,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",27,0,15,
-,,,5,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",26,0,15,
-,,,6,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",25,0,15,
-,,,7,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",24,0,17,
-,,,8,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",22,0,17,
-,,,9,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",20,0,17,
-,,,10,"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation",17,0,20,
-"Specter",5,"Attack Strengthening·Type γ",1,"Attack +{{atk}:.0%}",40,0,30,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",40,0,30,
-,,,3,"Attack +{{atk}:.0%}",40,0,30,
-,,,4,"Attack +{{atk}:.0%}",37,5,30,
-,,,5,"Attack +{{atk}:.0%}",37,5,30,
-,,,6,"Attack +{{atk}:.0%}",37,5,30,
-,,,7,"Attack +{{atk}:.0%}",35,10,30,
-,,,8,"Attack +{{atk}:.0%}",34,10,30,
-,,,9,"Attack +{{atk}:.0%}",33,10,30,
-,,,10,"Attack +{{atk}:.0%}",30,15,30,
-"Specter",5,"Fractured Body",1,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,20,10,"Regen over time"
-,,,2,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,20,10,
-,,,3,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,20,10,
-,,,4,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,25,11,
-,,,5,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,25,11,
-,,,6,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",45,25,11,
-,,,7,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",43,30,12,
-,,,8,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",42,30,13,
-,,,9,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",41,30,14,
-,,,10,"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends",40,35,15,
-"Astesia",5,"Constellation Guardian",1,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",40,0,30,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",39,0,30,
-,,,3,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",38,0,30,
-,,,4,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",37,3,30,
-,,,5,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",36,3,30,
-,,,6,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",35,3,30,
-,,,7,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",34,6,30,
-,,,8,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",33,7,30,
-,,,9,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",32,8,30,
-,,,10,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}",30,10,30,
-"Astesia",5,"Starlight Blade",1,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",30,0,10,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",30,1,10,
-,,,3,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",30,2,10,
-,,,4,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",27,3,11,
-,,,5,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",27,4,11,
-,,,6,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",27,5,11,
-,,,7,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",24,6,12,
-,,,8,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",23,7,13,
-,,,9,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",22,8,14,
-,,,10,"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",20,10,15,
-"Savage",5,"Powerful Strike·Type β",1,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,"Regen on attack"
-,,,2,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,3,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,4,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,5,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,6,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,7,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,8,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,9,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,10,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-"Savage",5,"Millisecond Blasting",1,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,"Regen on attack"
-,,,2,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,
-,,,3,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,
-,,,4,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,
-,,,5,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,
-,,,6,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",20,0,0,
-,,,7,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",19,0,0,
-,,,8,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",19,0,0,
-,,,9,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",18,0,0,
-,,,10,"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator",17,0,0,
-"SilverAsh",6,"Powerful Strike·Type γ",1,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,"Regen on attack"
-,,,2,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,3,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,4,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,5,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,6,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,7,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,8,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,9,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-,,,10,"The next attack deals {{atk_scale}:.0%} damage",2,0,0,
-"SilverAsh",6,"Arctic Law of Survival",1,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,"Regen over time"
-,,,2,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,3,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,4,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,5,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,6,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,7,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,8,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,9,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-,,,10,"Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",5,0,0,
-"SilverAsh",6,"True Silver Slash",1,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,50,20,"Regen over time"
-,,,2,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,50,21,
-,,,3,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,50,22,
-,,,4,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,55,23,
-,,,5,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,55,24,
-,,,6,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,55,25,
-,,,7,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,60,26,
-,,,8,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,65,27,
-,,,9,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,70,28,
-,,,10,"Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)",90,75,30,
-"Ch'en",6,"Sheath Strike",1,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",7,0,0,"Regen on attack"
-,,,2,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",7,0,0,
-,,,3,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",7,0,0,
-,,,4,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",6,0,0,
-,,,5,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",6,0,0,
-,,,6,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",6,0,0,
-,,,7,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",5,0,0,
-,,,8,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",5,0,0,
-,,,9,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",5,0,0,
-,,,10,"On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds",4,0,0,
-"Ch'en",6,"Crimson Firmament·Quick Draw",1,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",27,10,0,"Regen on attack"
-,,,2,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",27,10,0,
-,,,3,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",27,10,0,
-,,,4,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",26,12,0,
-,,,5,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",26,12,0,
-,,,6,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",26,12,0,
-,,,7,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",25,14,0,
-,,,8,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",23,15,0,
-,,,9,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",21,16,0,
-,,,10,"Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator",20,20,0,
-"Ch'en",6,"Crimson Firmament·Shadow Assault",1,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",40,10,0,"Regen on attack"
-,,,2,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",40,10,0,
-,,,3,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",40,10,0,
-,,,4,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",38,10,0,
-,,,5,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",38,10,0,
-,,,6,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",38,10,0,
-,,,7,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",36,10,0,
-,,,8,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",34,13,0,
-,,,9,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",32,16,0,
-,,,10,"Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit",30,20,0,
-"Hellagur",6,"New Moon",1,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",4,0,0,"Regen on attack"
-,,,2,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",4,0,0,
-,,,3,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",4,0,0,
-,,,4,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,5,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,6,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,7,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,8,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,9,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",3,0,0,
-,,,10,"The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits",2,0,0,
-"Hellagur",6,"Crescent Moon",1,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",35,0,10,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",34,0,10,
-,,,3,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",33,0,10,
-,,,4,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",32,5,11,
-,,,5,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",31,5,11,
-,,,6,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",30,5,11,
-,,,7,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",29,10,12,
-,,,8,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",28,11,12,
-,,,9,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",27,12,12,
-,,,10,"Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion",25,15,13,
-"Hellagur",6,"Full Moon",1,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",45,15,12,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",45,15,12,
-,,,3,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",45,15,12,
-,,,4,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",43,15,13,
-,,,5,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",43,15,13,
-,,,6,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",43,15,13,
-,,,7,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",41,15,14,
-,,,8,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",39,15,14,
-,,,9,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",37,15,14,
-,,,10,"Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously",35,15,15,
-"Skadi",6,"Swift Strike·Type γ",1,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",45,0,35,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",44,0,35,
-,,,3,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",43,0,35,
-,,,4,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",42,5,35,
-,,,5,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",41,5,35,
-,,,6,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",40,5,35,
-,,,7,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",39,10,35,
-,,,8,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",38,10,35,
-,,,9,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",37,10,35,
-,,,10,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",35,15,35,
-"Skadi",6,"Wave Leaping Strike",1,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,"Passive"
-,,,2,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,3,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,4,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,5,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,6,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,7,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,8,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,9,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-,,,10,"Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying",0,0,-1,
-"Skadi",6,"Tidal Elegy",1,"Attack, Defense and Max HP +{{atk}:.0%}",90,50,35,"Regen over time"
-,,,2,"Attack, Defense and Max HP +{{atk}:.0%}",90,50,35,
-,,,3,"Attack, Defense and Max HP +{{atk}:.0%}",90,50,35,
-,,,4,"Attack, Defense and Max HP +{{atk}:.0%}",90,55,38,
-,,,5,"Attack, Defense and Max HP +{{atk}:.0%}",90,55,38,
-,,,6,"Attack, Defense and Max HP +{{atk}:.0%}",90,55,38,
-,,,7,"Attack, Defense and Max HP +{{atk}:.0%}",90,60,41,
-,,,8,"Attack, Defense and Max HP +{{atk}:.0%}",90,63,44,
-,,,9,"Attack, Defense and Max HP +{{atk}:.0%}",90,66,47,
-,,,10,"Attack, Defense and Max HP +{{atk}:.0%}",90,70,50,
+"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration",""
+"Melantha","3","Attack Strengthening·Type α","1","Attack +{{atk}:.0%}","50","","20",""
+"","","","2","Attack +{{atk}:.0%}","50","","20",""
+"","","","3","Attack +{{atk}:.0%}","50","","20",""
+"","","","4","Attack +{{atk}:.0%}","45","","20",""
+"","","","5","Attack +{{atk}:.0%}","45","","20",""
+"","","","6","Attack +{{atk}:.0%}","45","","20",""
+"","","","7","Attack +{{atk}:.0%}","40","","20",""
+"Popukar","3","Attack Strengthening·Type α","1","Attack +{{atk}:.0%}","50","","20",""
+"","","","2","Attack +{{atk}:.0%}","50","","20",""
+"","","","3","Attack +{{atk}:.0%}","50","","20",""
+"","","","4","Attack +{{atk}:.0%}","45","","20",""
+"","","","5","Attack +{{atk}:.0%}","45","","20",""
+"","","","6","Attack +{{atk}:.0%}","45","","20",""
+"","","","7","Attack +{{atk}:.0%}","40","","20",""
+"Midnight","3","Weapon Enchanting·Type α","1","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","80","20","30",""
+"","","","2","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","79","20","31",""
+"","","","3","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","78","20","32",""
+"","","","4","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","75","25","35",""
+"","","","5","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","74","25","36",""
+"","","","6","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","73","25","37",""
+"","","","7","Attack +{{atk}:.0%}, change damage type of normal attack to magical damage","70","30","40",""
+"Dobermann","4","Powerful Strike·Type β","1","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","2","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","3","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","4","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","5","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","6","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","7","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","8","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","9","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","10","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"Dobermann","4","Supervision","1","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","80","30","25",""
+"","","","2","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","79","30","25",""
+"","","","3","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","78","30","25",""
+"","","","4","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","77","32","25",""
+"","","","5","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","76","32","25",""
+"","","","6","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","75","32","25",""
+"","","","7","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","74","34","25",""
+"","","","8","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","73","36","25",""
+"","","","9","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","72","38","25",""
+"","","","10","Attack +{{atk}:.0%}, increase effect of self talent by {talent_scale}x","70","40","25",""
+"Matoimaru","4","Health Recovery·Type β","1","Immediately recover {{heal_scale}:.0%} of Max HP","30","","",""
+"","","","2","Immediately recover {{heal_scale}:.0%} of Max HP","29","","",""
+"","","","3","Immediately recover {{heal_scale}:.0%} of Max HP","28","","",""
+"","","","4","Immediately recover {{heal_scale}:.0%} of Max HP","27","3","",""
+"","","","5","Immediately recover {{heal_scale}:.0%} of Max HP","26","3","",""
+"","","","6","Immediately recover {{heal_scale}:.0%} of Max HP","25","3","",""
+"","","","7","Immediately recover {{heal_scale}:.0%} of Max HP","24","7","",""
+"","","","8","Immediately recover {{heal_scale}:.0%} of Max HP","23","8","",""
+"","","","9","Immediately recover {{heal_scale}:.0%} of Max HP","22","9","",""
+"","","","10","Immediately recover {{heal_scale}:.0%} of Max HP","20","10","",""
+"Matoimaru","4","Demon Strength","1","Reduce Defense to 0, Attack +{{atk}:.0%}","35","","10",""
+"","","","2","Reduce Defense to 0, Attack +{{atk}:.0%}","35","","10",""
+"","","","3","Reduce Defense to 0, Attack +{{atk}:.0%}","35","","10",""
+"","","","4","Reduce Defense to 0, Attack +{{atk}:.0%}","32","","11",""
+"","","","5","Reduce Defense to 0, Attack +{{atk}:.0%}","32","","11",""
+"","","","6","Reduce Defense to 0, Attack +{{atk}:.0%}","32","","11",""
+"","","","7","Reduce Defense to 0, Attack +{{atk}:.0%}","29","5","12",""
+"","","","8","Reduce Defense to 0, Attack +{{atk}:.0%}","28","6","13",""
+"","","","9","Reduce Defense to 0, Attack +{{atk}:.0%}","27","7","14",""
+"","","","10","Reduce Defense to 0, Attack +{{atk}:.0%}","25","10","15",""
+"Frostleaf","4","Frosty Spear","1","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","5","","-1",""
+"","","","2","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","5","","-1",""
+"","","","3","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","5","","-1",""
+"","","","4","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","4","","-1",""
+"","","","5","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","4","","-1",""
+"","","","6","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","4","","-1",""
+"","","","7","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","4","","-1",""
+"","","","8","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","3","","-1",""
+"","","","9","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","3","","-1",""
+"","","","10","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{move_speed}:.0%} movement speed to the target for {duration} seconds","3","","-1",""
+"Frostleaf","4","Freezing Spear","1","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","60","","25",""
+"","","","2","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","59","","25",""
+"","","","3","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","58","","25",""
+"","","","4","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","57","","25",""
+"","","","5","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","56","","25",""
+"","","","6","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","55","","25",""
+"","","","7","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","54","","25",""
+"","","","8","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","53","","25",""
+"","","","9","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","52","","25",""
+"","","","10","Attack speed +{{attack_speed}:.0f}. Every attack inflicts {{move_speed}:.0%} movement speed and has {{prob}:.0%} chance to freeze the target (unable to move) for {debuff} seconds","50","","25",""
+"Estelle","4","Attack Strengthening·Type β","1","Attack +{{atk}:.0%}","40","","25",""
+"","","","2","Attack +{{atk}:.0%}","40","","25",""
+"","","","3","Attack +{{atk}:.0%}","40","","25",""
+"","","","4","Attack +{{atk}:.0%}","37","","25",""
+"","","","5","Attack +{{atk}:.0%}","37","","25",""
+"","","","6","Attack +{{atk}:.0%}","37","","25",""
+"","","","7","Attack +{{atk}:.0%}","37","5","25",""
+"","","","8","Attack +{{atk}:.0%}","37","5","25",""
+"","","","9","Attack +{{atk}:.0%}","37","5","25",""
+"","","","10","Attack +{{atk}:.0%}","35","10","25",""
+"Estelle","4","Self-sacrifice","1","Attack +{{atk}:.0%}, however become unable to be healed by other operators","25","10","15",""
+"","","","2","Attack +{{atk}:.0%}, however become unable to be healed by other operators","25","10","15",""
+"","","","3","Attack +{{atk}:.0%}, however become unable to be healed by other operators","25","10","15",""
+"","","","4","Attack +{{atk}:.0%}, however become unable to be healed by other operators","24","10","15",""
+"","","","5","Attack +{{atk}:.0%}, however become unable to be healed by other operators","24","10","15",""
+"","","","6","Attack +{{atk}:.0%}, however become unable to be healed by other operators","24","10","15",""
+"","","","7","Attack +{{atk}:.0%}, however become unable to be healed by other operators","23","10","15",""
+"","","","8","Attack +{{atk}:.0%}, however become unable to be healed by other operators","22","10","15",""
+"","","","9","Attack +{{atk}:.0%}, however become unable to be healed by other operators","21","10","15",""
+"","","","10","Attack +{{atk}:.0%}, however become unable to be healed by other operators","20","10","15",""
+"Mousse","4","Cat Scratch","1","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","6","","",""
+"","","","2","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","6","","",""
+"","","","3","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","6","","",""
+"","","","4","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","5","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","6","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","7","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","8","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","9","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","5","","",""
+"","","","10","The next attack deals +{{atk}:.0%} damage and inflicts {{frncat_s_1[debuff].atk}:.0%} Attack to the target for {frncat_s_1[debuff].duration} seconds","4","","",""
+"Mousse","4","Bristling Fur","1","Attack and Defense +{{atk}:.0%}","80","20","40",""
+"","","","2","Attack and Defense +{{atk}:.0%}","80","21","40",""
+"","","","3","Attack and Defense +{{atk}:.0%}","80","22","40",""
+"","","","4","Attack and Defense +{{atk}:.0%}","80","25","40",""
+"","","","5","Attack and Defense +{{atk}:.0%}","80","26","40",""
+"","","","6","Attack and Defense +{{atk}:.0%}","80","27","40",""
+"","","","7","Attack and Defense +{{atk}:.0%}","80","30","40",""
+"","","","8","Attack and Defense +{{atk}:.0%}","80","35","40",""
+"","","","9","Attack and Defense +{{atk}:.0%}","80","40","40",""
+"","","","10","Attack and Defense +{{atk}:.0%}","80","45","40",""
+"Beehunter","4","High Mobility","1","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","2","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","3","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","4","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","5","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","6","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","7","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","8","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","9","Gain {{prob}:.0%} physical evasion","","","",""
+"","","","10","Gain {{prob}:.0%} physical evasion","","","",""
+"Beehunter","4","Swift Punch","1","Reduce attack interval ({base_attack_time} seconds)","40","","10",""
+"","","","2","Reduce attack interval ({base_attack_time} seconds)","39","","10",""
+"","","","3","Reduce attack interval ({base_attack_time} seconds)","38","","10",""
+"","","","4","Highly reduce attack interval ({base_attack_time} seconds)","35","","10",""
+"","","","5","Highly reduce attack interval ({base_attack_time} seconds)","34","","10",""
+"","","","6","Highly reduce attack interval ({base_attack_time} seconds)","33","","10",""
+"","","","7","Highly reduce attack interval ({base_attack_time} seconds)","30","","10",""
+"","","","8","Greatly reduce attack interval ({base_attack_time} seconds)","27","","10",""
+"","","","9","Greatly reduce attack interval ({base_attack_time} seconds)","24","","10",""
+"","","","10","Greatly reduce attack interval ({base_attack_time} seconds)","20","","10",""
+"Swire","5","Command Dispatch","1","Increase talent range, talent effect increased to {talent_scale}x","60","20","15",""
+"","","","2","Increase talent range, talent effect increased to {talent_scale}x","59","20","17",""
+"","","","3","Increase talent range, talent effect increased to {talent_scale}x","58","20","19",""
+"","","","4","Increase talent range, talent effect increased to {talent_scale}x","55","20","21",""
+"","","","5","Increase talent range, talent effect increased to {talent_scale}x","54","20","23",""
+"","","","6","Increase talent range, talent effect increased to {talent_scale}x","53","20","25",""
+"","","","7","Greatly increase talent range, talent effect increased to {talent_scale}x","50","20","27",""
+"","","","8","Greatly increase talent range, talent effect increased to {talent_scale}x","47","20","29",""
+"","","","9","Greatly increase talent range, talent effect increased to {talent_scale}x","44","20","31",""
+"","","","10","Greatly increase talent range, talent effect increased to {talent_scale}x","40","20","35",""
+"Swire","5","Cooperative Combat","1","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","60","20","15",""
+"","","","2","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","59","20","15",""
+"","","","3","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","58","20","15",""
+"","","","4","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","55","20","18",""
+"","","","5","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","54","20","18",""
+"","","","6","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","53","20","18",""
+"","","","7","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","50","20","21",""
+"","","","8","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","49","20","23",""
+"","","","9","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","48","20","26",""
+"","","","10","Attack +{{atk}:.0%}, talent effect increased to {talent_scale}x","45","20","30",""
+"Franka","5","Swift Strike·Type γ","1","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","45","","35",""
+"","","","2","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","44","","35",""
+"","","","3","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","43","","35",""
+"","","","4","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","42","5","35",""
+"","","","5","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","41","5","35",""
+"","","","6","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","40","5","35",""
+"","","","7","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","39","10","35",""
+"","","","8","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","38","10","35",""
+"","","","9","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","37","10","35",""
+"","","","10","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","15","35",""
+"Franka","5","Extreme Sharpness","1","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","20",""
+"","","","2","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","20",""
+"","","","3","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","20",""
+"","","","4","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","23",""
+"","","","5","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","23",""
+"","","","6","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","","23",""
+"","","","7","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","5","26",""
+"","","","8","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","5","27",""
+"","","","9","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","5","28",""
+"","","","10","Reduce Defense to 0, Attack +{{atk}:.0%}. Increase activation chance of defense-ignore talent by {talent_scale}x","20","10","30",""
+"Indra","5","Armor-crushing Fist","1","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","2","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","3","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","4","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","5","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","6","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","7","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","8","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","9","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"","","","10","The next attack deals +{{atk}:.0%} damage and ignores {{def_penetrate}:.0%} of enemy Defense","4","","",""
+"Indra","5","Soul Rend","1","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","","25",""
+"","","","2","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","","25",""
+"","","","3","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","","25",""
+"","","","4","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","5","25",""
+"","","","5","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","5","25",""
+"","","","6","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","5","25",""
+"","","","7","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","10","25",""
+"","","","8","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","15","25",""
+"","","","9","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","20","25",""
+"","","","10","Attack +{{atk}:.0%}, change damage type to magical damage, every attack recovers HP equal to {{heal_scale}:.0%} of the damage dealt","50","25","25",""
+"Lappland","5","Sundial","1","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","40","","-1",""
+"","","","2","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","40","","-1",""
+"","","","3","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","40","","-1",""
+"","","","4","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","37","","-1",""
+"","","","5","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","37","","-1",""
+"","","","6","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","37","","-1",""
+"","","","7","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","33","","-1",""
+"","","","8","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","32","","-1",""
+"","","","9","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","31","","-1",""
+"","","","10","Attack +{{atk}:.0%}, {{prob}:.0%} chance to block physical damage. Infinite duration","30","","-1",""
+"Lappland","5","Wolf Spirit","1","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","30","","15",""
+"","","","2","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","29","","15",""
+"","","","3","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","28","","15",""
+"","","","4","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","27","","15",""
+"","","","5","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","26","","15",""
+"","","","6","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","25","","15",""
+"","","","7","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","24","","17",""
+"","","","8","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","22","","17",""
+"","","","9","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","20","","17",""
+"","","","10","Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation","17","","20",""
+"Specter","5","Attack Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","","30",""
+"","","","2","Attack +{{atk}:.0%}","40","","30",""
+"","","","3","Attack +{{atk}:.0%}","40","","30",""
+"","","","4","Attack +{{atk}:.0%}","37","5","30",""
+"","","","5","Attack +{{atk}:.0%}","37","5","30",""
+"","","","6","Attack +{{atk}:.0%}","37","5","30",""
+"","","","7","Attack +{{atk}:.0%}","35","10","30",""
+"","","","8","Attack +{{atk}:.0%}","34","10","30",""
+"","","","9","Attack +{{atk}:.0%}","33","10","30",""
+"","","","10","Attack +{{atk}:.0%}","30","15","30",""
+"Specter","5","Fractured Body","1","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","20","10",""
+"","","","2","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","20","10",""
+"","","","3","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","20","10",""
+"","","","4","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","25","11",""
+"","","","5","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","25","11",""
+"","","","6","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","45","25","11",""
+"","","","7","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","43","30","12",""
+"","","","8","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","42","30","13",""
+"","","","9","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","41","30","14",""
+"","","","10","Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends","40","35","15",""
+"Astesia","5","Constellation Guardian","1","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","40","","30",""
+"","","","2","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","39","","30",""
+"","","","3","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","38","","30",""
+"","","","4","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","37","3","30",""
+"","","","5","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","36","3","30",""
+"","","","6","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","35","3","30",""
+"","","","7","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","34","6","30",""
+"","","","8","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","33","7","30",""
+"","","","9","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","32","8","30",""
+"","","","10","Attack +{{atk}:.0%}, Defense +{{def}:.0%}","30","10","30",""
+"Astesia","5","Starlight Blade","1","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","30","","10",""
+"","","","2","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","30","1","10",""
+"","","","3","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","30","2","10",""
+"","","","4","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","27","3","11",""
+"","","","5","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","27","4","11",""
+"","","","6","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","27","5","11",""
+"","","","7","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","24","6","12",""
+"","","","8","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","23","7","13",""
+"","","","9","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","22","8","14",""
+"","","","10","Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","20","10","15",""
+"Savage","5","Powerful Strike·Type β","1","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","2","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","3","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","4","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","5","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","6","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","7","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","8","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","9","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","10","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"Savage","5","Millisecond Blasting","1","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","2","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","3","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","4","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","5","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","6","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","20","","",""
+"","","","7","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","19","","",""
+"","","","8","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","19","","",""
+"","","","9","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","18","","",""
+"","","","10","Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} enemies within 3 tiles in front of the operator","17","","",""
+"SilverAsh","6","Powerful Strike·Type γ","1","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","2","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","3","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","4","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","5","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","6","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","7","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","8","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","9","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"","","","10","The next attack deals {{atk_scale}:.0%} damage","2","","",""
+"SilverAsh","6","Arctic Law of Survival","1","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","2","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","3","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","4","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","5","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","6","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","7","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","8","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","9","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"","","","10","Can switch between the default state and the following state: Reduce attack range, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second","5","","",""
+"SilverAsh","6","True Silver Slash","1","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","50","20",""
+"","","","2","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","50","21",""
+"","","","3","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","50","22",""
+"","","","4","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","55","23",""
+"","","","5","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","55","24",""
+"","","","6","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","55","25",""
+"","","","7","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","60","26",""
+"","","","8","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","65","27",""
+"","","","9","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","70","28",""
+"","","","10","Defense {{def}:.0%}, Attack +{{atk}:.0%}, increase attack range and attack up to {{attack@max_target}:.0f} targets simultaneously (treated as melee attacks)","90","75","30",""
+"Ch'en","6","Sheath Strike","1","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","7","","",""
+"","","","2","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","7","","",""
+"","","","3","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","7","","",""
+"","","","4","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","6","","",""
+"","","","5","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","6","","",""
+"","","","6","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","6","","",""
+"","","","7","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","5","","",""
+"","","","8","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","5","","",""
+"","","","9","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","5","","",""
+"","","","10","On the next attack, strike the enemy with her sheath, dealing {{atk_scale}:.0%} physical damage and stunning the enemy for {stun} seconds","4","","",""
+"Ch'en","6","Crimson Firmament·Quick Draw","1","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","27","10","",""
+"","","","2","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","27","10","",""
+"","","","3","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","27","10","",""
+"","","","4","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","26","12","",""
+"","","","5","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","26","12","",""
+"","","","6","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","26","12","",""
+"","","","7","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","25","14","",""
+"","","","8","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","23","15","",""
+"","","","9","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","21","16","",""
+"","","","10","Deal {{atk_scale}:.0%} physical and {{atk_scale}:.0%} magical damage to up to {{max_target}:.0f} enemies in front of the operator","20","20","",""
+"Ch'en","6","Crimson Firmament·Shadow Assault","1","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","40","10","",""
+"","","","2","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","40","10","",""
+"","","","3","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","40","10","",""
+"","","","4","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","38","10","",""
+"","","","5","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","38","10","",""
+"","","","6","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","38","10","",""
+"","","","7","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","36","10","",""
+"","","","8","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","34","13","",""
+"","","","9","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","32","16","",""
+"","","","10","Seek the closest enemies around and unleash {{times}:.0f} consecutive slashes, dealing {{atk_scale}:.0%} physical damage every attack and stunning the enemy for {stun} seconds on the last hit","30","20","",""
+"Hellagur","6","New Moon","1","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","4","","",""
+"","","","2","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","4","","",""
+"","","","3","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","4","","",""
+"","","","4","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","5","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","6","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","7","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","8","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","9","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","3","","",""
+"","","","10","The next attack has {{atk_scale}:.0%} Attack power and deals 2 hits","2","","",""
+"Hellagur","6","Crescent Moon","1","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","35","","10",""
+"","","","2","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","34","","10",""
+"","","","3","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","33","","10",""
+"","","","4","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","32","5","11",""
+"","","","5","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","31","5","11",""
+"","","","6","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","30","5","11",""
+"","","","7","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","29","10","12",""
+"","","","8","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","28","11","12",""
+"","","","9","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","27","12","12",""
+"","","","10","Attack +{{atk}:.0%}, attacks deal 2 hits, gain {{prob}:.0%} physical evasion","25","15","13",""
+"Hellagur","6","Full Moon","1","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","45","15","12",""
+"","","","2","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","45","15","12",""
+"","","","3","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","45","15","12",""
+"","","","4","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","43","15","13",""
+"","","","5","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","43","15","13",""
+"","","","6","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","43","15","13",""
+"","","","7","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","41","15","14",""
+"","","","8","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","39","15","14",""
+"","","","9","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","37","15","14",""
+"","","","10","Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles and attack up to {{attack@max_target}:.0f} targets simultaneously","35","15","15",""
+"Skadi","6","Swift Strike·Type γ","1","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","45","","35",""
+"","","","2","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","44","","35",""
+"","","","3","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","43","","35",""
+"","","","4","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","42","5","35",""
+"","","","5","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","41","5","35",""
+"","","","6","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","40","5","35",""
+"","","","7","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","39","10","35",""
+"","","","8","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","38","10","35",""
+"","","","9","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","37","10","35",""
+"","","","10","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","35","15","35",""
+"Skadi","6","Wave Leaping Strike","1","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","2","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","3","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","4","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","5","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","6","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","7","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","8","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","9","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"","","","10","Attack +{{atk}:.0%} for {{duration}:.0f} seconds after deploying","","","-1",""
+"Skadi","6","Tidal Elegy","1","Attack, Defense and Max HP +{{atk}:.0%}","90","50","35",""
+"","","","2","Attack, Defense and Max HP +{{atk}:.0%}","90","50","35",""
+"","","","3","Attack, Defense and Max HP +{{atk}:.0%}","90","50","35",""
+"","","","4","Attack, Defense and Max HP +{{atk}:.0%}","90","55","38",""
+"","","","5","Attack, Defense and Max HP +{{atk}:.0%}","90","55","38",""
+"","","","6","Attack, Defense and Max HP +{{atk}:.0%}","90","55","38",""
+"","","","7","Attack, Defense and Max HP +{{atk}:.0%}","90","60","41",""
+"","","","8","Attack, Defense and Max HP +{{atk}:.0%}","90","63","44",""
+"","","","9","Attack, Defense and Max HP +{{atk}:.0%}","90","66","47",""

@@ -1,242 +1,241 @@
-﻿"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration","Charging Type"
-"Kroos",3,"Consecutive Shot·Auto",1,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",5,0,0,"Regen on attack"
-,,,2,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",5,0,0,
-,,,3,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",5,0,0,
-,,,4,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,5,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,6,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,7,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage",4,0,0,
-"Adnachiel",3,"Attack Strengthening·Type α",1,"Attack +{{atk}:.0%}",50,0,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",50,0,20,
-,,,3,"Attack +{{atk}:.0%}",50,0,20,
-,,,4,"Attack +{{atk}:.0%}",45,0,20,
-,,,5,"Attack +{{atk}:.0%}",45,0,20,
-,,,6,"Attack +{{atk}:.0%}",45,0,20,
-,,,7,"Attack +{{atk}:.0%}",40,0,20,
-"Catapult",3,"Explosion Area Strengthening·Type α",1,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",55,0,20,"Regen over time"
-,,,2,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",53,0,22,
-,,,3,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",51,0,24,
-,,,4,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",50,0,25,
-,,,5,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",48,0,27,
-,,,6,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",46,0,29,
-,,,7,"Explosion area of normal attacks increased to {{attack@range_scale}:.0%}",45,0,30,
-"Jessica",4,"Powerful Strike·Type β",1,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,"Regen on attack"
-,,,2,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,3,"The next attack deals {{atk_scale}:.0%} damage",5,0,0,
-,,,4,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,5,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,6,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,7,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,8,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,9,"The next attack deals {{atk_scale}:.0%} damage",4,0,0,
-,,,10,"The next attack deals {{atk_scale}:.0%} damage",3,0,0,
-"Jessica",4,"Cover Smoke",1,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",50,10,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",49,10,20,
-,,,3,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",48,10,20,
-,,,4,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",47,10,21,
-,,,5,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",46,10,21,
-,,,6,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",45,10,21,
-,,,7,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",44,15,22,
-,,,8,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",43,15,23,
-,,,9,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",42,15,24,
-,,,10,"Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion",40,20,25,
-"Meteor",4,"Armor-crushing Shot",1,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,"Regen on attack"
-,,,2,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,
-,,,3,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,
-,,,4,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,
-,,,5,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,
-,,,6,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",5,0,-1,
-,,,7,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",4,0,-1,
-,,,8,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",4,0,-1,
-,,,9,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",4,0,-1,
-,,,10,"The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds",4,0,-1,
-"Meteor",4,"Armor-crushing Shot·Spread",1,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",20,0,-1,"Regen on attack"
-,,,2,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",20,0,-1,
-,,,3,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",20,0,-1,
-,,,4,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",19,0,-1,
-,,,5,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",19,0,-1,
-,,,6,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",19,0,-1,
-,,,7,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",18,0,-1,
-,,,8,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",17,0,-1,
-,,,9,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",16,0,-1,
-,,,10,"Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds",15,0,-1,
-"ShiraYuki",4,"Whirlwind",1,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",32,0,25,"Regen over time"
-,,,2,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",31,0,25,
-,,,3,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",30,0,25,
-,,,4,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",27,5,25,
-,,,5,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",26,5,25,
-,,,6,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",25,5,25,
-,,,7,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",22,10,25,
-,,,8,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",21,10,25,
-,,,9,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",20,10,25,
-,,,10,"Increase attack range by {{ability_range_forward_extend}:.0f} tiles",15,10,25,
-"ShiraYuki",4,"Condensed Weapon",1,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",35,0,25,"Regen over time"
-,,,2,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",34,0,25,
-,,,3,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",33,0,25,
-,,,4,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",32,0,25,
-,,,5,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",31,0,25,
-,,,6,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",30,0,25,
-,,,7,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",29,0,25,
-,,,8,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",28,0,25,
-,,,9,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",27,0,25,
-,,,10,"Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration",25,0,25,
-"Blue Poison",5,"Double Shot·Auto",1,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",4,0,-1,"Regen on attack"
-,,,2,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",4,0,-1,
-,,,3,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",4,0,-1,
-,,,4,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,5,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,6,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,7,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,8,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,9,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",3,0,-1,
-,,,10,"The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage",2,0,-1,
-"Blue Poison",5,"Poison Spread",1,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,10,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,10,21,
-,,,3,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,10,22,
-,,,4,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,15,23,
-,,,5,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,15,24,
-,,,6,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,15,25,
-,,,7,"Attack +{{atk}:.0%}, every attack hits an additional 2 enemies",50,20,26,
-,,,8,"Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies",47,21,27,
-,,,9,"Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies",44,22,28,
-,,,10,"Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies",40,25,30,
-"Platinum",5,"Attack Strengthening·Type γ",1,"Attack +{{atk}:.0%}",40,0,30,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}",40,0,30,
-,,,3,"Attack +{{atk}:.0%}",40,0,30,
-,,,4,"Attack +{{atk}:.0%}",37,5,30,
-,,,5,"Attack +{{atk}:.0%}",37,5,30,
-,,,6,"Attack +{{atk}:.0%}",37,5,30,
-,,,7,"Attack +{{atk}:.0%}",35,10,30,
-,,,8,"Attack +{{atk}:.0%}",34,10,30,
-,,,9,"Attack +{{atk}:.0%}",33,10,30,
-,,,10,"Attack +{{atk}:.0%}",30,15,30,
-"Platinum",5,"Pegasus Sight",1,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",70,0,0,"Regen over time"
-,,,2,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",69,0,0,
-,,,3,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",68,0,0,
-,,,4,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",67,0,0,
-,,,5,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",66,0,0,
-,,,6,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",65,0,0,
-,,,7,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",63,0,0,
-,,,8,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",59,0,0,
-,,,9,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",55,0,0,
-,,,10,"Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration",50,0,0,
-"Meteorite",5,"Spread Shot",1,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",5,0,0,"Regen on attack"
-,,,2,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",5,0,0,
-,,,3,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",5,0,0,
-,,,4,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,5,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,6,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,7,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,8,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,9,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",4,0,0,
-,,,10,"Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage",3,0,0,
-"Meteorite",5,"High-explosive Round",1,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",25,0,-1,"Regen over time"
-,,,2,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",25,0,-1,
-,,,3,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",25,0,-1,
-,,,4,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",24,0,-1,
-,,,5,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",24,0,-1,
-,,,6,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",24,0,-1,
-,,,7,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",23,0,-1,
-,,,8,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",22,0,-1,
-,,,9,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",21,0,-1,
-,,,10,"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds",20,0,-1,
-"Provence",5,"Wolf's Eye",1,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,"Passive"
-,,,2,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,3,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,4,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,5,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,6,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,7,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,8,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,9,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-,,,10,"Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses",0,0,0,
-"Provence",5,"Slaughter Sense",1,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,20,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,20,
-,,,3,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,20,
-,,,4,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,25,
-,,,5,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,25,
-,,,6,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,25,
-,,,7,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,30,
-,,,8,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,31,
-,,,9,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,32,
-,,,10,"Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP",30,0,35,
-"Firewatch",5,"Environmental Camouflage",1,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",30,0,25,"Regen over time"
-,,,2,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",30,0,26,
-,,,3,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",30,0,27,
-,,,4,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",28,0,30,
-,,,5,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",28,0,31,
-,,,6,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",28,0,32,
-,,,7,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",26,0,35,
-,,,8,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",24,0,40,
-,,,9,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",22,0,45,
-,,,10,"Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ",20,0,50,
-"Firewatch",5,"Tactical Radio",1,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,10,0,"Regen over time"
-,,,2,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,10,0,
-,,,3,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,10,0,
-,,,4,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,15,0,
-,,,5,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,15,0,
-,,,6,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,15,0,
-,,,7,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,20,0,
-,,,8,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,20,0,
-,,,9,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,20,0,
-,,,10,"Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies",50,30,0,
-"Exusiai",6,"Assault Mode",1,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",5,0,0,"Regen on attack"
-,,,2,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",5,0,0,
-,,,3,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",5,0,0,
-,,,4,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,5,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,6,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,7,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,8,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,9,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-,,,10,"The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage",4,0,0,
-"Exusiai",6,"Strafing Mode",1,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",45,15,15,"Regen over time"
-,,,2,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",44,15,15,
-,,,3,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",43,15,15,
-,,,4,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",42,15,15,
-,,,5,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",41,15,15,
-,,,6,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",40,15,15,
-,,,7,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",39,18,15,
-,,,8,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",38,20,15,
-,,,9,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",37,22,15,
-,,,10,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage",35,25,15,
-"Exusiai",6,"Overload Mode",1,"Attacks deal {{attack@times}:.0f} hits. Automatic activation",50,20,15,"Regen over time"
-,,,2,"Attacks deal {{attack@times}:.0f} hits. Automatic activation",48,20,15,
-,,,3,"Attacks deal {{attack@times}:.0f} hits. Automatic activation",46,20,15,
-,,,4,"Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation",44,20,15,
-,,,5,"Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation",42,20,15,
-,,,6,"Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation",40,20,15,
-,,,7,"Attacks deal {{attack@times}:.0f} hits, reduce attack interval ({base_attack_time} seconds). Automatic activation",38,20,15,
-,,,8,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval ({base_attack_time} seconds). Automatic activation",36,20,15,
-,,,9,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval ({base_attack_time} seconds). Automatic activation",34,20,15,
-,,,10,"Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval to a certain extent ({base_attack_time} seconds). Automatic activation",30,20,15,
-"Schwarz",6,"Augment Crossbow",1,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",5,0,0,"Regen on attack"
-,,,2,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",5,0,0,
-,,,3,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",5,0,0,
-,,,4,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,5,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,6,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,7,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,8,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,9,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",4,0,0,
-,,,10,"The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}",3,0,0,
-"Schwarz",6,"Sharp Twilight Eye",1,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",40,10,30,"Regen over time"
-,,,2,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",39,10,31,
-,,,3,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",38,10,32,
-,,,4,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",37,13,33,
-,,,5,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",36,13,34,
-,,,6,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",35,13,35,
-,,,7,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",34,16,36,
-,,,8,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",33,17,37,
-,,,9,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",32,18,38,
-,,,10,"Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",30,20,40,
-"Schwarz",6,"Termination of Tactics",1,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",35,5,15,"Regen over time"
-,,,2,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",34,5,16,
-,,,3,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",33,5,17,
-,,,4,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",32,7,18,
-,,,5,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",31,7,19,
-,,,6,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",30,7,20,
-,,,7,"Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",29,9,21,
-,,,8,"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",28,10,22,
-,,,9,"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",27,11,23,
-,,,10,"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}",25,12,25,
+"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration",""
+"Kroos","3","Consecutive Shot·Auto","1","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","2","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","3","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","4","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","5","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","6","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","7","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} physical damage","4","","",""
+"Adnachiel","3","Attack Strengthening·Type α","1","Attack +{{atk}:.0%}","50","","20",""
+"","","","2","Attack +{{atk}:.0%}","50","","20",""
+"","","","3","Attack +{{atk}:.0%}","50","","20",""
+"","","","4","Attack +{{atk}:.0%}","45","","20",""
+"","","","5","Attack +{{atk}:.0%}","45","","20",""
+"","","","6","Attack +{{atk}:.0%}","45","","20",""
+"","","","7","Attack +{{atk}:.0%}","40","","20",""
+"Catapult","3","Explosion Area Strengthening·Type α","1","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","55","","20",""
+"","","","2","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","53","","22",""
+"","","","3","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","51","","24",""
+"","","","4","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","50","","25",""
+"","","","5","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","48","","27",""
+"","","","6","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","46","","29",""
+"","","","7","Explosion area of normal attacks increased to {{attack@range_scale}:.0%}","45","","30",""
+"Jessica","4","Powerful Strike·Type β","1","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","2","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","3","The next attack deals {{atk_scale}:.0%} damage","5","","",""
+"","","","4","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","5","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","6","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","7","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","8","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","9","The next attack deals {{atk_scale}:.0%} damage","4","","",""
+"","","","10","The next attack deals {{atk_scale}:.0%} damage","3","","",""
+"Jessica","4","Cover Smoke","1","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","50","10","20",""
+"","","","2","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","49","10","20",""
+"","","","3","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","48","10","20",""
+"","","","4","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","47","10","21",""
+"","","","5","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","46","10","21",""
+"","","","6","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","45","10","21",""
+"","","","7","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","44","15","22",""
+"","","","8","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","43","15","23",""
+"","","","9","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","42","15","24",""
+"","","","10","Attack +{{atk}:.0%}, gain {{prob}:.0%} physical and magic evasion","40","20","25",""
+"Meteor","4","Armor-crushing Shot","1","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","2","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","3","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","4","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","5","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","6","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","5","","-1",""
+"","","","7","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","4","","-1",""
+"","","","8","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","4","","-1",""
+"","","","9","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","4","","-1",""
+"","","","10","The next attack deals {{atk_scale}:.0%} physical damage and inflicts {{def}:.0%} Defense to the target for {{duration}:.0f} seconds","4","","-1",""
+"Meteor","4","Armor-crushing Shot·Spread","1","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","20","","-1",""
+"","","","2","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","20","","-1",""
+"","","","3","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","20","","-1",""
+"","","","4","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","19","","-1",""
+"","","","5","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","19","","-1",""
+"","","","6","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","19","","-1",""
+"","","","7","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","18","","-1",""
+"","","","8","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","17","","-1",""
+"","","","9","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","16","","-1",""
+"","","","10","Immediately deal {{atk_scale}:.0%} physical damage to up to 5 enemies within attack range and inflict {{def}:.0%} Defense to the targets for {{duration}:.0f} seconds","15","","-1",""
+"ShiraYuki","4","Whirlwind","1","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","32","","25",""
+"","","","2","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","31","","25",""
+"","","","3","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","30","","25",""
+"","","","4","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","27","5","25",""
+"","","","5","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","26","5","25",""
+"","","","6","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","25","5","25",""
+"","","","7","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","22","10","25",""
+"","","","8","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","21","10","25",""
+"","","","9","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","20","10","25",""
+"","","","10","Increase attack range by {{ability_range_forward_extend}:.0f} tiles","15","10","25",""
+"ShiraYuki","4","Condensed Weapon","1","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","35","","25",""
+"","","","2","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","34","","25",""
+"","","","3","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","33","","25",""
+"","","","4","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","32","","25",""
+"","","","5","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","31","","25",""
+"","","","6","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","30","","25",""
+"","","","7","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","29","","25",""
+"","","","8","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","28","","25",""
+"","","","9","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","27","","25",""
+"","","","10","Attack with spinning blades, inflicting {{attack@move_speed}:.0%} movement speed and dealing {{attack@atk_scale}:.0%} magical damage per second for a short duration","25","","25",""
+"Blue Poison","5","Double Shot·Auto","1","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","4","","-1",""
+"","","","2","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","4","","-1",""
+"","","","3","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","4","","-1",""
+"","","","4","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","5","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","6","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","7","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","8","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","9","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","3","","-1",""
+"","","","10","The next attack will attack an additional target, dealing {{atk_scale}:.0%} physical damage","2","","-1",""
+"Blue Poison","5","Poison Spread","1","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","10","20",""
+"","","","2","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","10","21",""
+"","","","3","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","10","22",""
+"","","","4","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","15","23",""
+"","","","5","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","15","24",""
+"","","","6","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","15","25",""
+"","","","7","Attack +{{atk}:.0%}, every attack hits an additional 2 enemies","50","20","26",""
+"","","","8","Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies","47","21","27",""
+"","","","9","Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies","44","22","28",""
+"","","","10","Attack +{{atk}:.0%}, every attack hits the main target a second time as well as an additional 2 enemies","40","25","30",""
+"Platinum","5","Attack Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","","30",""
+"","","","2","Attack +{{atk}:.0%}","40","","30",""
+"","","","3","Attack +{{atk}:.0%}","40","","30",""
+"","","","4","Attack +{{atk}:.0%}","37","5","30",""
+"","","","5","Attack +{{atk}:.0%}","37","5","30",""
+"","","","6","Attack +{{atk}:.0%}","37","5","30",""
+"","","","7","Attack +{{atk}:.0%}","35","10","30",""
+"","","","8","Attack +{{atk}:.0%}","34","10","30",""
+"","","","9","Attack +{{atk}:.0%}","33","10","30",""
+"","","","10","Attack +{{atk}:.0%}","30","15","30",""
+"Platinum","5","Pegasus Sight","1","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","70","","",""
+"","","","2","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","69","","",""
+"","","","3","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","68","","",""
+"","","","4","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","67","","",""
+"","","","5","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","66","","",""
+"","","","6","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","65","","",""
+"","","","7","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","63","","",""
+"","","","8","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","59","","",""
+"","","","9","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","55","","",""
+"","","","10","Slightly decrease attack speed ({{attack_speed}:.0f}), however Attack +{{atk}:.0%} and increase attack range. Infinite duration","50","","",""
+"Meteorite","5","Spread Shot","1","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","2","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","3","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","5","","",""
+"","","","4","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","5","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","6","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","7","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","8","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","9","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","4","","",""
+"","","","10","Increase the explosion area of the next attack, dealing {{atk_scale}:.0%} physical damage","3","","",""
+"Meteorite","5","High-explosive Round","1","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","25","","-1",""
+"","","","2","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","25","","-1",""
+"","","","3","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","25","","-1",""
+"","","","4","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","24","","-1",""
+"","","","5","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","24","","-1",""
+"","","","6","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","24","","-1",""
+"","","","7","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","23","","-1",""
+"","","","8","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","22","","-1",""
+"","","","9","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","21","","-1",""
+"","","","10","Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds","20","","-1",""
+"Provence","5","Wolf's Eye","1","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","2","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","3","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","4","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","5","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","6","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","7","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","8","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","9","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"","","","10","Increase damage dealt to the target by +{{atk_scale_up}:.0%} for every {{hp_ratio_drop}:.0%} HP the enemy loses","","","",""
+"Provence","5","Slaughter Sense","1","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","20",""
+"","","","2","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","20",""
+"","","","3","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","20",""
+"","","","4","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","25",""
+"","","","5","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","25",""
+"","","","6","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","25",""
+"","","","7","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","30",""
+"","","","8","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","31",""
+"","","","9","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","32",""
+"","","","10","Attack +{{atk}:.0%}, however normal attacks no longer target enemies with higher than 80% HP","30","","35",""
+"Firewatch","5","Environmental Camouflage","1","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","30","","25",""
+"","","","2","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","30","","26",""
+"","","","3","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","30","","27",""
+"","","","4","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","28","","30",""
+"","","","5","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","28","","31",""
+"","","","6","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","28","","32",""
+"","","","7","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","26","","35",""
+"","","","8","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","24","","40",""
+"","","","9","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","22","","45",""
+"","","","10","Attack +{{atk}:.0%} and gain hidden status (will not be targeted by ranged enemies) ","20","","50",""
+"Firewatch","5","Tactical Radio","1","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","10","",""
+"","","","2","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","10","",""
+"","","","3","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","10","",""
+"","","","4","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","15","",""
+"","","","5","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","15","",""
+"","","","6","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","15","",""
+"","","","7","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","20","",""
+"","","","8","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","20","",""
+"","","","9","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","20","",""
+"","","","10","Immediately drop {{max_cnt}:.0f} bombs randomly within attack range (will prioritize positions with enemies). Each bomb deals {{atk_scale}:.0%} physical damage to all nearby enemies","50","30","",""
+"Exusiai","6","Assault Mode","1","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","5","","",""
+"","","","2","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","5","","",""
+"","","","3","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","5","","",""
+"","","","4","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","5","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","6","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","7","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","8","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","9","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"","","","10","The next attack hits {{times}:.0f} times, with each hit dealing {{atk_scale}:.0%} damage","4","","",""
+"Exusiai","6","Strafing Mode","1","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","45","15","15",""
+"","","","2","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","44","15","15",""
+"","","","3","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","43","15","15",""
+"","","","4","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","42","15","15",""
+"","","","5","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","41","15","15",""
+"","","","6","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","40","15","15",""
+"","","","7","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","39","18","15",""
+"","","","8","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","38","20","15",""
+"","","","9","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","37","22","15",""
+"","","","10","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage","35","25","15",""
+"Exusiai","6","Overload Mode","1","Attacks deal {{attack@times}:.0f} hits. Automatic activation","50","20","15",""
+"","","","2","Attacks deal {{attack@times}:.0f} hits. Automatic activation","48","20","15",""
+"","","","3","Attacks deal {{attack@times}:.0f} hits. Automatic activation","46","20","15",""
+"","","","4","Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation","44","20","15",""
+"","","","5","Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation","42","20","15",""
+"","","","6","Attacks deal {{attack@times}:.0f} hits, slightly reduce attack interval ({base_attack_time} seconds). Automatic activation","40","20","15",""
+"","","","7","Attacks deal {{attack@times}:.0f} hits, reduce attack interval ({base_attack_time} seconds). Automatic activation","38","20","15",""
+"","","","8","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval ({base_attack_time} seconds). Automatic activation","36","20","15",""
+"","","","9","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval ({base_attack_time} seconds). Automatic activation","34","20","15",""
+"","","","10","Attacks deal {{attack@times}:.0f} hits, with each hit dealing {{attack@atk_scale}:.0%} damage. Reduce attack interval to a certain extent ({base_attack_time} seconds). Automatic activation","30","20","15",""
+"Schwarz","6","Augment Crossbow","1","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","5","","",""
+"","","","2","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","5","","",""
+"","","","3","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","5","","",""
+"","","","4","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","5","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","6","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","7","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","8","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","9","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","4","","",""
+"","","","10","The next attack has {{atk_scale}:.0%} Attack power and talent activation chance increases to {{talent@prob}:.0%}","3","","",""
+"Schwarz","6","Sharp Twilight Eye","1","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","40","10","30",""
+"","","","2","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","39","10","31",""
+"","","","3","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","38","10","32",""
+"","","","4","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","37","13","33",""
+"","","","5","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","36","13","34",""
+"","","","6","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","35","13","35",""
+"","","","7","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","34","16","36",""
+"","","","8","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","33","17","37",""
+"","","","9","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","32","18","38",""
+"","","","10","Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","30","20","40",""
+"Schwarz","6","Termination of Tactics","1","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","35","5","15",""
+"","","","2","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","34","5","16",""
+"","","","3","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","33","5","17",""
+"","","","4","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","32","7","18",""
+"","","","5","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","31","7","19",""
+"","","","6","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","30","7","20",""
+"","","","7","Attack area changes to 3 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","29","9","21",""
+"","","","8","Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","28","10","22",""
+"","","","9","Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}","27","11","23",""

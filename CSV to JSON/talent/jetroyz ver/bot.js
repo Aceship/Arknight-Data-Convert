@@ -20,7 +20,6 @@ let datacol = [
     'vanguard'
     // 'all'
 ]
-
 let customjson = {}
 
 Object.keys(charadetail).forEach(element => {
