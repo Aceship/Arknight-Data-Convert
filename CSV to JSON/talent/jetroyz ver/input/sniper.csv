@@ -14,6 +14,8 @@ Meteor,4,Anti-air Specialization,"When attacking flying targets, Attack +20%",El
 ,,Anti-air Specialization,"When attacking flying targets, Attack +35%",Elite 2 Lvl 1,0
 ,,Anti-air Specialization,"When attacking flying targets, Attack +40% (+5%)",Elite 2 Lvl 1,4
 ShiraYuki,4,Heavy Shuriken,"Slightly increase attack interval (+0.2 seconds), however Attack +20%",Elite 2 Lvl 1,0
+Vermeil,4,Hunter's Experience,Slightly increase SP recovery speed (+0.15 SP/sec),Elite 1 Lvl 1,0
+,,Hunter's Experience,Largely increase SP recovery speed (+0.3 SP/sec),Elite 2 Lvl 1,0
 Blue Poison,5,Neurotoxin,"Attacks poison the target, dealing 30 magical damage every second for 3 seconds",Elite 1 Lvl 1,0
 ,,Neurotoxin,"Attacks poison the target, dealing 40 (+10) magical damage every second for 3 seconds",Elite 1 Lvl 1,4
 ,,Neurotoxin,"Attacks poison the target, dealing 75 magical damage every second for 3 seconds",Elite 2 Lvl 1,0
@@ -32,6 +34,10 @@ Firewatch,5,Assassin,"When attacking enemies wielding ranged weapons, Attack inc
 ,,Assassin,"When attacking enemies wielding ranged weapons, Attack increases to 125% (+5%)",Elite 1 Lvl 1,4
 ,,Assassin,"When attacking enemies wielding ranged weapons, Attack increases to 140%",Elite 2 Lvl 1,0
 ,,Assassin,"When attacking enemies wielding ranged weapons, Attack increases to 145% (+5%)",Elite 2 Lvl 1,4
+Executor,5,Terminating Modification,"When attacking, ignore 80 Defence",Elite 1 Lvl 1,0
+,,Terminating Modification,"When attacking, ignore 95 (+15) Defence",Elite 1 Lvl 1,4
+,,Terminating Modification,"When attacking, ignore 160 Defence",Elite 2 Lvl 1,0
+,,Terminating Modification,"When attacking, ignore 175 (+15) Defence",Elite 2 Lvl 1,4
 Exusiai,6,Rapid Magazine,Attack speed +6,Elite 1 Lvl 1,0
 ,,Rapid Magazine,Attack speed +9 (+3),Elite 1 Lvl 1,2
 ,,Rapid Magazine,Attack speed +12,Elite 2 Lvl 1,0

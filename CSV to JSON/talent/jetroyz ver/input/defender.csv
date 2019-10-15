@@ -12,12 +12,12 @@ Matterhorn,4,Snow Plain Defender,Magic resistance +7,Elite 1 Lvl 1,0
 ,,Snow Plain Defender,Magic resistance +15,Elite 2 Lvl 1,0
 Cuora,4,Defense Specialization,Defense +6%,Elite 1 Lvl 1,0
 ,,Defense Specialization,Defense +12%,Elite 2 Lvl 1,0
-ГУМ (Gum),4,Saucepan Specialization,"When attacking, 10% chance to increase Attack to 150% and stun the enemy for 0.5 seconds",Elite 1 Lvl 1,0
+Гум (Gum),4,Saucepan Specialization,"When attacking, 10% chance to increase Attack to 150% and stun the enemy for 0.5 seconds",Elite 1 Lvl 1,0
 ,,Saucepan Specialization,"When attacking, 13% (+3%) chance to increase Attack to 150% and stun the enemy for 0.5 seconds",Elite 1 Lvl 1,4
 ,,Saucepan Specialization,"When attacking, 15% chance to increase Attack to 200% and stun the enemy for 1 second",Elite 2 Lvl 1,0
 ,,Saucepan Specialization,"When attacking, 18% (+3%) chance to increase Attack to 200% and stun the enemy for 1 second",Elite 2 Lvl 1,4
-Dur-nar,4,Dual Wielder,Attack and Defense +4%,Elite 1 Lvl 1,0
-,,Dual Wielder,Attack and Defense +7%,Elite 2 Lvl 1,0
+Dur-nar,4,Offense & Defense,Attack and Defense +4%,Elite 1 Lvl 1,0
+,,Offense & Defense,Attack and Defense +7%,Elite 2 Lvl 1,0
 Nearl,5,Healing Effect Enhancement,Healing effectiveness +10%,Elite 1 Lvl 1,0
 ,,Healing Effect Enhancement,Healing effectiveness +12% (+2%),Elite 1 Lvl 1,4
 ,,Pegasus Aura,"When deployed, all allies' healing effectiveness +10%",Elite 2 Lvl 1,0

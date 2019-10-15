@@ -12,11 +12,15 @@
 		"desc": "When stationed at the Command Center, mood reduction per hour of all operatives in the Command Center -0.05"
 	},
 	"control_mp_cost[001]": {
-		"name": "S.W.E.E.P",
+		"name": "S.W.E.E.P.",
 		"desc": "When stationed at the Command Center, mood reduction per hour of all operatives in the Command Center -0.05"
 	},
 	"control_mp_cost[002]": {
 		"name": "Snack Network",
+		"desc": "When stationed at the Command Center, mood reduction per hour of all operatives in the Command Center -0.05"
+	},
+	"control_mp_cost[003]": {
+		"name": "Commission Clearance",
 		"desc": "When stationed at the Command Center, mood reduction per hour of all operatives in the Command Center -0.05"
 	},
 	"control_mp_cost&faction[000]": {
@@ -105,11 +109,15 @@
 	},
 	"manu_prod_spd&limit&cost[001]": {
 		"name": "Craftsmanship·β",
-		"desc": "When stationed at a Craft Station, production-5%, storage capacity +16 and mood reduction per hour -0.25"
+		"desc": "When stationed at a Craft Station, production-5%, storage capacity +18 and mood reduction per hour -0.25"
 	},
 	"manu_prod_spd&limit&cost[010]": {
 		"name": "Troublesome Creator",
 		"desc": "When stationed at a Craft Station, production +25%, storage capacity -12 and mood reduction per hour +0.25"
+	},
+	"manu_prod_spd_variable[000]": {
+		"name": "Recycling",
+		"desc": "When stationed at a Craft Station, production +2% for every +1 storage capacity provided by operators"
 	},
 	"manu_formula_spd[000]": {
 		"name": "Combat Directive Recordings",
@@ -168,6 +176,10 @@
 		"desc": "When stationed at a Trade Station, order acquisition efficiency +35%"
 	},
 	"trade_ord_spd&limit[000]": {
+		"name": "Order Management·α",
+		"desc": "When stationed at a Trade Station, order acquisition efficiency +10% and order limit +1"
+	},
+	"trade_ord_spd&limit[010]": {
 		"name": "Supply Management",
 		"desc": "When stationed at a Trade Station, order acquisition efficiency +25% and order limit +1"
 	},
@@ -227,9 +239,17 @@
 		"name": "Skilled Craftsman",
 		"desc": "When stationed at the Synthesis Station and producing any kind of material, increase the rate of by-products by 50%"
 	},
+	"workshop_proc_probability[011]": {
+		"name": "Multi-purpose Mapper",
+		"desc": "When stationed at the Synthesis Station and producing any kind of material, increase the rate of by-products by 50%"
+	},
 	"workshop_proc_probability[020]": {
 		"name": "Mibo·Processing Model",
 		"desc": "When stationed at the Synthesis Station and producing any kind of material, increase the rate of by-products by 65%"
+	},
+	"workshop_formula_cost[000]": {
+		"name": "Dragon-style Drone",
+		"desc": "When stationed at the Synthesis Station and producing any kind of material, recipes which consume 4 mood and above will only consume 2 mood"
 	},
 	"workshop_formula_probability[000]": {
 		"name": "Skill Theory",
@@ -237,6 +257,10 @@
 	},
 	"workshop_formula_probability[010]": {
 		"name": "Soldier's Ruse",
+		"desc": "When stationed at the Synthesis Station and producing skill materials, increase the rate of by-products by 80%"
+	},
+	"workshop_formula_probability[020]": {
+		"name": "Unparalleled",
 		"desc": "When stationed at the Synthesis Station and producing skill materials, increase the rate of by-products by 80%"
 	},
 	"workshop_formula_probability[100]": {
@@ -487,7 +511,7 @@
 		"name": "Divination",
 		"desc": "When stationed at Reception, clue collection speed +25%"
 	},
-	"meet_spd[011]": {
+	"meet_spd[020]": {
 		"name": "Tracker",
 		"desc": "When stationed at Reception, clue collection speed +25%"
 	},

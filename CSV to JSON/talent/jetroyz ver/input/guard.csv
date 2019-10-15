@@ -58,6 +58,10 @@ Savage,5,Valley,"When there are 2 or more high tiles among the 4 adjacent tiles,
 ,,Valley,"When there are 2 or more high tiles among the 4 adjacent tiles, Attack and Defense +10%",Elite 2 Lvl 1,0
 Astesia,5,Celestial Instrument,"Every 20 seconds after deployment, Attack speed +3, stacks up to 5 layers",Elite 1 Lvl 1,0
 ,,Celestial Instrument,"Every 20 seconds after deployment, Attack speed +5, stacks up to 5 layers",Elite 2 Lvl 1,0
+Flamebringer,5,Bloodrush,"Increase Max HP by 20 for every enemy killed, stacks up to 30 layers",Elite 1 Lvl 1,0
+,,Bloodrush,"Increase Max HP by 30 (+10) for every enemy killed, stacks up to 30 layers",Elite 1 Lvl 1,4
+,,Bloodrush,"Increase Max HP by 40 for every enemy killed, stacks up to 30 layers",Elite 2 Lvl 1,0
+,,Bloodrush,"Increase Max HP by 50 (+10) for every enemy killed, stacks up to 30 layers",Elite 2 Lvl 1,4
 SilverAsh,6,Leader,"Attack +5%, All operatives' redeployment time -5%",Elite 1 Lvl 1,0
 ,,Leader,"Attack +7% (+2%), All operatives' redeployment time -7% (+2%)",Elite 1 Lvl 1,4
 ,,Leader,"Attack +10%, All operatives' redeployment time -10%",Elite 2 Lvl 1,0

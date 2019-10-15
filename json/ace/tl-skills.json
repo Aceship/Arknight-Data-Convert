@@ -419,6 +419,21 @@
 			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}"
 		]
 	},
+	"skchr_durnar_2": {
+		"name": "Magic Shield Assault",
+		"desc": [
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count",
+			"Attack +{{atk}:.0%}, attack multiple enemies equal to Block count"
+		]
+	},
 	"skchr_nearl_1": {
 		"name": "First Aid",
 		"desc": [

@@ -66,7 +66,8 @@ let customjson = {}
 Object.keys(charadetail).forEach(element => {
     var currchara = charadetail[element]
     var currname = currchara.appellation
-    if(unreadablename[currchara.appellation]){
+    if (currname == "ГУМ") currname = "Гум"
+    else if(unreadablename[currchara.appellation]){
         currname = `${currchara.appellation} (${unreadablename[currchara.appellation]})`
     }
     // console.log(currname)
@@ -75,14 +76,14 @@ Object.keys(charadetail).forEach(element => {
     customjson[currname].skills = currchara.skills
     // customjson
 });
-
+console.log(customjson)
 
 var alljson = []
 datacol.forEach(element => {
     var currdata = fs.readFileSync(`./input/${element}.csv`, 'utf8')
     var currsplit = splitEasy(currdata)
     currsplit.shift()
-    console.log(currsplit)
+    // console.log(currsplit)
     alljson = alljson.concat(currsplit)
     // console.log(alljson)
 });
@@ -151,7 +152,7 @@ function createJSON(csv){
             
         }
         // console.log(currChara)
-        // console.log(charcount)
+        console.log(currChara)
         var currskillid = customjson[currChara].skills[charcount].skillId
         if(!json[currskillid]){
             json[currskillid]={}
