@@ -100,7 +100,7 @@ Myrtle,4,Wings of Recovery,1,Stops attacking and gradually obtain {{value}:.0f} 
 ,,,8,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,26,8,16,
 ,,,9,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,25,9,16,
 ,,,10,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,24,10,16,
-Зима,5,Assault Order·Type γ,1,Immediately obtain {{cost}:.0f} cost,44,10,0,Regen over time
+Зима (Zima),5,Assault Order·Type γ,1,Immediately obtain {{cost}:.0f} cost,44,10,0,Regen over time
 ,,,2,Immediately obtain {{cost}:.0f} cost,43,10,0,
 ,,,3,Immediately obtain {{cost}:.0f} cost,42,10,0,
 ,,,4,Immediately obtain {{cost}:.0f} cost,41,12,0,
@@ -110,7 +110,7 @@ Myrtle,4,Wings of Recovery,1,Stops attacking and gradually obtain {{value}:.0f} 
 ,,,8,Immediately obtain {{cost}:.0f} cost,37,16,0,
 ,,,9,Immediately obtain {{cost}:.0f} cost,36,18,0,
 ,,,10,Immediately obtain {{cost}:.0f} cost,35,20,0,
-Зима,5,Roar of Ursus,1,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",45,10,10,Regen over time
+Зима (Zima),5,Roar of Ursus,1,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",45,10,10,Regen over time
 ,,,2,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",44,10,10,
 ,,,3,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",43,10,10,
 ,,,4,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",42,12,10,

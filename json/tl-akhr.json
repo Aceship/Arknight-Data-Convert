@@ -885,7 +885,7 @@
 	},
 	{
 		"name_cn": "古米",
-		"name_en": "ГУМ",
+		"name_en": "Гум",
 		"name_jp": "",
 		"name_kr": "",
 		"characteristic_cn": "技能可以治疗友方单位",
@@ -945,7 +945,7 @@
 	},
 	{
 		"name_cn": "凛冬",
-		"name_en": "зима",
+		"name_en": "Зима",
 		"name_jp": "",
 		"name_kr": "",
 		"characteristic_cn": "能够阻挡两个敌人",
@@ -2052,6 +2052,24 @@
 		"hidden": true
 	},
 	{
+		"name_cn": "坚雷",
+		"name_en": "Dur-nar",
+		"name_jp": "",
+		"name_kr": "",
+		"characteristic_cn": "",
+		"characteristic_en": "",
+		"characteristic_jp": "",
+		"characteristic_kr": "",
+		"camp": "",
+		"type": "",
+		"level": 4,
+		"sex": "女",
+		"tags": [
+			""
+		],
+		"hidden": true
+	},
+	{
 		"name_cn": "红云",
 		"name_en": "Vermeil",
 		"name_jp": "",
@@ -2118,6 +2136,42 @@
 		"type": "",
 		"level": 5,
 		"sex": "男",
+		"tags": [
+			""
+		],
+		"hidden": true
+	},
+	{
+		"name_cn": "伊桑",
+		"name_en": "Ethan",
+		"name_jp": "",
+		"name_kr": "",
+		"characteristic_cn": "",
+		"characteristic_en": "",
+		"characteristic_jp": "",
+		"characteristic_kr": "",
+		"camp": "",
+		"type": "",
+		"level": 4,
+		"sex": "男",
+		"tags": [
+			""
+		],
+		"hidden": true
+	},
+	{
+		"name_cn": "微风",
+		"name_en": "Breeze",
+		"name_jp": "",
+		"name_kr": "",
+		"characteristic_cn": "",
+		"characteristic_en": "",
+		"characteristic_jp": "",
+		"characteristic_kr": "",
+		"camp": "",
+		"type": "",
+		"level": 5,
+		"sex": "女",
 		"tags": [
 			""
 		],

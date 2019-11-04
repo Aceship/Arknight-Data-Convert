@@ -39,6 +39,8 @@ Ceylon,5,Lakeside Rambler,"Attack +3%. When the stage has water tiles, Attack +9
 ,,Lakeside Rambler,"Attack +4% (+1%). When the stage has water tiles, Attack +15% (+6%) instead",Elite 1 Lvl 1,4
 ,,Lakeside Rambler,"Attack +5%. When the stage has water tiles, Attack +18% instead",Elite 2 Lvl 1,0
 ,,Lakeside Rambler,"Attack +6% (+1%). When the stage has water tiles, Attack +24% (+6%) instead",Elite 2 Lvl 1,4
+Breeze,5,Medic Class Protection,"When skill is active, grant [Resist] effect to all 【Medic】 operatives (reduce duration of certain negative effects by 50%, currently includes stun)",Elite 1 Lvl 1,0
+,,Medic Class Protection,"When skill is active, grant [Resist] effect to all 【Medic】 and 【Supporter】 operatives (reduce duration of certain negative effects by 50%, currently includes stun)",Elite 2 Lvl 1,0
 Shining,6,Black Devil's Protection,Allies within attack range gain Defense +20,Lvl 1,0
 ,,Black Devil's Protection,Allies within attack range gain Defense +25 (+5),Lvl 1,5
 ,,Black Devil's Protection,Allies within attack range gain Defense +40,Elite 1 Lvl 1,0

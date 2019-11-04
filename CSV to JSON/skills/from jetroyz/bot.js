@@ -7,7 +7,7 @@ const XLSX = require('xlsx')
 //     process.exit(-1);
 // }
 
-var workbook = XLSX.readFile('./input/skill.xlsx');
+// var workbook = XLSX.readFile('./input/skill.xlsx');
 // console.log(workbook)
 
 // console.log(workbook.SheetNames[0])
@@ -17,7 +17,7 @@ var workbook = XLSX.readFile('./input/skill.xlsx');
 // console.log(SheetNames)
 // let data = fs.readFileSync("./input/vanguard.csv", 'utf8')
 // let progress = fs.readFileSync("./input/progress.csv", 'utf8')
-let charadetail = JSON.parse(fs.readFileSync("../../../excel/character_table.json","utf8"))
+let charadetail = JSON.parse(fs.readFileSync("../../../json/excel/character_table.json","utf8"))
 let unreadablename = JSON.parse(fs.readFileSync("./extra/tl-unreadablename.json","utf8"))
 let datacol = [
     'caster',
@@ -66,8 +66,7 @@ let customjson = {}
 Object.keys(charadetail).forEach(element => {
     var currchara = charadetail[element]
     var currname = currchara.appellation
-    if (currname == "ГУМ") currname = "Гум"
-    else if(unreadablename[currchara.appellation]){
+    if(unreadablename[currchara.appellation]){
         currname = `${currchara.appellation} (${unreadablename[currchara.appellation]})`
     }
     // console.log(currname)

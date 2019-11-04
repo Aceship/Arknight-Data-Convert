@@ -60,7 +60,7 @@ Cuora,4,Shell-shaped Defense,1,"Stops attacking enemies. Block count +{{block_cn
 ,,,8,"Stops attacking enemies. Block count +{{block_cnt}:.0f}, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",40,0,30,
 ,,,9,"Stops attacking enemies. Block count +{{block_cnt}:.0f}, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",40,0,30,
 ,,,10,"Stops attacking enemies. Block count +{{block_cnt}:.0f}, Defense +{{def}:.0%}, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",40,0,30,
-Гум,4,Reserve Rations,1,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,7,0,0,Regen over time
+Гум (Gum),4,Reserve Rations,1,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,7,0,0,Regen over time
 ,,,2,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,7,0,0,
 ,,,3,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,7,0,0,
 ,,,4,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,6,0,0,
@@ -70,7 +70,7 @@ Cuora,4,Shell-shaped Defense,1,"Stops attacking enemies. Block count +{{block_cn
 ,,,8,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,5,0,0,
 ,,,9,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,5,0,0,
 ,,,10,The next attack will heal a nearby ally for {{heal_scale}:.0%} of ГУМ's Attack. Can hold {{ct}:.0f} charges,4,0,0,
-Гум,4,Food Preparation,1,"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",40,10,30,Regen over time
+Гум (Gum),4,Food Preparation,1,"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",40,10,30,Regen over time
 ,,,2,"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",39,10,30,
 ,,,3,"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",38,10,30,
 ,,,4,"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",37,12,30,
