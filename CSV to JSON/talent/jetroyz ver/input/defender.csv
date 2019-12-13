@@ -33,6 +33,10 @@ Vulcan,5,Self-defense,"While skill is active, recover 4% Max HP every second",El
 ,,Self-defense,"While skill is active, recover 5% (+1%) Max HP every second",Elite 1 Lvl 1,4
 ,,Self-defense,"While skill is active, recover 4% Max HP every second and gain 25% melee physical evasion",Elite 2 Lvl 1,0
 ,,Self-defense,"While skill is active, recover 5% (+1%) Max HP every second and gain 30% (+5%) melee physical evasion",Elite 2 Lvl 1,4
+Bison,5,Cross Cover,"When deployed, Defense +25. Apply the same effect to the operative behind if they are 【Vanguard】 or 【Guard】 operatives",Elite 1 Lvl 1,0
+,,Cross Cover,"When deployed, Defense +45 (+20). Apply the same effect to the operative behind if they are 【Vanguard】 or 【Guard】 operatives",Elite 1 Lvl 1,4
+,,Cross Cover,"When deployed, Defense +50. Apply the same effect to the operative behind if they are 【Vanguard】 or 【Guard】 operatives",Elite 2 Lvl 1,0
+,,Cross Cover,"When deployed, Defense +70 (+20). Apply the same effect to the operative behind if they are 【Vanguard】 or 【Guard】 operatives",Elite 2 Lvl 1,4
 Hoshiguma,6,Tactical Armor,Gain 12% physical and magical block,Elite 1 Lvl 1,0
 ,,Tactical Armor,Gain 15% (+3%) physical and magical block,Elite 1 Lvl 1,2
 ,,Tactical Armor,Gain 25% physical and magical block,Elite 2 Lvl 1,0

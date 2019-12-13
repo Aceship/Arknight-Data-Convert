@@ -26,10 +26,10 @@ FEater,5,Kungfu,Gain 20% physical evasion,Elite 1 Lvl 1,0
 ,,Kungfu,Gain 23% (+3%) physical evasion,Elite 1 Lvl 1,4
 ,,Kungfu,Gain 40% physical evasion,Elite 2 Lvl 1,0
 ,,Kungfu,Gain 43% (+3%) physical evasion,Elite 2 Lvl 1,4
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Waai Fu,5,Wing Chun,"When attacking, 20% chance to increase Attack to 125% and knock the target back",Elite 1 Lvl 1,0
+,,Wing Chun,"When attacking, 20% chance to increase Attack to 135% (+10%) and knock the target back",Elite 1 Lvl 1,4
+,,Wing Chun,"When attacking, 20% chance to increase Attack to 150% and knock the target back",Elite 2 Lvl 1,0
+,,Wing Chun,"When attacking, 20% chance to increase Attack to 160% (+10%) and knock the target back",Elite 2 Lvl 1,4
 ,,,,,
 ,,,,,
 ,,,,,

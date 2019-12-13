@@ -23,5 +23,16 @@ all.forEach(element => {
     var workbook = XLSX.utils.book_new();
     var ws1 = wb.Sheets[element]
     XLSX.utils.book_append_sheet(workbook, ws1, element);
-    XLSX.writeFile(workbook, `./input/${element.toLowerCase()}.csv`, { bookType: "csv" });
+    var ws2 = XLSX.utils.sheet_to_csv(ws1,{FS:"\t",RS:"-----"})
+    ws2 = ws2.replace(/(")/g,``)
+    ws2 = ws2.replace(/(\t)/g,`","`)
+    ws2 = ws2.replace(/(\n)/g,` `)
+    ws2 = ws2.replace(/(-----)/g,`"\n"`)
+    ws2 = `"${ws2}"`
+    fs.writeFile(`./input/${element}.csv`,ws2, function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    })
+    // XLSX.writeFile(ws2, `./input/${element}.csv`, { bookType: "csv" });
 });

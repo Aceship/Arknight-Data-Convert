@@ -27,8 +27,8 @@ Sussurro,4,Minimally Invasive Healing,"When in team, all operators with less tha
 ,,Minimally Invasive Healing,"When in team, all operators with less than 10 initial cost receive 13% (+3%) more healing",Elite 1 Lvl 1,4
 ,,Minimally Invasive Healing,"When in team, all operators with less than 10 initial cost receive 20% more healing",Elite 2 Lvl 1,0
 ,,Minimally Invasive Healing,"When in team, all operators with less than 10 initial cost receive 23% (+3%) more healing",Elite 2 Lvl 1,4
-Ptilopsis,5,Ability Aura,"When deployed, slightly increase the SP recovery speed of all allies (+0.15 SP/sec)",Elite 1 Lvl 1,0
-,,Ability Aura,"When deployed, largely increase the SP recovery speed of all allies (+0.3 SP/sec)",Elite 2 Lvl 1,0
+Ptilopsis,5,Ability Aura,"When deployed, SP recovery speed of all allies +0.15 SP/sec",Elite 1 Lvl 1,0
+,,Ability Aura,"When deployed, SP recovery speed of all allies +0.3 SP/sec",Elite 2 Lvl 1,0
 Silence,5,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +6",Elite 1 Lvl 1,0
 ,,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +8 (+2)",Elite 1 Lvl 1,4
 ,,Injection Enhancement,"When deployed, all ally 【Medic】 operatives gain Attack speed +12",Elite 2 Lvl 1,0

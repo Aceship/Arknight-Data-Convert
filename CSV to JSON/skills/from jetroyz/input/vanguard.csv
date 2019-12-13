@@ -1,192 +1,193 @@
-﻿Character,Rarity,Skill Name,Skill Level,Skill Description,SP Cost,Initial SP,Skill Duration,Charging Type
-Fang,3,Assault Order·Type α,1,Immediately obtain {{cost}:.0f} cost,30,0,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,29,0,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,28,0,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,27,3,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,26,3,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,25,3,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,25,6,0,
-Vanilla,3,Assault Order·Reinforcements,1,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",25,0,10,Regen over time
-,,,2,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",25,1,10,
-,,,3,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",25,2,10,
-,,,4,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",23,3,10,
-,,,5,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",22,3,10,
-,,,6,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",21,3,10,
-,,,7,"Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}",20,6,10,
-Plume,3,Swift Strike·Type α,1,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",55,0,25,Regen over time
-,,,2,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",54,0,25,
-,,,3,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",53,0,25,
-,,,4,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",50,0,25,
-,,,5,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",49,0,25,
-,,,6,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",48,0,25,
-,,,7,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",45,0,25,
-Courier,4,Assault Order·Type β,1,Immediately obtain {{cost}:.0f} cost,39,8,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,38,8,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,37,8,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,36,9,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,35,9,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,34,9,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,33,10,0,
-,,,8,Immediately obtain {{cost}:.0f} cost,32,11,0,
-,,,9,Immediately obtain {{cost}:.0f} cost,31,12,0,
-,,,10,Immediately obtain {{cost}:.0f} cost,30,13,0,
-Courier,4,Assault Order·Defend,1,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",40,12,15,Regen over time
-,,,2,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",39,12,15,
-,,,3,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",38,12,15,
-,,,4,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",37,13,15,
-,,,5,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",36,13,15,
-,,,6,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",35,13,15,
-,,,7,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",34,14,15,
-,,,8,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",33,15,15,
-,,,9,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",32,16,15,
-,,,10,"Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}",30,17,15,
-Scavenger,4,Assault Order·Type β,1,Immediately obtain {{cost}:.0f} cost,39,8,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,38,8,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,37,8,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,36,9,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,35,9,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,34,9,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,33,10,0,
-,,,8,Immediately obtain {{cost}:.0f} cost,32,11,0,
-,,,9,Immediately obtain {{cost}:.0f} cost,31,12,0,
-,,,10,Immediately obtain {{cost}:.0f} cost,30,13,0,
-Scavenger,4,Assault Order·Attack,1,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},40,13,15,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},39,13,15,
-,,,3,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},38,13,15,
-,,,4,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},37,14,15,
-,,,5,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},36,14,15,
-,,,6,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},35,14,15,
-,,,7,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},34,15,15,
-,,,8,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},33,16,15,
-,,,9,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},32,17,15,
-,,,10,Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%},30,18,15,
-Vigna,4,Attack Strengthening·Type β,1,Attack +{{atk}:.0%},40,0,25,Regen over time
-,,,2,Attack +{{atk}:.0%},40,0,25,
-,,,3,Attack +{{atk}:.0%},40,0,25,
-,,,4,Attack +{{atk}:.0%},37,0,25,
-,,,5,Attack +{{atk}:.0%},37,0,25,
-,,,6,Attack +{{atk}:.0%},37,0,25,
-,,,7,Attack +{{atk}:.0%},37,5,25,
-,,,8,Attack +{{atk}:.0%},37,5,25,
-,,,9,Attack +{{atk}:.0%},37,5,25,
-,,,10,Attack +{{atk}:.0%},35,10,25,
-Vigna,4,Hammer-on,1,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",35,0,20,Regen over time
-,,,2,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",35,0,20,
-,,,3,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",35,0,20,
-,,,4,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",32,0,22,
-,,,5,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",32,0,22,
-,,,6,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",32,0,22,
-,,,7,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",28,5,25,
-,,,8,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",27,5,26,
-,,,9,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",26,5,27,
-,,,10,"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}",25,10,30,
-Myrtle,4,Support Order·Type β,1,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,31,8,8,Regen over time
-,,,2,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,30,8,8,
-,,,3,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,29,8,8,
-,,,4,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,28,9,8,
-,,,5,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,27,9,8,
-,,,6,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,26,9,8,
-,,,7,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,25,10,8,
-,,,8,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,24,11,8,
-,,,9,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,23,12,8,
-,,,10,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active,22,13,8,
-Myrtle,4,Wings of Recovery,1,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,35,5,16,Regen over time
-,,,2,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,34,5,16,
-,,,3,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,33,5,16,
-,,,4,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,31,6,16,
-,,,5,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,30,6,16,
-,,,6,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,29,6,16,
-,,,7,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,27,7,16,
-,,,8,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,26,8,16,
-,,,9,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,25,9,16,
-,,,10,Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second,24,10,16,
-Зима (Zima),5,Assault Order·Type γ,1,Immediately obtain {{cost}:.0f} cost,44,10,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,43,10,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,42,10,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,41,12,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,40,12,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,39,12,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,38,14,0,
-,,,8,Immediately obtain {{cost}:.0f} cost,37,16,0,
-,,,9,Immediately obtain {{cost}:.0f} cost,36,18,0,
-,,,10,Immediately obtain {{cost}:.0f} cost,35,20,0,
-Зима (Zima),5,Roar of Ursus,1,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",45,10,10,Regen over time
-,,,2,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",44,10,10,
-,,,3,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",43,10,10,
-,,,4,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",42,12,10,
-,,,5,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",41,12,10,
-,,,6,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",40,12,10,
-,,,7,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",39,14,10,
-,,,8,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",38,16,10,
-,,,9,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",37,18,10,
-,,,10,"Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy",35,20,10,
-Texas,5,Assault Order·Type γ,1,Immediately obtain {{cost}:.0f} cost,44,10,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,43,10,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,42,10,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,41,12,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,40,12,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,39,12,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,38,14,0,
-,,,8,Immediately obtain {{cost}:.0f} cost,37,16,0,
-,,,9,Immediately obtain {{cost}:.0f} cost,36,18,0,
-,,,10,Immediately obtain {{cost}:.0f} cost,35,20,0,
-Texas,5,Sword Rain,1,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,20,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,21,0,
-,,,3,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,22,0,
-,,,4,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,23,0,
-,,,5,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,24,0,
-,,,6,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,25,0,
-,,,7,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,26,0,
-,,,8,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,27,0,
-,,,9,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,28,0,
-,,,10,Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds,40,30,0,
-Grani,5,Defense Strengthening·Type γ,1,Defense +{{def}:.0%},45,0,40,Regen over time
-,,,2,Defense +{{def}:.0%},45,0,40,
-,,,3,Defense +{{def}:.0%},45,0,40,
-,,,4,Defense +{{def}:.0%},40,5,40,
-,,,5,Defense +{{def}:.0%},40,5,40,
-,,,6,Defense +{{def}:.0%},40,5,40,
-,,,7,Defense +{{def}:.0%},35,10,40,
-,,,8,Defense +{{def}:.0%},34,10,40,
-,,,9,Defense +{{def}:.0%},33,10,40,
-,,,10,Defense +{{def}:.0%},30,15,40,
-Grani,5,Never Back Down!,1,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",80,50,30,Regen over time
-,,,2,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",79,50,30,
-,,,3,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",78,50,30,
-,,,4,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",77,50,30,
-,,,5,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",76,50,30,
-,,,6,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",75,50,30,
-,,,7,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",74,50,30,
-,,,8,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",73,50,30,
-,,,9,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",72,50,30,
-,,,10,"Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",70,50,30,
-Siege,6,Assault Order·Type γ,1,Immediately obtain {{cost}:.0f} cost,44,10,0,Regen over time
-,,,2,Immediately obtain {{cost}:.0f} cost,43,10,0,
-,,,3,Immediately obtain {{cost}:.0f} cost,42,10,0,
-,,,4,Immediately obtain {{cost}:.0f} cost,41,12,0,
-,,,5,Immediately obtain {{cost}:.0f} cost,40,12,0,
-,,,6,Immediately obtain {{cost}:.0f} cost,39,12,0,
-,,,7,Immediately obtain {{cost}:.0f} cost,38,14,0,
-,,,8,Immediately obtain {{cost}:.0f} cost,37,16,0,
-,,,9,Immediately obtain {{cost}:.0f} cost,36,18,0,
-,,,10,Immediately obtain {{cost}:.0f} cost,35,20,0,
-Siege,6,Leaping Hammer,1,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",12,0,0,Regen over time
-,,,2,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",12,0,0,
-,,,3,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",12,0,0,
-,,,4,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",11,3,0,
-,,,5,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",11,3,0,
-,,,6,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",11,3,0,
-,,,7,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",11,6,0,
-,,,8,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",10,7,0,
-,,,9,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",10,8,0,
-,,,10,"The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges",10,10,0,
-Siege,6,Skull Crusher,1,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,0,15,Regen over time
-,,,2,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,0,16,
-,,,3,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,0,17,
-,,,4,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,5,18,
-,,,5,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,5,19,
-,,,6,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,5,20,
-,,,7,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,10,21,
-,,,8,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,15,22,
-,,,9,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,20,23,
-,,,10,"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",30,25,25,
+"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration","Charging Type"
+"Fang","3","Assault Order·Type α","1","Immediately obtain {{cost}:.0f} cost","30","0","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","29","0","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","28","0","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","27","3","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","26","3","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","25","3","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","25","6","0",""
+"Vanilla","3","Assault Order·Reinforcements","1","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","25","0","10","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","25","1","10",""
+"","","","3","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","25","2","10",""
+"","","","4","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","23","3","10",""
+"","","","5","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","22","3","10",""
+"","","","6","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","21","3","10",""
+"","","","7","Immediately obtain {{cost}:.0f} cost, Attack +{{atk}:.0%}","20","6","10",""
+"Plume","3","Swift Strike·Type α","1","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","55","0","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","54","0","25",""
+"","","","3","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","53","0","25",""
+"","","","4","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","50","0","25",""
+"","","","5","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","49","0","25",""
+"","","","6","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","48","0","25",""
+"","","","7","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","45","0","25",""
+"Courier","4","Assault Order·Type β","1","Immediately obtain {{cost}:.0f} cost","39","8","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","38","8","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","37","8","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","36","9","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","35","9","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","34","9","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","33","10","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost","32","11","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost","31","12","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost","30","13","0",""
+"Courier","4","Assault Order·Defend","1","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","40","12","15","Regen over time"
+"","","","2","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","39","12","15",""
+"","","","3","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","38","12","15",""
+"","","","4","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","37","13","15",""
+"","","","5","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","36","13","15",""
+"","","","6","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","35","13","15",""
+"","","","7","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","34","14","15",""
+"","","","8","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","33","15","15",""
+"","","","9","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","32","16","15",""
+"","","","10","Immediately obtain {{blackd_s_2[once].cost}:.0f} cost. Gradually obtain {{blackd_s_2[period].trig_cnt}:.0f} cost while the skill is active, additionally Defense +{{blackd_s_2[period].def}:.0%}","30","17","15",""
+"Scavenger","4","Assault Order·Type β","1","Immediately obtain {{cost}:.0f} cost","39","8","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","38","8","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","37","8","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","36","9","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","35","9","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","34","9","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","33","10","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost","32","11","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost","31","12","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost","30","13","0",""
+"Scavenger","4","Assault Order·Attack","1","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","40","13","15","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","39","13","15",""
+"","","","3","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","38","13","15",""
+"","","","4","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","37","14","15",""
+"","","","5","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","36","14","15",""
+"","","","6","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","35","14","15",""
+"","","","7","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","34","15","15",""
+"","","","8","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","33","16","15",""
+"","","","9","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","32","17","15",""
+"","","","10","Immediately obtain {{cost}:.0f} cost. Attack +{{atk}:.0%}","30","18","15",""
+"Vigna","4","Attack Strengthening·Type β","1","Attack +{{atk}:.0%}","40","0","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","0","25",""
+"","","","3","Attack +{{atk}:.0%}","40","0","25",""
+"","","","4","Attack +{{atk}:.0%}","37","0","25",""
+"","","","5","Attack +{{atk}:.0%}","37","0","25",""
+"","","","6","Attack +{{atk}:.0%}","37","0","25",""
+"","","","7","Attack +{{atk}:.0%}","37","5","25",""
+"","","","8","Attack +{{atk}:.0%}","37","5","25",""
+"","","","9","Attack +{{atk}:.0%}","37","5","25",""
+"","","","10","Attack +{{atk}:.0%}","35","10","25",""
+"Vigna","4","Hammer-on","1","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","35","0","20","Regen over time"
+"","","","2","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","35","0","20",""
+"","","","3","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","35","0","20",""
+"","","","4","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","32","0","22",""
+"","","","5","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","32","0","22",""
+"","","","6","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","32","0","22",""
+"","","","7","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","28","5","25",""
+"","","","8","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","27","5","26",""
+"","","","9","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","26","5","27",""
+"","","","10","Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}","25","10","30",""
+"Myrtle","4","Support Order·Type β","1","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","31","8","8","Regen over time"
+"","","","2","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","30","8","8",""
+"","","","3","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","29","8","8",""
+"","","","4","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","28","9","8",""
+"","","","5","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","27","9","8",""
+"","","","6","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","26","9","8",""
+"","","","7","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","25","10","8",""
+"","","","8","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","24","11","8",""
+"","","","9","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","23","12","8",""
+"","","","10","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active","22","13","8",""
+"Myrtle","4","Wings of Recovery","1","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","35","5","16","Regen over time"
+"","","","2","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","34","5","16",""
+"","","","3","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","33","5","16",""
+"","","","4","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","31","6","16",""
+"","","","5","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","30","6","16",""
+"","","","6","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","29","6","16",""
+"","","","7","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","27","7","16",""
+"","","","8","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","26","8","16",""
+"","","","9","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","25","9","16",""
+"","","","10","Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active. Heal 1 nearby ally for {{attack@heal_scale}:.0%} of Myrtle's Attack every second","24","10","16",""
+"Зима (Zima)","5","Assault Order·Type γ","1","Immediately obtain {{cost}:.0f} cost","44","10","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","43","10","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","42","10","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","41","12","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","40","12","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","39","12","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","38","14","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost","37","16","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost","36","18","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost","35","20","0",""
+"Зима (Zima)","5","Roar of Ursus","1","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","45","10","10","Regen over time"
+"","","","2","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","44","10","10",""
+"","","","3","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","43","10","10",""
+"","","","4","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","42","12","10",""
+"","","","5","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","41","12","10",""
+"","","","6","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","40","12","10",""
+"","","","7","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","39","14","10",""
+"","","","8","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","38","16","10",""
+"","","","9","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","37","18","10",""
+"","","","10","Gradually obtain {{value}:.0f} cost while the skill is active. Increase Attack and Defense of all Vanguards by +{{atk}:.0%}, additionally obtain 1 cost when killing an enemy","35","20","10",""
+"Texas","5","Assault Order·Type γ","1","Immediately obtain {{cost}:.0f} cost","44","10","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","43","10","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","42","10","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","41","12","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","40","12","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","39","12","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","38","14","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost","37","16","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost","36","18","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost","35","20","0",""
+"Texas","5","Sword Rain","1","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","20","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","21","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","22","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","23","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","24","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","25","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","26","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","27","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","28","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds","40","30","0",""
+"Grani","5","Defense Strengthening·Type γ","1","Defense +{{def}:.0%}","45","0","40","Regen over time"
+"","","","2","Defense +{{def}:.0%}","45","0","40",""
+"","","","3","Defense +{{def}:.0%}","45","0","40",""
+"","","","4","Defense +{{def}:.0%}","40","5","40",""
+"","","","5","Defense +{{def}:.0%}","40","5","40",""
+"","","","6","Defense +{{def}:.0%}","40","5","40",""
+"","","","7","Defense +{{def}:.0%}","35","10","40",""
+"","","","8","Defense +{{def}:.0%}","34","10","40",""
+"","","","9","Defense +{{def}:.0%}","33","10","40",""
+"","","","10","Defense +{{def}:.0%}","30","15","40",""
+"Grani","5","Never Back Down!","1","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","80","50","30","Regen over time"
+"","","","2","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","79","50","30",""
+"","","","3","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","78","50","30",""
+"","","","4","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","77","50","30",""
+"","","","5","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","76","50","30",""
+"","","","6","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","75","50","30",""
+"","","","7","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","74","50","30",""
+"","","","8","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","73","50","30",""
+"","","","9","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","72","50","30",""
+"","","","10","Reduce attack range, Attack and Defense +{{atk}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count","70","50","30",""
+"Siege","6","Assault Order·Type γ","1","Immediately obtain {{cost}:.0f} cost","44","10","0","Regen over time"
+"","","","2","Immediately obtain {{cost}:.0f} cost","43","10","0",""
+"","","","3","Immediately obtain {{cost}:.0f} cost","42","10","0",""
+"","","","4","Immediately obtain {{cost}:.0f} cost","41","12","0",""
+"","","","5","Immediately obtain {{cost}:.0f} cost","40","12","0",""
+"","","","6","Immediately obtain {{cost}:.0f} cost","39","12","0",""
+"","","","7","Immediately obtain {{cost}:.0f} cost","38","14","0",""
+"","","","8","Immediately obtain {{cost}:.0f} cost","37","16","0",""
+"","","","9","Immediately obtain {{cost}:.0f} cost","36","18","0",""
+"","","","10","Immediately obtain {{cost}:.0f} cost","35","20","0",""
+"Siege","6","Leaping Hammer","1","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","12","0","0","Regen over time"
+"","","","2","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","12","0","0",""
+"","","","3","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","12","0","0",""
+"","","","4","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","11","3","0",""
+"","","","5","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","11","3","0",""
+"","","","6","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","11","3","0",""
+"","","","7","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","11","6","0",""
+"","","","8","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","10","7","0",""
+"","","","9","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","10","8","0",""
+"","","","10","The next attack deals {{atk_scale}:.0%} physical damage to all adjacent enemies. Additionally, obtain {{cost}:.0f} cost. Can hold {{ct}:.0f} charges","10","10","0",""
+"Siege","6","Skull Crusher","1","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","0","15","Regen over time"
+"","","","2","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","0","16",""
+"","","","3","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","0","17",""
+"","","","4","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","5","18",""
+"","","","5","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","5","19",""
+"","","","6","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","5","20",""
+"","","","7","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","10","21",""
+"","","","8","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","15","22",""
+"","","","9","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","20","23",""
+"","","","10","Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds","30","25","25",""
+""

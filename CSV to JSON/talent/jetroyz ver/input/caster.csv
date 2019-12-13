@@ -42,10 +42,10 @@ Eyjafjalla,6,Inflammation,"When deployed, all ally 【Caster】 operatives gain 
 ,,Inflammation,"When deployed, all ally 【Caster】 operatives gain Attack +16% (+2%)",Elite 2 Lvl 1,5
 ,,Chaotic Flame,"After deployment, immediately gain a random amount of SP (7-16 SP)",Elite 2 Lvl 1,0
 ,,Chaotic Flame,"After deployment, immediately gain a random (higher) amount of SP (10-20 SP)",Elite 2 Lvl 1,2
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Mostima,6,Skill Aura · Caster,"When deployed, all ally 【Caster】 operatives' SP recovery speed +0.2 SP/sec",Elite 1 Lvl 1,0
+,,Skill Aura · Caster,"When deployed, all ally 【Caster】 operatives' SP recovery speed +0.4 SP/sec",Elite 2 Lvl 1,0
+,,Subjective Time Dilation,Movement speed of enemies within attack range -15%,Elite 2 Lvl 1,0
+,,Subjective Time Dilation,Movement speed of enemies within attack range -18% (+3%),Elite 2 Lvl 1,4
 ,,,,,
 ,,,,,
 ,,,,,

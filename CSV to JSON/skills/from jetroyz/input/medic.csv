@@ -1,255 +1,256 @@
-﻿Character,Rarity,Skill Name,Skill Level,Skill Description,SP Cost,Initial SP,Skill Duration,Charging Type
-Hibiscus,3,Healing Strengthening·Type α,1,Attack +{{atk}:.0%},40,0,20,Regen over time
-,,,2,Attack +{{atk}:.0%},40,0,20,
-,,,3,Attack +{{atk}:.0%},40,0,20,
-,,,4,Attack +{{atk}:.0%},35,0,20,
-,,,5,Attack +{{atk}:.0%},35,0,20,
-,,,6,Attack +{{atk}:.0%},35,0,20,
-,,,7,Attack +{{atk}:.0%},30,0,20,
-Ansel,3,Healing Range Strengthening,1,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",45,10,19,Regen over time
-,,,2,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",44,10,20,
-,,,3,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",43,10,21,
-,,,4,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",40,10,22,
-,,,5,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",39,10,23,
-,,,6,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",38,10,24,
-,,,7,"Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}",35,10,25,
-Myrrh,4,Double Heal,1,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,10,0,0,Regen over time
-,,,2,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,10,0,0,
-,,,3,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,10,0,0,
-,,,4,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,9,0,0,
-,,,5,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,9,0,0,
-,,,6,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,9,0,0,
-,,,7,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,9,0,0,
-,,,8,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,8,0,0,
-,,,9,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,8,0,0,
-,,,10,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges,8,0,0,
-Myrrh,4,Healing Field,1,"Attack +{{atk}:.0%}, heal an additional target on every heal",65,5,25,Regen over time
-,,,2,"Attack +{{atk}:.0%}, heal an additional target on every heal",65,5,25,
-,,,3,"Attack +{{atk}:.0%}, heal an additional target on every heal",65,5,25,
-,,,4,"Attack +{{atk}:.0%}, heal an additional target on every heal",60,10,25,
-,,,5,"Attack +{{atk}:.0%}, heal an additional target on every heal",60,10,25,
-,,,6,"Attack +{{atk}:.0%}, heal an additional target on every heal",60,10,25,
-,,,7,"Attack +{{atk}:.0%}, heal an additional target on every heal",55,15,25,
-,,,8,"Attack +{{atk}:.0%}, heal an additional target on every heal",53,17,25,
-,,,9,"Attack +{{atk}:.0%}, heal an additional target on every heal",52,18,25,
-,,,10,"Attack +{{atk}:.0%}, heal an additional target on every heal",50,20,25,
-Gavial,4,Revitalization,1,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",10,0,-1,Regen over time
-,,,2,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,3,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,4,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,5,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,6,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,7,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,8,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,9,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,10,"On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges",8,0,-1,
-Gavial,4,Revitalization·Area,1,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,30,-1,Regen over time
-,,,2,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,31,-1,
-,,,3,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,32,-1,
-,,,4,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,35,-1,
-,,,5,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,36,-1,
-,,,6,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,37,-1,
-,,,7,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,40,-1,
-,,,8,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,43,-1,
-,,,9,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,46,-1,
-,,,10,Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds,60,50,-1,
-Sussurro,4,Healing Strengthening·Type β,1,Attack +{{atk}:.0%},40,10,25,Regen over time
-,,,2,Attack +{{atk}:.0%},40,10,25,
-,,,3,Attack +{{atk}:.0%},40,10,25,
-,,,4,Attack +{{atk}:.0%},35,10,25,
-,,,5,Attack +{{atk}:.0%},35,10,25,
-,,,6,Attack +{{atk}:.0%},35,10,25,
-,,,7,Attack +{{atk}:.0%},32,10,25,
-,,,8,Attack +{{atk}:.0%},32,10,25,
-,,,9,Attack +{{atk}:.0%},32,10,25,
-,,,10,Attack +{{atk}:.0%},30,10,25,
-Sussurro,4,Deep Healing,1,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",25,0,20,Regen over time
-,,,2,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",25,0,21,
-,,,3,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",25,0,22,
-,,,4,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",22,0,25,
-,,,5,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",22,0,26,
-,,,6,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",22,0,27,
-,,,7,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",19,0,30,
-,,,8,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",18,0,30,
-,,,9,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",17,0,30,
-,,,10,"Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle",15,0,30,
-Perfumer,4,Healing Strengthening·Type β,1,Attack +{{atk}:.0%},40,10,25,Regen over time
-,,,2,Attack +{{atk}:.0%},40,10,25,
-,,,3,Attack +{{atk}:.0%},40,10,25,
-,,,4,Attack +{{atk}:.0%},35,10,25,
-,,,5,Attack +{{atk}:.0%},35,10,25,
-,,,6,Attack +{{atk}:.0%},35,10,25,
-,,,7,Attack +{{atk}:.0%},32,10,25,
-,,,8,Attack +{{atk}:.0%},32,10,25,
-,,,9,Attack +{{atk}:.0%},32,10,25,
-,,,10,Attack +{{atk}:.0%},30,10,25,
-Perfumer,4,Fine-tuning,1,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,Regen over time
-,,,2,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,3,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,4,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,5,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,6,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,7,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,8,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,9,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-,,,10,"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}",60,20,30,
-Ptilopsis,5,Healing Strengthening·Type γ,1,Attack +{{atk}:.0%},40,20,30,Regen over time
-,,,2,Attack +{{atk}:.0%},40,20,30,
-,,,3,Attack +{{atk}:.0%},40,20,30,
-,,,4,Attack +{{atk}:.0%},35,20,30,
-,,,5,Attack +{{atk}:.0%},35,20,30,
-,,,6,Attack +{{atk}:.0%},35,20,30,
-,,,7,Attack +{{atk}:.0%},32,20,30,
-,,,8,Attack +{{atk}:.0%},32,20,30,
-,,,9,Attack +{{atk}:.0%},32,20,30,
-,,,10,Attack +{{atk}:.0%},30,20,30,
-Ptilopsis,5,Enkephalin,1,"Increase attack range, reduce attack interval ({base_attack_time} seconds)",100,65,30,Regen over time
-,,,2,"Increase attack range, reduce attack interval ({base_attack_time} seconds)",100,65,31,
-,,,3,"Increase attack range, reduce attack interval ({base_attack_time} seconds)",100,65,32,
-,,,4,"Increase attack range, highly reduce attack interval ({base_attack_time} seconds)",100,70,33,
-,,,5,"Increase attack range, highly reduce attack interval ({base_attack_time} seconds)",100,70,34,
-,,,6,"Increase attack range, highly reduce attack interval ({base_attack_time} seconds)",100,70,35,
-,,,7,"Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)",100,75,36,
-,,,8,"Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)",100,78,37,
-,,,9,"Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)",100,82,38,
-,,,10,"Increase attack range, massively reduce attack interval ({base_attack_time} seconds)",100,85,40,
-Breeze,5,Focused Healing,1,"Attack +{{atk}:.0%}, heal targets -1",40,20,25,Regen over time
-,,,2,"Attack +{{atk}:.0%}, heal targets -1",39,20,25,
-,,,3,"Attack +{{atk}:.0%}, heal targets -1",38,20,25,
-,,,4,"Attack +{{atk}:.0%}, heal targets -1",37,20,28,
-,,,5,"Attack +{{atk}:.0%}, heal targets -1",36,20,28,
-,,,6,"Attack +{{atk}:.0%}, heal targets -1",35,20,28,
-,,,7,"Attack +{{atk}:.0%}, heal targets -1",34,20,31,
-,,,8,"Attack +{{atk}:.0%}, heal targets -1",33,20,32,
-,,,9,"Attack +{{atk}:.0%}, heal targets -1",32,20,33,
-,,,10,"Attack +{{atk}:.0%}, heal targets -1",30,20,35,
-Breeze,5,Spread Healing,1,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,40,35,Regen over time
-,,,2,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,40,36,
-,,,3,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,40,37,
-,,,4,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,44,38,
-,,,5,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,44,39,
-,,,6,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,44,40,
-,,,7,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,48,41,
-,,,8,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,52,42,
-,,,9,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,56,43,
-,,,10,"Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)",80,60,45,
-Silence,5,Healing Strengthening·Type γ,1,Attack +{{atk}:.0%},40,20,30,Regen over time
-,,,2,Attack +{{atk}:.0%},40,20,30,
-,,,3,Attack +{{atk}:.0%},40,20,30,
-,,,4,Attack +{{atk}:.0%},35,20,30,
-,,,5,Attack +{{atk}:.0%},35,20,30,
-,,,6,Attack +{{atk}:.0%},35,20,30,
-,,,7,Attack +{{atk}:.0%},32,20,30,
-,,,8,Attack +{{atk}:.0%},32,20,30,
-,,,9,Attack +{{atk}:.0%},32,20,30,
-,,,10,Attack +{{atk}:.0%},30,20,30,
-Silence,5,Healing Drone,1,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,30,0,0,Regen over time
-,,,2,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,29,0,0,
-,,,3,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,28,0,0,
-,,,4,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,26,0,0,
-,,,5,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,25,0,0,
-,,,6,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,24,0,0,
-,,,7,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,22,0,0,
-,,,8,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,21,0,0,
-,,,9,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,20,0,0,
-,,,10,Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds,18,0,0,
-Warfarin,5,Emergency Bandage,1,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,Regen on attack
-,,,2,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,3,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,4,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,5,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,6,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,7,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,8,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,9,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-,,,10,The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges,4,0,0,
-Warfarin,5,Unstable Plasma,1,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,35,-1,Regen over time
-,,,2,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,35,-1,
-,,,3,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,35,-1,
-,,,4,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,40,-1,
-,,,5,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,40,-1,
-,,,6,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,40,-1,
-,,,7,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,45,-1,
-,,,8,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,45,-1,
-,,,9,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,45,-1,
-,,,10,"Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds",60,50,-1,
-Ceylon,5,Concentrated Hydrotherapy,1,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,10,0,0,Regen over time
-,,,2,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,10,0,0,
-,,,3,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,10,0,0,
-,,,4,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,9,0,0,
-,,,5,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,9,0,0,
-,,,6,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,9,0,0,
-,,,7,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,9,0,0,
-,,,8,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,8,0,0,
-,,,9,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,8,0,0,
-,,,10,The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges,8,0,0,
-Ceylon,5,Water Spirit's Protection,1,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,20,20,Regen over time
-,,,2,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,22,21,
-,,,3,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,24,23,
-,,,4,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,26,25,
-,,,5,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,28,26,
-,,,6,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,30,27,
-,,,7,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,32,30,
-,,,8,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,34,33,
-,,,9,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,36,36,
-,,,10,"Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)",80,40,40,
-Shining,6,Creed,1,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",50,0,20,Regen over time
-,,,2,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",49,0,20,
-,,,3,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",48,0,20,
-,,,4,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",47,10,20,
-,,,5,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",46,10,20,
-,,,6,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",45,10,20,
-,,,7,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",44,14,20,
-,,,8,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",43,16,20,
-,,,9,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",42,18,20,
-,,,10,"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",40,20,20,
-Shining,6,Automatic Cover,1,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",8,0,-1,Regen over time
-,,,2,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",8,0,-1,
-,,,3,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",8,0,-1,
-,,,4,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",7,0,-1,
-,,,5,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",7,0,-1,
-,,,6,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",7,0,-1,
-,,,7,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",7,0,-1,
-,,,8,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",6,0,-1,
-,,,9,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",6,0,-1,
-,,,10,"The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges",5,0,-1,
-Shining,6,Dogmatic Field,1,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,Regen over time
-,,,2,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,3,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,4,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,5,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,6,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,7,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,100,60,
-,,,8,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,105,60,
-,,,9,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,110,60,
-,,,10,Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%},120,115,60,
-Nightingale,6,Healing Strengthening·Type γ,1,Attack +{{atk}:.0%},40,20,30,Regen over time
-,,,2,Attack +{{atk}:.0%},40,20,30,
-,,,3,Attack +{{atk}:.0%},40,20,30,
-,,,4,Attack +{{atk}:.0%},35,20,30,
-,,,5,Attack +{{atk}:.0%},35,20,30,
-,,,6,Attack +{{atk}:.0%},35,20,30,
-,,,7,Attack +{{atk}:.0%},32,20,30,
-,,,8,Attack +{{atk}:.0%},32,20,30,
-,,,9,Attack +{{atk}:.0%},32,20,30,
-,,,10,Attack +{{atk}:.0%},30,20,30,
-Nightingale,6,Arcane Shield,1,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",11,0,-1,Regen over time
-,,,2,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",11,0,-1,
-,,,3,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",11,0,-1,
-,,,4,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,5,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,6,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,7,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",10,0,-1,
-,,,8,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,9,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",9,0,-1,
-,,,10,"The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges",8,0,-1,
-Nightingale,6,Holy Territory,1,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,100,60,Regen over time
-,,,2,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,100,60,
-,,,3,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,100,60,
-,,,4,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,105,60,
-,,,5,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,105,60,
-,,,6,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,105,60,
-,,,7,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,110,60,
-,,,8,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,110,60,
-,,,9,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,110,60,
-,,,10,"Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion",120,115,60,
+"Character","Rarity","Skill Name","Skill Level","Skill Description","SP Cost","Initial SP","Skill Duration","Charging Type"
+"Hibiscus","3","Healing Strengthening·Type α","1","Attack +{{atk}:.0%}","40","0","20","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","0","20",""
+"","","","3","Attack +{{atk}:.0%}","40","0","20",""
+"","","","4","Attack +{{atk}:.0%}","35","0","20",""
+"","","","5","Attack +{{atk}:.0%}","35","0","20",""
+"","","","6","Attack +{{atk}:.0%}","35","0","20",""
+"","","","7","Attack +{{atk}:.0%}","30","0","20",""
+"Ansel","3","Healing Range Strengthening","1","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","45","10","19","Regen over time"
+"","","","2","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","44","10","20",""
+"","","","3","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","43","10","21",""
+"","","","4","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","40","10","22",""
+"","","","5","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","39","10","23",""
+"","","","6","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","38","10","24",""
+"","","","7","Attack range +{{ability_range_forward_extend}:.0f} tiles, Attack +{{atk}:.0%}","35","10","25",""
+"Myrrh","4","Double Heal","1","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","10","0","0","Regen over time"
+"","","","2","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","10","0","0",""
+"","","","3","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","10","0","0",""
+"","","","4","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","9","0","0",""
+"","","","5","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","9","0","0",""
+"","","","6","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","9","0","0",""
+"","","","7","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","9","0","0",""
+"","","","8","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","8","0","0",""
+"","","","9","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","8","0","0",""
+"","","","10","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and heal an additional target. Can hold {{ct}:.0f} charges","8","0","0",""
+"Myrrh","4","Healing Field","1","Attack +{{atk}:.0%}, heal an additional target on every heal","65","5","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, heal an additional target on every heal","65","5","25",""
+"","","","3","Attack +{{atk}:.0%}, heal an additional target on every heal","65","5","25",""
+"","","","4","Attack +{{atk}:.0%}, heal an additional target on every heal","60","10","25",""
+"","","","5","Attack +{{atk}:.0%}, heal an additional target on every heal","60","10","25",""
+"","","","6","Attack +{{atk}:.0%}, heal an additional target on every heal","60","10","25",""
+"","","","7","Attack +{{atk}:.0%}, heal an additional target on every heal","55","15","25",""
+"","","","8","Attack +{{atk}:.0%}, heal an additional target on every heal","53","17","25",""
+"","","","9","Attack +{{atk}:.0%}, heal an additional target on every heal","52","18","25",""
+"","","","10","Attack +{{atk}:.0%}, heal an additional target on every heal","50","20","25",""
+"Gavial","4","Revitalization","1","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","10","0","-1","Regen over time"
+"","","","2","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","3","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","4","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","5","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","6","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","7","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","8","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","9","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","10","On the next heal, additionally heal the target for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds. Can hold {{ct}:.0f} charges","8","0","-1",""
+"Gavial","4","Revitalization·Area","1","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","30","-1","Regen over time"
+"","","","2","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","31","-1",""
+"","","","3","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","32","-1",""
+"","","","4","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","35","-1",""
+"","","","5","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","36","-1",""
+"","","","6","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","37","-1",""
+"","","","7","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","40","-1",""
+"","","","8","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","43","-1",""
+"","","","9","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","46","-1",""
+"","","","10","Heal all allies within range for {{heal_scale}:.0%} of Gavial's Attack per second ({{heal_scale_2}:.0%} when HP is below 1/2) for {{duration}:.0f} seconds","60","50","-1",""
+"Sussurro","4","Healing Strengthening·Type β","1","Attack +{{atk}:.0%}","40","10","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","10","25",""
+"","","","3","Attack +{{atk}:.0%}","40","10","25",""
+"","","","4","Attack +{{atk}:.0%}","35","10","25",""
+"","","","5","Attack +{{atk}:.0%}","35","10","25",""
+"","","","6","Attack +{{atk}:.0%}","35","10","25",""
+"","","","7","Attack +{{atk}:.0%}","32","10","25",""
+"","","","8","Attack +{{atk}:.0%}","32","10","25",""
+"","","","9","Attack +{{atk}:.0%}","32","10","25",""
+"","","","10","Attack +{{atk}:.0%}","30","10","25",""
+"Sussurro","4","Deep Healing","1","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","25","0","20","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","25","0","21",""
+"","","","3","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","25","0","22",""
+"","","","4","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","22","0","25",""
+"","","","5","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","22","0","26",""
+"","","","6","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","22","0","27",""
+"","","","7","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","19","0","30",""
+"","","","8","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","18","0","30",""
+"","","","9","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","17","0","30",""
+"","","","10","Attack +{{atk}:.0%}, Attack Speed +{{attack_speed}:.0f}. Can only use up to 2 times in the same battle","15","0","30",""
+"Perfumer","4","Healing Strengthening·Type β","1","Attack +{{atk}:.0%}","40","10","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","10","25",""
+"","","","3","Attack +{{atk}:.0%}","40","10","25",""
+"","","","4","Attack +{{atk}:.0%}","35","10","25",""
+"","","","5","Attack +{{atk}:.0%}","35","10","25",""
+"","","","6","Attack +{{atk}:.0%}","35","10","25",""
+"","","","7","Attack +{{atk}:.0%}","32","10","25",""
+"","","","8","Attack +{{atk}:.0%}","32","10","25",""
+"","","","9","Attack +{{atk}:.0%}","32","10","25",""
+"","","","10","Attack +{{atk}:.0%}","30","10","25",""
+"Perfumer","4","Fine-tuning","1","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30","Regen over time"
+"","","","2","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","3","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","4","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","5","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","6","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","7","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","8","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","9","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"","","","10","Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}","60","20","30",""
+"Ptilopsis","5","Healing Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","20","30","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","20","30",""
+"","","","3","Attack +{{atk}:.0%}","40","20","30",""
+"","","","4","Attack +{{atk}:.0%}","35","20","30",""
+"","","","5","Attack +{{atk}:.0%}","35","20","30",""
+"","","","6","Attack +{{atk}:.0%}","35","20","30",""
+"","","","7","Attack +{{atk}:.0%}","32","20","30",""
+"","","","8","Attack +{{atk}:.0%}","32","20","30",""
+"","","","9","Attack +{{atk}:.0%}","32","20","30",""
+"","","","10","Attack +{{atk}:.0%}","30","20","30",""
+"Ptilopsis","5","Enkephalin","1","Increase attack range, reduce attack interval ({base_attack_time} seconds)","100","65","30","Regen over time"
+"","","","2","Increase attack range, reduce attack interval ({base_attack_time} seconds)","100","65","31",""
+"","","","3","Increase attack range, reduce attack interval ({base_attack_time} seconds)","100","65","32",""
+"","","","4","Increase attack range, highly reduce attack interval ({base_attack_time} seconds)","100","70","33",""
+"","","","5","Increase attack range, highly reduce attack interval ({base_attack_time} seconds)","100","70","34",""
+"","","","6","Increase attack range, highly reduce attack interval ({base_attack_time} seconds)","100","70","35",""
+"","","","7","Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)","100","75","36",""
+"","","","8","Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)","100","78","37",""
+"","","","9","Increase attack range, greatly reduce attack interval ({base_attack_time} seconds)","100","82","38",""
+"","","","10","Increase attack range, massively reduce attack interval ({base_attack_time} seconds)","100","85","40",""
+"Breeze","5","Focused Healing","1","Attack +{{atk}:.0%}, heal targets -1","40","20","25","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, heal targets -1","39","20","25",""
+"","","","3","Attack +{{atk}:.0%}, heal targets -1","38","20","25",""
+"","","","4","Attack +{{atk}:.0%}, heal targets -1","37","20","28",""
+"","","","5","Attack +{{atk}:.0%}, heal targets -1","36","20","28",""
+"","","","6","Attack +{{atk}:.0%}, heal targets -1","35","20","28",""
+"","","","7","Attack +{{atk}:.0%}, heal targets -1","34","20","31",""
+"","","","8","Attack +{{atk}:.0%}, heal targets -1","33","20","32",""
+"","","","9","Attack +{{atk}:.0%}, heal targets -1","32","20","33",""
+"","","","10","Attack +{{atk}:.0%}, heal targets -1","30","20","35",""
+"Breeze","5","Spread Healing","1","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","40","35","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","40","36",""
+"","","","3","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","40","37",""
+"","","","4","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","44","38",""
+"","","","5","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","44","39",""
+"","","","6","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","44","40",""
+"","","","7","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","48","41",""
+"","","","8","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","52","42",""
+"","","","9","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","56","43",""
+"","","","10","Attack +{{atk}:.0%}, healing changes to firing a healing shot at 1 ally within healing range, healing the target and allies in the 8 tiles around them. (Heal amount to allies other than the main target decreased by 50%)","80","60","45",""
+"Silence","5","Healing Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","20","30","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","20","30",""
+"","","","3","Attack +{{atk}:.0%}","40","20","30",""
+"","","","4","Attack +{{atk}:.0%}","35","20","30",""
+"","","","5","Attack +{{atk}:.0%}","35","20","30",""
+"","","","6","Attack +{{atk}:.0%}","35","20","30",""
+"","","","7","Attack +{{atk}:.0%}","32","20","30",""
+"","","","8","Attack +{{atk}:.0%}","32","20","30",""
+"","","","9","Attack +{{atk}:.0%}","32","20","30",""
+"","","","10","Attack +{{atk}:.0%}","30","20","30",""
+"Silence","5","Healing Drone","1","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","30","0","0","Regen over time"
+"","","","2","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","29","0","0",""
+"","","","3","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","28","0","0",""
+"","","","4","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","26","0","0",""
+"","","","5","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","25","0","0",""
+"","","","6","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","24","0","0",""
+"","","","7","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","22","0","0",""
+"","","","8","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","21","0","0",""
+"","","","9","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","20","0","0",""
+"","","","10","Obtain a healing drone. Able to store up to 1 drone. Drones will heal nearby allies after being deployed and self-destruct after 10 seconds","18","0","0",""
+"Warfarin","5","Emergency Bandage","1","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0","Regen on attack"
+"","","","2","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","3","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","4","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","5","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","6","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","7","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","8","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","9","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"","","","10","The next heal will heal an additional {{hp_ratio}:.0%} of the target's Max HP. This effect will only activate when the target has less than 1/2 HP remaining. Can hold {{ct}:.0f} charges","4","0","0",""
+"Warfarin","5","Unstable Plasma","1","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","35","-1","Regen over time"
+"","","","2","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","35","-1",""
+"","","","3","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","35","-1",""
+"","","","4","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","40","-1",""
+"","","","5","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","40","-1",""
+"","","","6","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","40","-1",""
+"","","","7","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","45","-1",""
+"","","","8","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","45","-1",""
+"","","","9","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","45","-1",""
+"","","","10","Grants the following effects to self and a random ally within attack range: Attack +{{atk}:.0%}, however lose {{hp_ratio}:.0%} Max HP every second, lasting for {{duration}:.0f} seconds","60","50","-1",""
+"Ceylon","5","Concentrated Hydrotherapy","1","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","10","0","0","Regen over time"
+"","","","2","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","10","0","0",""
+"","","","3","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","10","0","0",""
+"","","","4","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","9","0","0",""
+"","","","5","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","9","0","0",""
+"","","","6","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","9","0","0",""
+"","","","7","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","9","0","0",""
+"","","","8","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","8","0","0",""
+"","","","9","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","8","0","0",""
+"","","","10","The next heal will recover HP equal to {{heal_scale}:.0%} Attack and will not be decreased by trait. Can hold {{cnt}:.0f} charges","8","0","0",""
+"Ceylon","5","Water Spirit's Protection","1","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","20","20","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","22","21",""
+"","","","3","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","24","23",""
+"","","","4","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","26","25",""
+"","","","5","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","28","26",""
+"","","","6","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","30","27",""
+"","","","7","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","32","30",""
+"","","","8","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","34","33",""
+"","","","9","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","36","36",""
+"","","","10","Attack +{{atk}:.0%}, heal targets +1, grant [Resist] effect to allies within attack range during skill activation (reduce duration of certain negative effects by 50%, currently includes stun)","80","40","40",""
+"Shining","6","Creed","1","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","50","0","20","Regen over time"
+"","","","2","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","49","0","20",""
+"","","","3","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","48","0","20",""
+"","","","4","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","47","10","20",""
+"","","","5","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","46","10","20",""
+"","","","6","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","45","10","20",""
+"","","","7","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","44","14","20",""
+"","","","8","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","43","16","20",""
+"","","","9","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","42","18","20",""
+"","","","10","Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}","40","20","20",""
+"Shining","6","Automatic Cover","1","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","8","0","-1","Regen over time"
+"","","","2","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","8","0","-1",""
+"","","","3","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","8","0","-1",""
+"","","","4","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","7","0","-1",""
+"","","","5","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","7","0","-1",""
+"","","","6","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","7","0","-1",""
+"","","","7","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","7","0","-1",""
+"","","","8","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","6","0","-1",""
+"","","","9","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","6","0","-1",""
+"","","","10","The next heal will grant a shield to the target that lasts for {{duration}:.0f} seconds. The shield can absorb damage equal to {{atk_scale}:.0%} of Shining's Attack. Additionally, it increases the target's Defense by {{def}:.0%}. Can hold {{ct}:.0f} charges","5","0","-1",""
+"Shining","6","Dogmatic Field","1","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60","Regen over time"
+"","","","2","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","3","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","4","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","5","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","6","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","7","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","100","60",""
+"","","","8","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","105","60",""
+"","","","9","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","110","60",""
+"","","","10","Attack +{{atk}:.0%}. Increase the Defense of all allies within attack range by {{def}:.0%}","120","115","60",""
+"Nightingale","6","Healing Strengthening·Type γ","1","Attack +{{atk}:.0%}","40","20","30","Regen over time"
+"","","","2","Attack +{{atk}:.0%}","40","20","30",""
+"","","","3","Attack +{{atk}:.0%}","40","20","30",""
+"","","","4","Attack +{{atk}:.0%}","35","20","30",""
+"","","","5","Attack +{{atk}:.0%}","35","20","30",""
+"","","","6","Attack +{{atk}:.0%}","35","20","30",""
+"","","","7","Attack +{{atk}:.0%}","32","20","30",""
+"","","","8","Attack +{{atk}:.0%}","32","20","30",""
+"","","","9","Attack +{{atk}:.0%}","32","20","30",""
+"","","","10","Attack +{{atk}:.0%}","30","20","30",""
+"Nightingale","6","Arcane Shield","1","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","11","0","-1","Regen over time"
+"","","","2","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","11","0","-1",""
+"","","","3","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","11","0","-1",""
+"","","","4","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","5","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","6","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","7","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","10","0","-1",""
+"","","","8","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","9","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","9","0","-1",""
+"","","","10","The next heal will grant shields to all targets that last for {{duration}:.0f} seconds. The shields can absorb magical damage equal to {{atk_scale}:.0%} of Nightingale's Attack. Additionally, they increase the targets' Magic resistance by {{magic_resistance}:.0f}. Can hold {{ct}:.0f} charges","8","0","-1",""
+"Nightingale","6","Holy Territory","1","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","100","60","Regen over time"
+"","","","2","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","100","60",""
+"","","","3","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","100","60",""
+"","","","4","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","105","60",""
+"","","","5","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","105","60",""
+"","","","6","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","105","60",""
+"","","","7","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","110","60",""
+"","","","8","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","110","60",""
+"","","","9","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","110","60",""
+"","","","10","Increase attack range, Attack +{{atk}:.0%}. All allies within attack range gain +{{magic_resistance}:.0%} Magic resistance and {{prob}:.0%} magic evasion","120","115","60",""
+""
