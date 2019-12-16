@@ -26,7 +26,7 @@ all.forEach(element => {
     var ws2 = XLSX.utils.sheet_to_csv(ws1,{FS:"\t",RS:"-----"})
     ws2 = ws2.replace(/(")/g,``)
     ws2 = ws2.replace(/(\t)/g,`","`)
-    ws2 = ws2.replace(/(\n)/g,` `)
+    ws2 = ws2.replace(/(\n)/g,`</br></br>`)
     ws2 = ws2.replace(/(-----)/g,`"\n"`)
     ws2 = `"${ws2}"`
     fs.writeFile(`./input/${element}.csv`,ws2, function (err) {

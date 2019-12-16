@@ -1058,6 +1058,36 @@
 			"Prevents the operator's HP from falling below 1 while the skill is active, Attack +{{atk}:.0%}. Operator is stunned for {{stun}:.0f} seconds after the skill ends"
 		]
 	},
+	"skchr_broca_1": {
+		"name": "Electrify",
+		"desc": [
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Attack +{{atk}:.0%}, normal attacks deal magical damage"
+		]
+	},
+	"skchr_broca_2": {
+		"name": "High Voltage Current",
+		"desc": [
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends"
+		]
+	},
 	"skchr_astesi_1": {
 		"name": "Constellation Guardian",
 		"desc": [
@@ -2561,46 +2591,46 @@
 	"skchr_mgllan_1": {
 		"name": "High-efficiency Refrigeration Module",
 		"desc": [
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds.  Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends"
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to freeze for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends"
 		]
 	},
 	"skchr_mgllan_2": {
 		"name": "Laser Mining Module",
 		"desc": [
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks.  Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends"
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on melee tiles and carry out single-target magic attacks. </br></br>Active: Magallan and her drones have +{{attack_speed}:.0f} Attack speed. The drones change to splash attacks. All drones will be retrieved after the skill ends"
 		]
 	},
 	"skchr_mgllan_3": {
 		"name": "Armed Combat Module",
 		"desc": [
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
-			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks.  Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends"
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends",
+			"Passive: Drones can be deployed on ranged tiles and carry out physical splash attacks. </br></br>Active: Magallan and her drones have +{{atk}:.0%} Attack. The splash area of her drones increase. All drones will be retrieved after the skill ends"
 		]
 	},
 	"skcom_charge_cost[1]": {
@@ -2775,6 +2805,21 @@
 			"Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds",
 			"Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds",
 			"Immediately obtain {{cost}:.0f} cost. Deal {{atk_scale}:.0%} magical damage twice to all nearby enemies and stun them for {{stun}:.0f} seconds"
+		]
+	},
+	"skchr_sddrag_2": {
+		"name": "Spiritual Spark",
+		"desc": [
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy",
+			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy"
 		]
 	},
 	"skchr_grani_2": {
