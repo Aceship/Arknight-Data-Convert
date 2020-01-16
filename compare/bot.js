@@ -58,7 +58,6 @@ fs.writeFile(`./output/Taglist.csv`, csv.join("\n"), function (err) {
         return console.log(err);
     }
 })
-return
 var csv = []
 Object.keys(enskilldetail).forEach(eachskillname => {
     console.log(eachskillname)
@@ -86,7 +85,6 @@ fs.writeFile(`./output/SkillList.csv`, csv.join("\n"), function (err) {
         return console.log(err);
     }
 })
-return 
 var csv = []
 Object.keys(enitemdetail.items).forEach(eachitemname => {
     var enitem = enitemdetail.items[eachitemname]

@@ -85,12 +85,12 @@ Hellagur,6,"Waxing Moon, Waning Star","Based on HP lost, increase Attack speed (
 ,,"Waxing Moon, Waning Star","Based on HP lost, increase Attack speed (up to +100 Attack speed when 70% HP is lost)",Elite 2 Lvl 1,0
 ,,Strategizing,"When not blocking enemies, recover 60 HP every second",Elite 2 Lvl 1,0
 ,,Strategizing,"When not blocking enemies, recover 70 (+10) HP every second",Elite 2 Lvl 1,4
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Blaze,6,Emergency Defibrillator,"The first time HP falls below 25%, recover 50% HP and prevent HP from falling below 50% within 3 seconds.",Elite 1 Lvl 1,0
+,,Emergency Defibrillator,"The first time HP falls below 25%, recover 50% HP and prevent HP from falling below 50% within 4 (+1) seconds.",Elite 1 Lvl 1,2
+,,Emergency Defibrillator,"The first time HP falls below 25%, recover 50% HP and prevent HP from falling below 50% within 6 seconds.",Elite 2 Lvl 1,0
+,,Emergency Defibrillator,"The first time HP falls below 25%, recover 50% HP and prevent HP from falling below 50% within 7 (+1) seconds.",Elite 2 Lvl 1,2
+,,Harsh Training,"15 seconds after deployment, gain [Resist] effect (reduce duration of stun, chill and freeze by 50%)",Elite 2 Lvl 1,0
+,,Harsh Training,"12 (-3) seconds after deployment, gain [Resist] effect (reduce duration of stun, chill and freeze by 50%)",Elite 2 Lvl 1,4
 ,,,,,
 ,,,,,
 ,,,,,

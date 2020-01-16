@@ -8,8 +8,8 @@ Rope,4,Auditory Training,Gain 15% physical evasion,Elite 1 Lvl 1,0
 ,,Auditory Training,Gain 34% (+4%) physical evasion,Elite 2 Lvl 1,4
 Shaw,4,Fire-fighting Gear,Magic resistance +7,Elite 1 Lvl 1,0
 ,,Fire-fighting Gear,Magic resistance +15,Elite 2 Lvl 1,0
-Ethan,4,Binding,Attacks have 25% chance to 【Freeze】(unable to move) the enemy for 2 seconds,Elite 1 Lvl 1,0
-,,Binding,Attacks have 25% chance to 【Freeze】(unable to move) the enemy for 3 seconds,Elite 2 Lvl 1,0
+Ethan,4,Binding,Attacks have 25% chance to bind the enemy (unable to move) for 2 seconds,Elite 1 Lvl 1,0
+,,Binding,Attacks have 25% chance to bind the enemy (unable to move) for 3 seconds,Elite 2 Lvl 1,0
 Projekt Red,5,Bonebreaker,Every attack will deal damage equal to at least 20% Attack,Elite 1 Lvl 1,0
 ,,Bonebreaker,Every attack will deal damage equal to at least 23% (+3%) Attack,Elite 1 Lvl 1,4
 ,,Bonebreaker,Every attack will deal damage equal to at least 30% Attack,Elite 2 Lvl 1,0

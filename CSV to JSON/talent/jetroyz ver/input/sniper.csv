@@ -20,6 +20,8 @@ May,4,Victorian Explorer,"Attack +4%, Attack speed +4",Elite 1 Lvl 1,0
 ,,Victorian Explorer,"Attack +5% (+1%), Attack speed +5 (+1)",Elite 1 Lvl 1,4
 ,,Victorian Explorer,"Attack +7%, Attack speed +7",Elite 2 Lvl 1,0
 ,,Victorian Explorer,"Attack +8% (+1%), Attack speed +8 (+1)",Elite 2 Lvl 1,4
+Ambriel,4,Precise Strike,"When attacking targets outside of the default attack range, there is 25% chance to stun the target for 2 seconds.",Elite 2 Lvl 1,0
+,,Precise Strike,"When attacking targets outside of the default attack range, there is 28% (+3%) chance to stun the target for 2 seconds.",Elite 2 Lvl 1,4
 Blue Poison,5,Neurotoxin,"Attacks poison the target, dealing 30 magical damage every second for 3 seconds",Elite 1 Lvl 1,0
 ,,Neurotoxin,"Attacks poison the target, dealing 40 (+10) magical damage every second for 3 seconds",Elite 1 Lvl 1,4
 ,,Neurotoxin,"Attacks poison the target, dealing 75 magical damage every second for 3 seconds",Elite 2 Lvl 1,0
@@ -42,6 +44,8 @@ Executor,5,Terminating Modification,"When attacking, ignore 80 Defence",Elite 1 
 ,,Terminating Modification,"When attacking, ignore 95 (+15) Defence",Elite 1 Lvl 1,4
 ,,Terminating Modification,"When attacking, ignore 160 Defence",Elite 2 Lvl 1,0
 ,,Terminating Modification,"When attacking, ignore 175 (+15) Defence",Elite 2 Lvl 1,4
+GreyThroat,5,Tailwind,Attack speed +6,Elite 1 Lvl 1,0
+,,Tailwind,"Attack speed +6. When attacking, 15% chance to increase Attack to 150%",Elite 2 Lvl 1,0
 Exusiai,6,Rapid Magazine,Attack speed +6,Elite 1 Lvl 1,0
 ,,Rapid Magazine,Attack speed +9 (+3),Elite 1 Lvl 1,2
 ,,Rapid Magazine,Attack speed +12,Elite 2 Lvl 1,0
