@@ -4,15 +4,15 @@ Orchid,3,Casting Speed Increase,Attack speed +5,Elite 1 Lvl 1,0
 Deepcolor,4,Summon Tentacles,Can summon 2 tentacles to assist in battle,Lvl 1,0
 ,,Summon Tentacles,Can summon 3 tentacles to assist in battle,Elite 1 Lvl 1,0
 ,,Summon Tentacles,Can summon 4 tentacles to assist in battle,Elite 2 Lvl 1,0
-Earthspirit,4,Geological Exploration,Slight increase to the duration of the stop effect (+0.1),Elite 2 Lvl 1,0
-,,Geological Exploration,Small increase to the duration of the stop effect (+0.13),Elite 2 Lvl 1,4
+Earthspirit,4,Geological Exploration,Slight increase to the duration of the slow effect (+0.1),Elite 2 Lvl 1,0
+,,Geological Exploration,Small increase to the duration of the slow effect (+0.13),Elite 2 Lvl 1,4
 Mayer,5,Mechanical Otters,Can summon 3 mechanical otters. Inflict Attack speed -10 to enemies attacking the otters,Lvl 1,0
 ,,Mechanical Otters,Can summon 4 mechanical otters. Inflict Attack speed -25 to enemies attacking the otters,Elite 1 Lvl 1,0
 ,,Mechanical Otters,Can summon 5 mechanical otters. Inflict Attack speed -25 to enemies attacking the otters,Elite 2 Lvl 1,0
-Pramanix,5,Weakening,"Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 115%",Elite 1 Lvl 1,0
-,,Weakening,"Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 118% (+3%)",Elite 1 Lvl 1,4
-,,Weakening,"Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 130%",Elite 2 Lvl 1,0
-,,Weakening,"Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 133% (+3%)",Elite 2 Lvl 1,4
+Pramanix,5,Weakening,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 15%) (When stacked, only the strongest effect becomes active)",Elite 1 Lvl 1,0
+,,Weakening,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 18% (+3%)) (When stacked, only the strongest effect becomes active)",Elite 1 Lvl 1,4
+,,Weakening,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 30%) (When stacked, only the strongest effect becomes active)",Elite 2 Lvl 1,0
+,,Weakening,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 33% (+3%)) (When stacked, only the strongest effect becomes active)",Elite 2 Lvl 1,4
 ,,Echo,Attacks 2 targets simultaneously,Elite 2 Lvl 1,0
 Истина (Istina),5,Detector,"Defense -35%, however Attack speed +18",Elite 2 Lvl 1,0
 ,,Detector,"Defense -35%, however Attack speed +21 (+3)",Elite 2 Lvl 1,4
@@ -22,6 +22,16 @@ Glaucus,5,Counter Device,"Prioritize attacking drones, Attack +25% when attackin
 ,,Counter Device,"Prioritize attacking drones, Attack +30% (+5%) when attacking drones",Elite 1 Lvl 1,4
 ,,Counter Device,"Prioritize attacking drones, Attack +50% when attacking drones",Elite 2 Lvl 1,0
 ,,Counter Device,"Prioritize attacking drones, Attack +55% (+5%) when attacking drones",Elite 2 Lvl 1,4
+Shamare,5,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 10%) (When stacked, only the strongest effect becomes active)",Lvl 1,0
+,,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 13% (+3%)) (When stacked, only the strongest effect becomes active)",Lvl 1,4
+,,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 20%) (When stacked, only the strongest effect becomes active)",Elite 1 Lvl 1,0
+,,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 23% (+3%)) (When stacked, only the strongest effect becomes active)",Elite 1 Lvl 1,4
+,,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 30%) (When stacked, only the strongest effect becomes active)",Elite 2 Lvl 1,0
+,,Omen of Defeat,"When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 33% (+3%)) (When stacked, only the strongest effect becomes active)",Elite 2 Lvl 1,4
+Tsukinogi,5,Blessing,"When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 12%)",Elite 1 Lvl 1,0
+,,Blessing,"When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 14% (+2%))",Elite 1 Lvl 1,4
+,,Blessing,"When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 18%)",Elite 2 Lvl 1,0
+,,Blessing,"When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 20% (+2%))",Elite 2 Lvl 1,4
 Angelina,6,Acceleration Field,All allies' Attack speed +3,Elite 1 Lvl 1,0
 ,,Acceleration Field,All allies' Attack speed +4 (+1),Elite 1 Lvl 1,5
 ,,Acceleration Field,All allies' Attack speed +7,Elite 2 Lvl 1,0

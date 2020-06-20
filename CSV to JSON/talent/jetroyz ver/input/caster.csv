@@ -15,8 +15,8 @@ Gitano,4,Divination,"After deployment, randomly gain one of the following effect
 ,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack +9% (+2%); Attack speed +9 (+2); Max HP +14% (+2%)",Elite 1 Lvl 1,4
 ,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack +13%; Attack speed +13; Max HP +20%",Elite 2 Lvl 1,0
 ,,Divination,"After deployment, randomly gain one of the following effects for the rest of the battle: Attack +15% (+2%); Attack speed +15 (+2); Max HP +22% (+2%)",Elite 2 Lvl 1,4
-Greyy,4,Static Field,Attacks inflict 0.4 seconds of stop effect to enemies,Elite 1 Lvl 1,0
-,,Static Field,Attacks inflict 0.6 seconds of stop effect to enemies,Elite 2 Lvl 1,0
+Greyy,4,Static Field,Attacks inflict 0.4 seconds of slow to enemies,Elite 1 Lvl 1,0
+,,Static Field,Attacks inflict 0.6 seconds of slow to enemies,Elite 2 Lvl 1,0
 Amiya,5,？？？,？？？？？,Lvl 1,0
 ,,Emotion Absorption,Additionally recover 2 SP when attacking enemies. Gain 8 SP after killing an enemy,Elite 2 Lvl 1,0
 ,,Emotion Absorption,Additionally recover 3 (+1) SP when attacking enemies. Gain 10 (+2) SP after killing an enemy,Elite 2 Lvl 1,5
@@ -28,6 +28,10 @@ Nightmare,5,Dual Personality,"When equipping Skill 1, obtain 20% physical and ma
 ,,Dual Personality,"When equipping Skill 1, obtain 25% (+5%) physical and magic evasion. When equipping Skill 2, Attack +12% (+3%)",Elite 1 Lvl 1,4
 ,,Dual Personality,"When equipping Skill 1, obtain 40% physical and magic evasion. When equipping Skill 2, Attack +15%",Elite 2 Lvl 1,0
 ,,Dual Personality,"When equipping Skill 1, obtain 45% (+5%) physical and magic evasion. When equipping Skill 2, Attack +18% (+3%)",Elite 2 Lvl 1,4
+Leizi,5,Uninterrupted Passage,"When attacking unblocked enemies, increase Attack to 110%",Elite 1 Lvl 1,0
+,,Uninterrupted Passage,"When attacking unblocked enemies, increase Attack to 113% (+3%)",Elite 1 Lvl 1,4
+,,Uninterrupted Passage,"When attacking unblocked enemies, increase Attack to 120%",Elite 2 Lvl 1,0
+,,Uninterrupted Passage,"When attacking unblocked enemies, increase Attack to 123% (+3%)",Elite 2 Lvl 1,4
 Ifrit,6,Mental Dissolution,All enemies within attack range get Magic resistance -15%,Lvl 1,0
 ,,Mental Dissolution,All enemies within attack range get Magic resistance -19% (+4%),Lvl 1,2
 ,,Mental Dissolution,All enemies within attack range get Magic resistance -27%,Elite 1 Lvl 1,0
@@ -46,11 +50,11 @@ Mostima,6,Skill Aura · Caster,"When deployed, all ally 【Caster】 operatives'
 ,,Skill Aura · Caster,"When deployed, all ally 【Caster】 operatives' SP recovery speed +0.4 SP/sec  (does not stack with similar effects)",Elite 2 Lvl 1,0
 ,,Subjective Time Dilation,Movement speed of enemies within attack range -15%,Elite 2 Lvl 1,0
 ,,Subjective Time Dilation,Movement speed of enemies within attack range -18% (+3%),Elite 2 Lvl 1,4
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Ceobe,6,Whittling,"When attacking, deal additional magic damage equal to 25% of the target's Defense",Elite 1 Lvl 1,0
+,,Whittling,"When attacking, deal additional magic damage equal to 29% (+4%) of the target's Defense",Elite 1 Lvl 1,4
+,,Whittling,"When attacking, deal additional magic damage equal to 40% of the target's Defense",Elite 2 Lvl 1,0
+,,Whittling,"When attacking, deal additional magic damage equal to 44% (+4%) of the target's Defense",Elite 2 Lvl 1,4
+,,Lone Journey,"When there are no allies in the 4 adjacent tiles, Attack +8% and Attack speed +8",Elite 2 Lvl 1,0
 ,,,,,
 ,,,,,
 ,,,,,

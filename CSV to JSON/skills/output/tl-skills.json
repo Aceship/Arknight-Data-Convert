@@ -1,0 +1,117 @@
+{
+	"1": {
+		"name": "\"When activated",
+		"desc": [
+			"When activated, all nearby enemies lose their stealth effects",
+			null
+		]
+	},
+	"Assault Order?Type ��": {
+		"name": "1",
+		"desc": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	" Siege\"": {
+		"name": "Assault Order?Type ��",
+		"desc": [
+			"Regen over time\r",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	"Attack Strengthening?Type ��": {
+		"name": "1",
+		"desc": [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	" Earthspirit\"": {
+		"name": "Attack Strengthening?Type ��",
+		"desc": [
+			"Regen over time\r",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	" Skyfire\"": {
+		"name": "Attack Strengthening?Type ��",
+		"desc": [
+			"Regen over time\r",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	"Swift Strike?Type ��": {
+		"name": "1",
+		"desc": [
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}",
+			"Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f}"
+		]
+	},
+	" Nightingale\"": {
+		"name": "Healing Strengthening?Type ��",
+		"desc": [
+			"Regen over time\r",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	"Self-destruct": {
+		"name": "1",
+		"desc": [
+			null
+		]
+	}
+}

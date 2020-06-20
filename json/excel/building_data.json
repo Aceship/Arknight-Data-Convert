@@ -4149,7 +4149,7 @@
         {
           "buffData": [
             {
-              "buffId": "dorm_rec_all[020]",
+              "buffId": "dorm_rec_all[011]",
               "cond": {
                 "phase": 0,
                 "level": 1
@@ -4286,14 +4286,14 @@
         {
           "buffData": [
             {
-              "buffId": "dorm_rec_all[030]",
+              "buffId": "dorm_rec_all[013]",
               "cond": {
                 "phase": 0,
                 "level": 1
               }
             },
             {
-              "buffId": "dorm_rec_all[040]",
+              "buffId": "dorm_rec_all[020]",
               "cond": {
                 "phase": 2,
                 "level": 1
@@ -5052,14 +5052,14 @@
         {
           "buffData": [
             {
-              "buffId": "dorm_rec_all[030]",
+              "buffId": "dorm_rec_all[013]",
               "cond": {
                 "phase": 0,
                 "level": 1
               }
             },
             {
-              "buffId": "dorm_rec_all[050]",
+              "buffId": "dorm_rec_all[022]",
               "cond": {
                 "phase": 2,
                 "level": 1
@@ -5194,7 +5194,7 @@
               }
             },
             {
-              "buffId": "dorm_rec_all[060]",
+              "buffId": "dorm_rec_all[021]",
               "cond": {
                 "phase": 2,
                 "level": 1
@@ -5487,7 +5487,7 @@
         {
           "buffData": [
             {
-              "buffId": "dorm_rec_all[030]",
+              "buffId": "dorm_rec_all[013]",
               "cond": {
                 "phase": 1,
                 "level": 1
@@ -5966,6 +5966,622 @@
           ]
         }
       ]
+    },
+    "char_2014_nian": {
+      "charId": "char_2014_nian",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[140]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_cost[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_225_haak": {
+      "charId": "char_225_haak",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "control_clue_cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession[170]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_226_hmau": {
+      "charId": "char_226_hmau",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_proc_probability[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "control_mp_cost&faction2[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_383_snsant": {
+      "charId": "char_383_snsant",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_spd_variable2[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "trade_ord_spd_variable2[001]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_222_bpipe": {
+      "charId": "char_222_bpipe",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_all&oneself[021]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[310]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_379_sesa": {
+      "charId": "char_379_sesa",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_cost3[110]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[102]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_337_utage": {
+      "charId": "char_337_utage",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd[020]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "meet_spd[001]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_252_bibeak": {
+      "charId": "char_252_bibeak",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_wt&cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "trade_ord_wt&cost[001]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_385_finlpp": {
+      "charId": "char_385_finlpp",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "power_rec_spd[003]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd&trade[000]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_2013_cerber": {
+      "charId": "char_2013_cerber",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_limit&cost[001]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd_addition[031]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_306_leizi": {
+      "charId": "char_306_leizi",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "control_clue_cost[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "control_clue_cost[011]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_159_peacok": {
+      "charId": "char_159_peacok",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_single[030]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_formula_spd[001]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_250_phatom": {
+      "charId": "char_250_phatom",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession[080]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd&profession[180]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_254_vodfox": {
+      "charId": "char_254_vodfox",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_wt&cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_vodfox[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_301_cutter": {
+      "charId": "char_301_cutter",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[300]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_cost3[300]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_333_sidero": {
+      "charId": "char_333_sidero",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession2[020]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd&profession2[220]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_113_cqbw": {
+      "charId": "char_113_cqbw",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd&profession2[040]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd&profession2[241]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "train_cost&profession[040]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_400_weedy": {
+      "charId": "char_400_weedy",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd&power[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "manu_prod_spd&power[011]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_401_elysm": {
+      "charId": "char_401_elysm",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "meet_team[060]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "meet_flag[060]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_376_therex": {
+      "charId": "char_376_therex",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "power_rec_spd[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "power_rec_spd&cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 30
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_343_tknogi": {
+      "charId": "char_343_tknogi",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd&clue[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "hire_spd&clue[100]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_378_asbest": {
+      "charId": "char_378_asbest",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd&limit&cost[011]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_limit&cost[010]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   "buffs": {
@@ -5974,7 +6590,7 @@
       "buffName": "合作协议",
       "buffIcon": "control",
       "skillIcon": "bskill_ctrl_t_spd",
-      "sortId": 1402,
+      "sortId": 1302,
       "buffColor": "#005752",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -5986,12 +6602,48 @@
       "buffName": "大小姐",
       "buffIcon": "control",
       "skillIcon": "bskill_ctrl_t_spd",
-      "sortId": 1401,
+      "sortId": 1301,
       "buffColor": "#005752",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "CONTROL",
       "description": "进驻控制中枢时，所有贸易站订单效率<@cc.vup>+7%</>（同种效果取最高）"
+    },
+    "control_clue_cost[000]": {
+      "buffId": "control_clue_cost[000]",
+      "buffName": "神经质",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_c_wt",
+      "sortId": 1503,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，<@cc.kw>提升</>会客室内干员<@cc.kw>所属派系的线索倾向效果</>，但控制中枢内所有干员<@cc.vdown>大幅提升心情消耗</>"
+    },
+    "control_clue_cost[010]": {
+      "buffId": "control_clue_cost[010]",
+      "buffName": "至察",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_c_wt1",
+      "sortId": 1501,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，<@cc.kw>小幅提升</>会客室内干员<@cc.kw>所属派系的线索倾向效果</>，但控制中枢内所有干员<@cc.vdown>小幅提升心情消耗</>"
+    },
+    "control_clue_cost[011]": {
+      "buffId": "control_clue_cost[011]",
+      "buffName": "断事如神",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_c_wt2",
+      "sortId": 1502,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，<@cc.kw>小幅提升</>会客室内干员<@cc.kw>所属派系的线索倾向效果</>"
     },
     "control_mp_cost[000]": {
       "buffId": "control_mp_cost[000]",
@@ -6070,12 +6722,36 @@
       "buffName": "德才兼备",
       "buffIcon": "control",
       "skillIcon": "bskill_ctrl_lungmen",
-      "sortId": 1102,
+      "sortId": 1103,
       "buffColor": "#005752",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "CONTROL",
       "description": "进驻控制中枢时，控制中枢内每个<@cc.kw>龙门近卫局</>干员可使控制中枢内所有干员的心情每小时消耗<@cc.vup>-0.05</>"
+    },
+    "control_mp_cost&faction2[000]": {
+      "buffId": "control_mp_cost&faction2[000]",
+      "buffName": "坚毅随和",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_lda",
+      "sortId": 1201,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，控制中枢内每个<@cc.kw>鲤氏侦探所</>干员可使该派系干员<@cc.kw>额外降低心情消耗</>，同时每人可使控制中枢内所有干员的心情每小时消耗<@cc.vup>-0.05</>"
+    },
+    "power_rec_spd&cost[000]": {
+      "buffId": "power_rec_spd&cost[000]",
+      "buffName": "热情澎湃",
+      "buffIcon": "power",
+      "skillIcon": "bskill_pow_spd&cost",
+      "sortId": 2201,
+      "buffColor": "#8fc31f",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "POWER",
+      "description": "进驻发电站时，心情每小时消耗<@cc.vup>-0.52</>"
     },
     "power_rec_spd[000]": {
       "buffId": "power_rec_spd[000]",
@@ -6087,11 +6763,23 @@
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+10%</>"
+      "description": "进驻发电站时，无人机充能速度<@cc.vup>+10%</>"
     },
     "power_rec_spd[001]": {
       "buffId": "power_rec_spd[001]",
       "buffName": "设备维护",
+      "buffIcon": "power",
+      "skillIcon": "bskill_pow_spd2",
+      "sortId": 2102,
+      "buffColor": "#8fc31f",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "POWER",
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+15%</>"
+    },
+    "power_rec_spd[003]": {
+      "buffId": "power_rec_spd[003]",
+      "buffName": "清洁能源",
       "buffIcon": "power",
       "skillIcon": "bskill_pow_spd2",
       "sortId": 2101,
@@ -6099,19 +6787,19 @@
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+15%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+15%</>"
     },
     "power_rec_spd[002]": {
       "buffId": "power_rec_spd[002]",
       "buffName": "静电场",
       "buffIcon": "power",
       "skillIcon": "bskill_pow_spd3",
-      "sortId": 2201,
+      "sortId": 2301,
       "buffColor": "#8fc31f",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+20%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+20%</>"
     },
     "power_rec_spd[010]": {
       "buffId": "power_rec_spd[010]",
@@ -6123,19 +6811,19 @@
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+10%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+10%</>"
     },
     "power_rec_spd[020]": {
       "buffId": "power_rec_spd[020]",
       "buffName": "高热充能",
       "buffIcon": "power",
       "skillIcon": "bskill_pow_spd2",
-      "sortId": 2105,
+      "sortId": 2106,
       "buffColor": "#8fc31f",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+15%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+15%</>"
     },
     "power_rec_spd[030]": {
       "buffId": "power_rec_spd[030]",
@@ -6147,19 +6835,19 @@
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+15%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+15%</>"
     },
     "power_rec_spd[031]": {
       "buffId": "power_rec_spd[031]",
       "buffName": "脉冲电弧·β",
       "buffIcon": "power",
       "skillIcon": "bskill_pow_spd3",
-      "sortId": 2202,
+      "sortId": 2302,
       "buffColor": "#8fc31f",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+20%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+20%</>"
     },
     "power_rec_spd[040]": {
       "buffId": "power_rec_spd[040]",
@@ -6171,26 +6859,50 @@
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+10%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+10%</>"
     },
     "power_rec_spd[041]": {
       "buffId": "power_rec_spd[041]",
       "buffName": "电磁充能·β",
       "buffIcon": "power",
       "skillIcon": "bskill_pow_spd2",
-      "sortId": 2104,
+      "sortId": 2105,
       "buffColor": "#8fc31f",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
-      "description": "进驻发电站时，无人机每小时恢复速度<@cc.vup>+15%</>"
+      "description": "进驻发电站时，无人机每小时充能速度<@cc.vup>+15%</>"
+    },
+    "manu_prod_spd&power[000]": {
+      "buffId": "manu_prod_spd&power[000]",
+      "buffName": "自动化·α",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd&power1",
+      "sortId": 3501,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，当前制造站内其他干员提供的生产力<@cc.vdown>全部归零</>，每个<@cc.kw>发电站</>为当前制造站的生产力<@cc.vup>+10%</>"
+    },
+    "manu_prod_spd&power[011]": {
+      "buffId": "manu_prod_spd&power[011]",
+      "buffName": "仿生海龙",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd&power2",
+      "sortId": 3522,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，当前制造站内其他干员提供的生产力<@cc.vdown>全部归零</>，每个<@cc.kw>发电站</>为当前制造站的生产力<@cc.vup>+15%</>"
     },
     "manu_prod_spd[000]": {
       "buffId": "manu_prod_spd[000]",
       "buffName": "标准化·α",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd1",
-      "sortId": 3501,
+      "sortId": 3502,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6202,7 +6914,7 @@
       "buffName": "标准化·β",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd2",
-      "sortId": 3522,
+      "sortId": 3533,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6214,7 +6926,7 @@
       "buffName": "莱茵科技·α",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd1",
-      "sortId": 3502,
+      "sortId": 3503,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6226,7 +6938,7 @@
       "buffName": "莱茵科技·β",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd2",
-      "sortId": 3523,
+      "sortId": 3534,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6238,7 +6950,7 @@
       "buffName": "咪波·制造型",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd3",
-      "sortId": 3531,
+      "sortId": 3541,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6251,6 +6963,18 @@
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd_add1",
       "sortId": 3512,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站后，生产力首小时<@cc.vup>+20%</>，此后每小时<@cc.vup>+1%</>，最终达到<@cc.vup>+25%</>"
+    },
+    "manu_prod_spd_addition[031]": {
+      "buffId": "manu_prod_spd_addition[031]",
+      "buffName": "“等不及”",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_add1",
+      "sortId": 3203,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6286,7 +7010,7 @@
       "buffName": "仓库整备·β",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd&limit3",
-      "sortId": 3403,
+      "sortId": 3402,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6297,8 +7021,20 @@
       "buffId": "manu_prod_limit&cost[000]",
       "buffName": "拾荒者",
       "buffIcon": "manufacture",
-      "skillIcon": "bskill_man_limit&cost",
-      "sortId": 3101,
+      "skillIcon": "bskill_man_limit&cost1",
+      "sortId": 3201,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，仓库容量上限<@cc.vup>+8</>，心情每小时消耗<@cc.vup>-0.25</>"
+    },
+    "manu_prod_limit&cost[001]": {
+      "buffId": "manu_prod_limit&cost[001]",
+      "buffName": "“都想要”",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_limit&cost1",
+      "sortId": 3203,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6309,13 +7045,25 @@
       "buffId": "manu_prod_limit&cost[0000]",
       "buffName": "拾荒者",
       "buffIcon": "manufacture",
-      "skillIcon": "bskill_man_limit&cost",
-      "sortId": 3201,
+      "skillIcon": "bskill_man_limit&cost1",
+      "sortId": 3202,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
       "description": "进驻制造站时，仓库容量上限<@cc.vup>+8</>，心情每小时消耗<@cc.vup>-0.25</>"
+    },
+    "manu_prod_limit&cost[010]": {
+      "buffId": "manu_prod_limit&cost[010]",
+      "buffName": "探险者",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_limit&cost2",
+      "sortId": 3532,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，仓库容量上限<@cc.vup>+16</>，心情每小时消耗<@cc.vup>-0.25</>"
     },
     "manu_prod_spd&limit&cost[000]": {
       "buffId": "manu_prod_spd&limit&cost[000]",
@@ -6346,7 +7094,19 @@
       "buffName": "麻烦制造者",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_spd&limit&cost3",
-      "sortId": 3521,
+      "sortId": 3531,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，生产力<@cc.vup>+25%</>，仓库容量上限<@cc.vdown>-12</>，心情每小时消耗<@cc.vdown>+0.25</>"
+    },
+    "manu_prod_spd&limit&cost[011]": {
+      "buffId": "manu_prod_spd&limit&cost[011]",
+      "buffName": "特立独行",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd&limit&cost3",
+      "sortId": 3532,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6401,12 +7161,24 @@
       "roomType": "MANUFACTURE",
       "description": "进驻制造站时，<@cc.kw>作战记录</>类配方的生产力<@cc.vup>+35%</>"
     },
+    "manu_prod_spd&trade[000]": {
+      "buffId": "manu_prod_spd&trade[000]",
+      "buffName": "再生能源",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd&trade",
+      "sortId": 3701,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，每个<@cc.kw>贸易站</>为当前制造站<@cc.kw>贵金属</>类配方的生产力<@cc.vup>+20%</>"
+    },
     "manu_formula_spd[100]": {
       "buffId": "manu_formula_spd[100]",
       "buffName": "金属工艺·α",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_gold1",
-      "sortId": 3701,
+      "sortId": 3702,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6418,7 +7190,7 @@
       "buffName": "金属工艺·β",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_gold2",
-      "sortId": 3702,
+      "sortId": 3703,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6430,7 +7202,7 @@
       "buffName": "源石工艺·α",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_originium1",
-      "sortId": 3001,
+      "sortId": 3002,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6442,7 +7214,7 @@
       "buffName": "源石工艺·β",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_originium2",
-      "sortId": 3002,
+      "sortId": 3003,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6454,7 +7226,7 @@
       "buffName": "地质学家",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_originium2",
-      "sortId": 3003,
+      "sortId": 3004,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6466,7 +7238,7 @@
       "buffName": "火山学家",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_originium2",
-      "sortId": 3005,
+      "sortId": 3006,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6478,7 +7250,7 @@
       "buffName": "源石研究",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_originium2",
-      "sortId": 3004,
+      "sortId": 3005,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6490,7 +7262,7 @@
       "buffName": "团队精神",
       "buffIcon": "manufacture",
       "skillIcon": "bskill_man_cost_all",
-      "sortId": 3601,
+      "sortId": 3001,
       "buffColor": "#ffd800",
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
@@ -6550,12 +7322,48 @@
       "buffName": "物流专家",
       "buffIcon": "trading",
       "skillIcon": "bskill_tra_spd3",
-      "sortId": 4901,
+      "sortId": 4902,
       "buffColor": "#0075a9",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
       "roomType": "TRADING",
       "description": "进驻贸易站时，订单获取效率<@cc.vup>+35%</>"
+    },
+    "trade_ord_vodfox[000]": {
+      "buffId": "trade_ord_vodfox[000]",
+      "buffName": "低语",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_vodfox",
+      "sortId": 4901,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，当前贸易站内其他干员提供的订单获取效率<@cc.vdown>全部归零</>，且每人为自身<@cc.vup>+45%</>订单获取效率，同时全体心情每小时消耗<@cc.vdown>+0.25</>"
+    },
+    "trade_ord_spd_variable2[000]": {
+      "buffId": "trade_ord_spd_variable2[000]",
+      "buffName": "天道酬勤·α",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_spd_variable21",
+      "sortId": 4401,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，当前贸易站内干员提供的每<@cc.vup>5%</>订单获取效率，额外提供<@cc.vup>5%</>效率，最多提供<@cc.vup>25%</>效率"
+    },
+    "trade_ord_spd_variable2[001]": {
+      "buffId": "trade_ord_spd_variable2[001]",
+      "buffName": "天道酬勤·β",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_spd_variable22",
+      "sortId": 4701,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，当前贸易站内干员提供的每<@cc.vup>5%</>订单获取效率，额外提供<@cc.vup>5%</>效率，最多提供<@cc.vup>35%</>效率"
     },
     "trade_ord_spd&limit[000]": {
       "buffId": "trade_ord_spd&limit[000]",
@@ -6689,12 +7497,36 @@
       "roomType": "TRADING",
       "description": "进驻贸易站时，订单上限<@cc.vup>+3</>，心情每小时消耗<@cc.vup>-0.25</>"
     },
+    "trade_ord_wt&cost[000]": {
+      "buffId": "trade_ord_wt&cost[000]",
+      "buffName": "裁缝·α",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_wt&cost1",
+      "sortId": 4002,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，<@cc.kw>小幅提升</>当前贸易站<@cc.kw>高品质贵金属订单</>的出现概率（工作时长影响概率），心情每小时消耗<@cc.vup>-0.25</>"
+    },
+    "trade_ord_wt&cost[001]": {
+      "buffId": "trade_ord_wt&cost[001]",
+      "buffName": "裁缝·β",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_wt&cost2",
+      "sortId": 4003,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，<@cc.kw>提升</>当前贸易站<@cc.kw>高品质贵金属订单</>的出现概率（工作时长影响概率），心情每小时消耗<@cc.vup>-0.25</>"
+    },
     "trade_ord_spd&cost_P[000]": {
       "buffId": "trade_ord_spd&cost_P[000]",
       "buffName": "恩怨",
       "buffIcon": "trading",
       "skillIcon": "bskill_tra_texas1",
-      "sortId": 4903,
+      "sortId": 4904,
       "buffColor": "#0075a9",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
@@ -6706,7 +7538,7 @@
       "buffName": "默契",
       "buffIcon": "trading",
       "skillIcon": "bskill_tra_texas2",
-      "sortId": 4903,
+      "sortId": 4904,
       "buffColor": "#0075a9",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
@@ -6718,7 +7550,7 @@
       "buffName": "醉翁之意·α",
       "buffIcon": "trading",
       "skillIcon": "bskill_tra_Lappland1",
-      "sortId": 4902,
+      "sortId": 4903,
       "buffColor": "#0075a9",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
@@ -6730,7 +7562,7 @@
       "buffName": "醉翁之意·β",
       "buffIcon": "trading",
       "skillIcon": "bskill_tra_Lappland2",
-      "sortId": 4902,
+      "sortId": 4903,
       "buffColor": "#0075a9",
       "textColor": "#ffffff",
       "buffCategory": "OUTPUT",
@@ -6742,7 +7574,7 @@
       "buffName": "专注·α",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_p1",
-      "sortId": 7001,
+      "sortId": 7101,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6754,7 +7586,7 @@
       "buffName": "专注·β",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_p3",
-      "sortId": 7021,
+      "sortId": 7121,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6766,7 +7598,7 @@
       "buffName": "能工巧匠",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_p2",
-      "sortId": 7011,
+      "sortId": 7111,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6778,7 +7610,7 @@
       "buffName": "多功能测绘仪",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_p2",
-      "sortId": 7012,
+      "sortId": 7112,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6790,7 +7622,7 @@
       "buffName": "咪波·加工型",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_p4",
-      "sortId": 7031,
+      "sortId": 7131,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6802,19 +7634,55 @@
       "buffName": "龙腾式无人机",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_cost_magallan",
-      "sortId": 7012,
+      "sortId": 7112,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
       "roomType": "WORKSHOP",
       "description": "进驻加工站加工<@cc.kw>任意类材料</>时，心情消耗为<@cc.kw>4</>及以上的配方全部<@cc.vup>-2</>心情消耗"
     },
+    "workshop_formula_cost[010]": {
+      "buffId": "workshop_formula_cost[010]",
+      "buffName": "肆无忌惮",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_nian",
+      "sortId": 7531,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>精英材料</>时，相应配方全部<@cc.vdown>+2</>心情消耗"
+    },
+    "workshop_formula_cost3[110]": {
+      "buffId": "workshop_formula_cost3[110]",
+      "buffName": "极简实用主义",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_evolve_cost2",
+      "sortId": 7055,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>精英材料</>时，心情消耗为<@cc.kw>4</>的配方全部<@cc.vup>-2</>心情消耗"
+    },
+    "workshop_formula_cost3[300]": {
+      "buffId": "workshop_formula_cost3[300]",
+      "buffName": "淡泊",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_asc_cost1",
+      "sortId": 7021,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>芯片</>时，心情消耗为<@cc.kw>2</>的配方全部<@cc.vup>-1</>心情消耗"
+    },
     "workshop_formula_probability[000]": {
       "buffId": "workshop_formula_probability[000]",
       "buffName": "技巧理论",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_skill1",
-      "sortId": 7201,
+      "sortId": 7301,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6826,7 +7694,7 @@
       "buffName": "兵者诡道",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_skill2",
-      "sortId": 7203,
+      "sortId": 7304,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6838,7 +7706,7 @@
       "buffName": "登峰造极",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_skill2",
-      "sortId": 7202,
+      "sortId": 7302,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6850,19 +7718,31 @@
       "buffName": "营养学",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve1",
-      "sortId": 7401,
+      "sortId": 7501,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
       "roomType": "WORKSHOP",
       "description": "进驻加工站加工<@cc.kw>精英材料</>时，副产品的产出概率提升<@cc.vup>70%</>"
     },
+    "workshop_formula_probability[102]": {
+      "buffId": "workshop_formula_probability[102]",
+      "buffName": "工业设计",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_evolve2",
+      "sortId": 7514,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>精英材料</>时，副产品的产出概率提升<@cc.vup>75%</>"
+    },
     "workshop_formula_probability[101]": {
       "buffId": "workshop_formula_probability[101]",
       "buffName": "学者",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve3",
-      "sortId": 7424,
+      "sortId": 7524,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6874,7 +7754,7 @@
       "buffName": "药理学·α",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve2",
-      "sortId": 7411,
+      "sortId": 7511,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6886,7 +7766,7 @@
       "buffName": "药理学·β",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve3",
-      "sortId": 7421,
+      "sortId": 7521,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6898,7 +7778,7 @@
       "buffName": "毒理学·α",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve2",
-      "sortId": 7412,
+      "sortId": 7512,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6910,7 +7790,7 @@
       "buffName": "毒理学·β",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve3",
-      "sortId": 7422,
+      "sortId": 7522,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6922,7 +7802,7 @@
       "buffName": "爆破材料学·α",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve2",
-      "sortId": 7413,
+      "sortId": 7513,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6934,19 +7814,31 @@
       "buffName": "爆破材料学·β",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_evolve3",
-      "sortId": 7423,
+      "sortId": 7523,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
       "roomType": "WORKSHOP",
       "description": "进驻加工站加工<@cc.kw>精英材料</>时，副产品的产出概率提升<@cc.vup>80%</>"
     },
+    "workshop_formula_probability[140]": {
+      "buffId": "workshop_formula_probability[140]",
+      "buffName": "稀有金属辨识",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_evolve4",
+      "sortId": 7531,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>精英材料</>时，副产品的产出概率提升<@cc.vup>100%</>"
+    },
     "workshop_formula_probability[200]": {
       "buffId": "workshop_formula_probability[200]",
       "buffName": "工程学",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_build1",
-      "sortId": 7301,
+      "sortId": 7401,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6957,8 +7849,8 @@
       "buffId": "workshop_formula_probability[210]",
       "buffName": "斩铁裂钢",
       "buffIcon": "workshop",
-      "skillIcon": "bskill_ws_build2",
-      "sortId": 7302,
+      "skillIcon": "bskill_ws_build3",
+      "sortId": 7404,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
@@ -6970,12 +7862,24 @@
       "buffName": "特训记录",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_asc1",
-      "sortId": 7101,
+      "sortId": 7201,
       "buffColor": "#e3eb00",
       "textColor": "#333333",
       "buffCategory": "FUNCTION",
       "roomType": "WORKSHOP",
       "description": "进驻加工站加工<@cc.kw>芯片</>时，副产品的产出概率提升<@cc.vup>70%</>"
+    },
+    "workshop_formula_probability[310]": {
+      "buffId": "workshop_formula_probability[310]",
+      "buffName": "训练有素",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_asc2",
+      "sortId": 7202,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>芯片</>时，副产品的产出概率提升<@cc.vup>80%</>"
     },
     "train_spd[000]": {
       "buffId": "train_spd[000]",
@@ -7025,6 +7929,18 @@
       "roomType": "TRAINING",
       "description": "进驻训练室协助位时，<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+30%</>"
     },
+    "train_spd&profession2[020]": {
+      "buffId": "train_spd&profession2[020]",
+      "buffName": "近卫专精·α",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_guard1",
+      "sortId": 9701,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+30%</>"
+    },
     "train_spd&profession[021]": {
       "buffId": "train_spd&profession[021]",
       "buffName": "近卫专精·β",
@@ -7063,6 +7979,18 @@
     },
     "train_spd&profession[040]": {
       "buffId": "train_spd&profession[040]",
+      "buffName": "狙击专精·α",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_sniper1",
+      "sortId": 9501,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>狙击</>干员的专精技能训练速度<@cc.vup>+30%</>"
+    },
+    "train_spd&profession2[040]": {
+      "buffId": "train_spd&profession2[040]",
       "buffName": "狙击专精·α",
       "buffIcon": "training",
       "skillIcon": "bskill_train_sniper1",
@@ -7205,6 +8133,66 @@
       "roomType": "TRAINING",
       "description": "进驻训练室协助位时，<@cc.kw>狙击</>干员的专精技能训练速度<@cc.vup>+60%</>"
     },
+    "train_spd&profession[170]": {
+      "buffId": "train_spd&profession[170]",
+      "buffName": "精准手术",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_medic3",
+      "sortId": 9221,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>医疗</>干员的专精技能训练速度<@cc.vup>+60%</>"
+    },
+    "train_spd&profession[180]": {
+      "buffId": "train_spd&profession[180]",
+      "buffName": "假面魅影",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_specialist3",
+      "sortId": 9121,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>特种</>干员的专精技能训练速度<@cc.vup>+60%</>"
+    },
+    "train_spd&profession2[220]": {
+      "buffId": "train_spd&profession2[220]",
+      "buffName": "尽心尽力",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train3_guard1",
+      "sortId": 9721,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+30%</>，如果本次训练专精技能至<@cc.vup>3</>级，则训练速度额外<@cc.vup>+45%</>"
+    },
+    "train_spd&profession2[241]": {
+      "buffId": "train_spd&profession2[241]",
+      "buffName": "伺机而动",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train3_sniper2",
+      "sortId": 9532,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>狙击</>干员的专精技能训练速度<@cc.vup>+30%</>，如果本次训练专精技能至<@cc.vup>3</>级，则训练速度额外<@cc.vup>+65%</>"
+    },
+    "train_cost&profession[040]": {
+      "buffId": "train_cost&profession[040]",
+      "buffName": "索然无味",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_w",
+      "sortId": 9532,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助<@cc.kw>狙击</>干员训练专精技能至<@cc.vup>3</>级时，心情每小时消耗<@cc.vdown>+1</>"
+    },
     "dorm_rec_oneself[000]": {
       "buffId": "dorm_rec_oneself[000]",
       "buffName": "独处",
@@ -7258,7 +8246,7 @@
       "buffName": "医疗服务",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single2",
-      "sortId": 5102,
+      "sortId": 5203,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7270,7 +8258,7 @@
       "buffName": "善解人意",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single1",
-      "sortId": 5101,
+      "sortId": 5201,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7281,20 +8269,32 @@
       "buffId": "dorm_rec_single[020]",
       "buffName": "慈悲",
       "buffIcon": "dormitory",
-      "skillIcon": "bskill_dorm_single3",
-      "sortId": 5103,
+      "skillIcon": "bskill_dorm_single4",
+      "sortId": 5206,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
       "roomType": "DORMITORY",
       "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复<@cc.vup>+0.75</>（同种效果取最高）"
     },
+    "dorm_rec_single[030]": {
+      "buffId": "dorm_rec_single[030]",
+      "buffName": "天启",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_single3",
+      "sortId": 5205,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，使该宿舍内除自身以外心情未满的某个干员每小时恢复<@cc.vup>+0.7</>（同种效果取最高）"
+    },
     "dorm_rec_single_P[000]": {
       "buffId": "dorm_rec_single_P[000]",
       "buffName": "沏茶",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single_schwarz",
-      "sortId": 5104,
+      "sortId": 5202,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7318,7 +8318,31 @@
       "buffName": "小提琴独奏",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all2",
-      "sortId": 5305,
+      "sortId": 5314,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.15</>（同种效果取最高）"
+    },
+    "dorm_rec_all[011]": {
+      "buffId": "dorm_rec_all[011]",
+      "buffName": "偶像",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all2",
+      "sortId": 5313,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.15</>（同种效果取最高）"
+    },
+    "dorm_rec_all[013]": {
+      "buffId": "dorm_rec_all[013]",
+      "buffName": "领袖",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all2",
+      "sortId": 5311,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7327,58 +8351,34 @@
     },
     "dorm_rec_all[020]": {
       "buffId": "dorm_rec_all[020]",
-      "buffName": "偶像",
-      "buffIcon": "dormitory",
-      "skillIcon": "bskill_dorm_all2",
-      "sortId": 5304,
-      "buffColor": "#21cdcb",
-      "textColor": "#ffffff",
-      "buffCategory": "RECOVERY",
-      "roomType": "DORMITORY",
-      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.15</>（同种效果取最高）"
-    },
-    "dorm_rec_all[030]": {
-      "buffId": "dorm_rec_all[030]",
-      "buffName": "领袖",
-      "buffIcon": "dormitory",
-      "skillIcon": "bskill_dorm_all2",
-      "sortId": 5303,
-      "buffColor": "#21cdcb",
-      "textColor": "#ffffff",
-      "buffCategory": "RECOVERY",
-      "roomType": "DORMITORY",
-      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.15</>（同种效果取最高）"
-    },
-    "dorm_rec_all[040]": {
-      "buffId": "dorm_rec_all[040]",
       "buffName": "凛冬将军",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all3",
-      "sortId": 5306,
+      "sortId": 5321,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
       "roomType": "DORMITORY",
       "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.2</>（同种效果取最高）"
     },
-    "dorm_rec_all[050]": {
-      "buffId": "dorm_rec_all[050]",
-      "buffName": "狮心王",
-      "buffIcon": "dormitory",
-      "skillIcon": "bskill_dorm_all3",
-      "sortId": 5308,
-      "buffColor": "#21cdcb",
-      "textColor": "#ffffff",
-      "buffCategory": "RECOVERY",
-      "roomType": "DORMITORY",
-      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.2</>（同种效果取最高）"
-    },
-    "dorm_rec_all[060]": {
-      "buffId": "dorm_rec_all[060]",
+    "dorm_rec_all[021]": {
+      "buffId": "dorm_rec_all[021]",
       "buffName": "提灯女神",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all3",
-      "sortId": 5307,
+      "sortId": 5322,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.2</>（同种效果取最高）"
+    },
+    "dorm_rec_all[022]": {
+      "buffId": "dorm_rec_all[022]",
+      "buffName": "狮心王",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all3",
+      "sortId": 5323,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7390,7 +8390,7 @@
       "buffName": "活泼",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one01",
-      "sortId": 5201,
+      "sortId": 5101,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7402,7 +8402,7 @@
       "buffName": "探险家的热情",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one02",
-      "sortId": 5202,
+      "sortId": 5102,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7414,7 +8414,7 @@
       "buffName": "烘焙",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one11",
-      "sortId": 5211,
+      "sortId": 5111,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7426,7 +8426,7 @@
       "buffName": "烹饪",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one12",
-      "sortId": 5212,
+      "sortId": 5112,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7438,7 +8438,7 @@
       "buffName": "和谐",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one21",
-      "sortId": 5221,
+      "sortId": 5121,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7450,7 +8450,7 @@
       "buffName": "喀兰圣女",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one22",
-      "sortId": 5222,
+      "sortId": 5122,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7462,7 +8462,7 @@
       "buffName": "耀骑士",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_single&one22",
-      "sortId": 5223,
+      "sortId": 5123,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7474,7 +8474,7 @@
       "buffName": "慵懒",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all&one1",
-      "sortId": 5402,
+      "sortId": 5403,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7486,7 +8486,7 @@
       "buffName": "嗜睡",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all&one2",
-      "sortId": 5403,
+      "sortId": 5411,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7522,7 +8522,19 @@
       "buffName": "解脱",
       "buffIcon": "dormitory",
       "skillIcon": "bskill_dorm_all&one3",
-      "sortId": 5401,
+      "sortId": 5303,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，自身心情每小时恢复<@cc.vup>+0.55</>，该宿舍内所有干员的心情每小时恢复<@cc.vup>+0.1</>（同种效果取最高）"
+    },
+    "dorm_rec_all&oneself[021]": {
+      "buffId": "dorm_rec_all&oneself[021]",
+      "buffName": "牧歌",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all&one3",
+      "sortId": 5304,
       "buffColor": "#21cdcb",
       "textColor": "#ffffff",
       "buffCategory": "RECOVERY",
@@ -7539,55 +8551,79 @@
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
-      "description": "进驻人力办公室时，人脉资源的累积速度<@cc.vup>+20%</>"
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+20%</>"
     },
     "hire_spd[010]": {
       "buffId": "hire_spd[010]",
       "buffName": "天灾信使·α",
       "buffIcon": "hire",
       "skillIcon": "bskill_hire_spd2",
-      "sortId": 8101,
+      "sortId": 8011,
       "buffColor": "#565656",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
-      "description": "进驻人力办公室时，人脉资源的累积速度<@cc.vup>+30%</>"
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+30%</>"
     },
     "hire_spd[011]": {
       "buffId": "hire_spd[011]",
       "buffName": "天灾信使·β",
       "buffIcon": "hire",
       "skillIcon": "bskill_hire_spd5",
-      "sortId": 8401,
+      "sortId": 8041,
       "buffColor": "#565656",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
-      "description": "进驻人力办公室时，人脉资源的累积速度<@cc.vup>+45%</>"
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+45%</>"
     },
     "hire_spd[020]": {
       "buffId": "hire_spd[020]",
       "buffName": "心理学",
       "buffIcon": "hire",
       "skillIcon": "bskill_hire_spd4",
-      "sortId": 8301,
+      "sortId": 8031,
       "buffColor": "#565656",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
-      "description": "进驻人力办公室时，人脉资源的累积速度<@cc.vup>+40%</>"
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+40%</>"
     },
     "hire_spd[030]": {
       "buffId": "hire_spd[030]",
       "buffName": "WRITER",
       "buffIcon": "hire",
       "skillIcon": "bskill_hire_spd4",
-      "sortId": 8302,
+      "sortId": 8032,
       "buffColor": "#565656",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "HIRE",
-      "description": "进驻人力办公室时，人脉资源的累积速度<@cc.vup>+40%</>"
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+40%</>"
+    },
+    "hire_spd&clue[010]": {
+      "buffId": "hire_spd&clue[010]",
+      "buffName": "天灾信使·α",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd2",
+      "sortId": 8011,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+30%</>"
+    },
+    "hire_spd&clue[100]": {
+      "buffId": "hire_spd&clue[100]",
+      "buffName": "洞悉人心",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd&clue",
+      "sortId": 8012,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+30%</>，同时每个招募位（不包含初始招募位）额外<@cc.vup>+5%</>会客室线索搜集速度"
     },
     "meet_spd[000]": {
       "buffId": "meet_spd[000]",
@@ -7618,7 +8654,7 @@
       "buffName": "线索搜集·β",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_spd2",
-      "sortId": 6201,
+      "sortId": 6002,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7654,12 +8690,36 @@
       "buffName": "皇家探员（自称）",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_penguin1",
-      "sortId": 6201,
+      "sortId": 6211,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
       "roomType": "MEETING",
       "description": "进驻会客室时，更容易获得<@cc.kw>企鹅物流</>线索"
+    },
+    "meet_team[060]": {
+      "buffId": "meet_team[060]",
+      "buffName": "通讯员",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_rhodes1",
+      "sortId": 6711,
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "进驻会客室时，更容易获得<@cc.kw>罗德岛制药</>线索"
+    },
+    "meet_flag[060]": {
+      "buffId": "meet_flag[060]",
+      "buffName": "插旗",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_flag_rhodes",
+      "sortId": 6711,
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "进驻会客室后，每当新搜集到的线索不是<@cc.kw>罗德岛制药</>时，则额外增加<@cc.kw>罗德岛制药</>线索的出现概率"
     },
     "meet_spd&team[000]": {
       "buffId": "meet_spd&team[000]",
@@ -7678,7 +8738,7 @@
       "buffName": "守望者",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_rhine2",
-      "sortId": 6101,
+      "sortId": 6121,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7690,7 +8750,7 @@
       "buffName": "信使·企鹅物流",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_penguin2",
-      "sortId": 6202,
+      "sortId": 6221,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7702,7 +8762,7 @@
       "buffName": "联络员",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_blacksteel2",
-      "sortId": 6301,
+      "sortId": 6321,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7714,7 +8774,7 @@
       "buffName": "讯使",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_kjerag2",
-      "sortId": 6601,
+      "sortId": 6621,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7726,7 +8786,7 @@
       "buffName": "参谋",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_ursus2",
-      "sortId": 6401,
+      "sortId": 6421,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7738,7 +8798,7 @@
       "buffName": "信使·罗德岛制药",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_rhodes2",
-      "sortId": 6701,
+      "sortId": 6721,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7750,7 +8810,7 @@
       "buffName": "传讯者",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_glasgow2",
-      "sortId": 6502,
+      "sortId": 6522,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -7762,7 +8822,7 @@
       "buffName": "没落贵族",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_glasgow2",
-      "sortId": 6501,
+      "sortId": 6521,
       "buffColor": "#dd653f",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -10429,7 +11489,7 @@
         "comfort": 390,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "下层摆放着沙发的高架床。作为附赠品的靠垫与玩偶大受欢迎。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10451,7 +11511,7 @@
         "comfort": 340,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "温柔燃烧着明亮火焰的壁炉。她喜欢的故事永不结束。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10473,7 +11533,7 @@
         "comfort": 95,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "可以容纳许多木柴的竹篓。很不巧，作为原料的竹子是从其他地区运来的。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10495,7 +11555,7 @@
         "comfort": 205,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "缓缓摇动的躺椅。传统的审美终归会向工业低头。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10517,7 +11577,7 @@
         "comfort": 80,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "机织的地毯。遭到设计师强烈反对的商品。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10539,7 +11599,7 @@
         "comfort": 95,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "由知名琴匠手工制作的小提琴。音色悠远绵长，仿佛林间风吟。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10561,7 +11621,7 @@
         "comfort": 105,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "“皮囊不过一时之承载，鹿主的精魂永徜荒野。”",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10583,7 +11643,7 @@
         "comfort": 205,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "有着丰富储物空间的柜子。对个子小的干员很不友善。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10605,7 +11665,7 @@
         "comfort": 210,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "狭长的原木餐桌。用餐完毕后，一定要擦拭干净。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10627,7 +11687,7 @@
         "comfort": 95,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "手工制作的靠背椅。坐垫是从其他地方购买的。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10649,7 +11709,7 @@
         "comfort": 95,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "手工制作的靠背椅。坐垫也是从其他地方购买的。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10671,7 +11731,7 @@
         "comfort": 110,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "从仓库里翻找出来的吊扇。运行良好。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10693,7 +11753,7 @@
         "comfort": 35,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "从仓库里翻找出来的吊灯。意外的合适。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10715,7 +11775,7 @@
         "comfort": 400,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "整木制作的房梁。虽然只是船舱中的装饰，但工匠灌注其中的眷恋是真实的。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10737,7 +11797,7 @@
         "comfort": 120,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "由剩余材料加工而成的墙纸。凑近后能闻到奇异的香味。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -10759,7 +11819,7 @@
         "comfort": 120,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "光滑的原木地板。赤脚站在地板上时，仿佛能听见群山的低唤。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11221,7 +12281,7 @@
         "comfort": 165,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "为罗德岛特制的摩登吧台吊顶。只有全罗德岛公认的品酒师，才能在这吊顶上留下专属于自己的高脚杯。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11243,7 +12303,7 @@
         "comfort": 250,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "为罗德岛特制的酒店吧台。对于摩登年代的哥伦比亚人来说，酒精是危险的，也是奢侈的。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11265,7 +12325,7 @@
         "comfort": 70,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "为罗德岛特制的摩登酒店标准样式高脚凳。一人独酌，两人交杯，三人成行。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11287,7 +12347,7 @@
         "comfort": 135,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "如同金库般坚实的冰柜。世界各地的美味，皆因能被它储存而荣耀。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11309,7 +12369,7 @@
         "comfort": 90,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "哥伦比亚现代画家创作的挂画。几何图案拼接成了不变的画面，但在每个人眼中，它都与众不同。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11331,7 +12391,7 @@
         "comfort": 580,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "威廉姆公司为罗德岛量身定制的钢琴。钢琴家的手指在琴键上稍一跃动，美妙音符随即在听众脑中舞蹈。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11353,7 +12413,7 @@
         "comfort": 435,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的地毯。线条形成的箭头指向所有方位，一如那时不断扩张的哥伦比亚。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11375,7 +12435,7 @@
         "comfort": 105,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "哥伦比亚大街小巷常见的点唱机。一枚硬币，一首歌曲，一段美好的时光。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11397,7 +12457,7 @@
         "comfort": 35,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的壁灯。打开光源，照亮人们梦想中的未来。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11419,7 +12479,7 @@
         "comfort": 115,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "哥伦比亚知名设计师的得意作。没有其他的作用，只为装饰而存在，这就是那个时代。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11441,7 +12501,7 @@
         "comfort": 95,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的玻璃吊灯。华丽、明亮，令人不禁憧憬未来的模样。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11463,7 +12523,7 @@
         "comfort": 340,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "由匠人手工制造的机器制造的酒店沙发，附送小茶几。陷在沙发中，如同身在云端，苦恼沮丧顿时烟消云散。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11485,7 +12545,7 @@
         "comfort": 180,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的茶几，上面放着美酒与酒杯。啜饮只能麻痹自己，但又有谁在乎呢？",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11507,7 +12567,7 @@
         "comfort": 100,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "某哥伦比亚艺术家的成名作，已被大量复制。建设与联合带来力量。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11529,7 +12589,7 @@
         "comfort": 120,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的落地灯。亮度稍显不足，氛围完美无缺。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11551,7 +12611,7 @@
         "comfort": 185,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的带灯吊顶。从功能性上来说，照明并非它的主要作用。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11573,7 +12633,7 @@
         "comfort": 240,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "摩登酒店标准样式的壁纸。简单的图案与昂贵的材料，对技术的张扬到达了巅峰，卓异感呼之欲出。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -11595,7 +12655,7 @@
         "comfort": 240,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "昂贵大理石拼接而成的地砖。逝去的繁华，依旧是繁华。",
-        "obtainApproach": "部分关卡幸运掉落",
+        "obtainApproach": "家具商店购买，部分关卡幸运掉落",
         "processedProductId": "3401",
         "processedProductCount": 5,
         "processedByProductPercentage": 0,
@@ -14070,7 +15130,7 @@
         "id": "furni_KFC_cashierDesk_01",
         "name": "肯德基收银台",
         "iconId": "furni_KFC_cashierDesk_01",
-        "type": "DECORATION",
+        "type": "TABLE",
         "location": "FLOOR",
         "category": "FURNITURE",
         "rarity": 2,
@@ -14784,7 +15844,7 @@
         "height": 4,
         "comfort": 365,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
-        "description": "工作间内配备的切割台。面对着火花煌能发上一整天的呆，只是现今已经没人在使用它了。",
+        "description": "工作间内配备的切割台。面对着火花，煌能发上一整天的呆，只是现今已经没人在使用它了。",
         "obtainApproach": "家具商店限时购买",
         "processedProductId": "3401",
         "processedProductCount": 248,
@@ -14960,7 +16020,7 @@
         "height": 9,
         "comfort": 360,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
-        "description": "隔断高危工作区域的透明材质隔板。由Whitsmith设计的新材料制作而成，它见证了许多行业里渺小伟业的诞生。",
+        "description": "隔断高危工作区域的透明材质隔板。由Whitesmith设计的新材料制作而成，它见证了许多行业里渺小伟业的诞生。",
         "obtainApproach": "家具商店限时购买",
         "processedProductId": "3401",
         "processedProductCount": 270,
@@ -15011,6 +16071,1832 @@
         "processedByProductPercentage": 0,
         "processedByProductGroup": [],
         "canBeDestroy": true
+      },
+      "furni_restaurant_ceiling1_01": {
+        "id": "furni_restaurant_ceiling1_01",
+        "name": "题字吊顶（饺子馆）",
+        "iconId": "furni_restaurant_ceiling1_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 13,
+        "depth": 2,
+        "height": 6,
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的题字吊顶之一。皮薄馅香，端一碗七上八下。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 150,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_curtain_01": {
+        "id": "furni_restaurant_curtain_01",
+        "name": "竹屏风",
+        "iconId": "furni_restaurant_curtain_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 7,
+        "height": 10,
+        "comfort": 350,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的屏风之一。眼未见，耳未闻，香气已勾魂。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 243,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_fryingTable_01": {
+        "id": "furni_restaurant_fryingTable_01",
+        "name": "电煎台",
+        "iconId": "furni_restaurant_fryingTable_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 4,
+        "height": 4,
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的电煎台。这煎物的好，三言两语怎能说得清楚？且待我慢慢道来。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 150,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_stockPotTable_01": {
+        "id": "furni_restaurant_stockPotTable_01",
+        "name": "炖锅台",
+        "iconId": "furni_restaurant_stockPotTable_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 10,
+        "depth": 2,
+        "height": 4,
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的炖锅台。只见那锅盖一掀!——欲知后事，请听下回。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 203,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_barTable_01": {
+        "id": "furni_restaurant_barTable_01",
+        "name": "转角木桌",
+        "iconId": "furni_restaurant_barTable_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 16,
+        "depth": 3,
+        "height": 4,
+        "comfort": 520,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊用的大木桌。无米不成炊，无客不成食。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 360,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_chair_01": {
+        "id": "furni_restaurant_chair_01",
+        "name": "食坊圆凳",
+        "iconId": "furni_restaurant_chair_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的木圆凳。新朋旧友齐来聚，此时更有几多回。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 63,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_diningTable_01": {
+        "id": "furni_restaurant_diningTable_01",
+        "name": "食坊餐桌",
+        "iconId": "furni_restaurant_diningTable_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 4,
+        "height": 4,
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的餐桌。故国已在千里远，家乡酒食碗中盛。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 150,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_longBench_01": {
+        "id": "furni_restaurant_longBench_01",
+        "name": "四方长板凳",
+        "iconId": "furni_restaurant_longBench_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 4,
+        "height": 2,
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的长板凳。若得友人共举杯，清水亦是兰生浆。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 165,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_screen_01": {
+        "id": "furni_restaurant_screen_01",
+        "name": "半掩屏风",
+        "iconId": "furni_restaurant_screen_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 5,
+        "depth": 1,
+        "height": 10,
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的屏风之一。汤一碗，菜一碟，觥筹交错，日已落西山。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 178,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_bonsai_01": {
+        "id": "furni_restaurant_bonsai_01",
+        "name": "观赏盆栽",
+        "iconId": "furni_restaurant_bonsai_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 4,
+        "comfort": 205,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "配上青瓷瓮的盆栽。翠叶粗枝御万邪，白玉青瓷镇一方。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 175,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_pottedPlant_01": {
+        "id": "furni_restaurant_pottedPlant_01",
+        "name": "观赏植物",
+        "iconId": "furni_restaurant_pottedPlant_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 4,
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门特产的观赏植物。宝塔端中座，华盖四散开。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 140,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_priceList1_01": {
+        "id": "furni_restaurant_priceList1_01",
+        "name": "价目表（饺子馆）",
+        "iconId": "furni_restaurant_priceList1_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 1,
+        "height": 4,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的价目表之一。明码标价，童叟无欺。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 170,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_trottingHorseLamp_01": {
+        "id": "furni_restaurant_trottingHorseLamp_01",
+        "name": "六角宫灯",
+        "iconId": "furni_restaurant_trottingHorseLamp_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 5,
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门特色六角宫灯。昔时殿堂灯一盏，今来门前高高挂。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 43,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_spotlight_01": {
+        "id": "furni_restaurant_spotlight_01",
+        "name": "聚焦灯",
+        "iconId": "furni_restaurant_spotlight_01",
+        "type": "WALLLAMP",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 2,
+        "comfort": 60,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "功率充足的聚焦灯。当空暖意来，宴至合家欢。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 53,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_downlight_01": {
+        "id": "furni_restaurant_downlight_01",
+        "name": "吸顶灯",
+        "iconId": "furni_restaurant_downlight_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 1,
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "街坊常用的吸顶灯。三阳开泰，珍馐片刻来。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 60,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_carpet_01": {
+        "id": "furni_restaurant_carpet_01",
+        "name": "食坊地毯",
+        "iconId": "furni_restaurant_carpet_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 9,
+        "depth": 8,
+        "height": 1,
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的地毯。相会终有时，来日再聚首。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_wallpaper_01": {
+        "id": "furni_restaurant_wallpaper_01",
+        "name": "食坊壁纸",
+        "iconId": "furni_restaurant_wallpaper_01",
+        "type": "WALLPAPER",
+        "location": "WALL",
+        "category": "WALL",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的喜庆壁纸。龙游墙垣间，吉时共相迎。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 185,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_restaurant_floor_01": {
+        "id": "furni_restaurant_floor_01",
+        "name": "食坊地砖",
+        "iconId": "furni_restaurant_floor_01",
+        "type": "FLOOR",
+        "location": "FLOOR",
+        "category": "FLOOR",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的地砖。千客万客纷至来，福禄寿喜聚一堂。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 185,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_priceList_01": {
+        "id": "furni_lightFood_priceList_01",
+        "name": "健康价目表",
+        "iconId": "furni_lightFood_priceList_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 2,
+        "height": 5,
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的价目表。“相信我，每一份花费都对身体有好处。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_sign_01": {
+        "id": "furni_lightFood_sign_01",
+        "name": "健康装饰牌",
+        "iconId": "furni_lightFood_sign_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 1,
+        "height": 3,
+        "comfort": 205,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的装饰牌。“让顾客顺着颜色变换活动眼球?这也太无聊了。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_cashierDesk_01": {
+        "id": "furni_lightFood_cashierDesk_01",
+        "name": "健康服务台",
+        "iconId": "furni_lightFood_cashierDesk_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 14,
+        "depth": 3,
+        "height": 5,
+        "comfort": 410,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的服务台。“现吃现点，加工透明，绝对没有问题。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_spotlight_01": {
+        "id": "furni_lightFood_spotlight_01",
+        "name": "健康聚光灯",
+        "iconId": "furni_lightFood_spotlight_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 1,
+        "height": 1,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的聚光灯。“相关研究表明，合适的灯光对食欲有促进作用。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_foodCabinet_01": {
+        "id": "furni_lightFood_foodCabinet_01",
+        "name": "冷鲜食品柜",
+        "iconId": "furni_lightFood_foodCabinet_01",
+        "type": "CABINET",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 2,
+        "height": 6,
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的食品柜。“放心，所有东西都在保质期内。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_juicer_01": {
+        "id": "furni_lightFood_juicer_01",
+        "name": "冰爽果汁机",
+        "iconId": "furni_lightFood_juicer_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 5,
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的果汁机。“芙蓉给了我一盒子粉，说为了身体好要全部撒进去。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_orderingMachine_01": {
+        "id": "furni_lightFood_orderingMachine_01",
+        "name": "自助点餐机",
+        "iconId": "furni_lightFood_orderingMachine_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 10,
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的点餐机。“这个系统......傻瓜都会用对吧......我可能是个傻瓜......”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_vendingMachine_01": {
+        "id": "furni_lightFood_vendingMachine_01",
+        "name": "自助售货机",
+        "iconId": "furni_lightFood_vendingMachine_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 2,
+        "height": 6,
+        "comfort": 155,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的外带售货机。“别用那种眼神看着我，我会用，真的！”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_board_01": {
+        "id": "furni_lightFood_board_01",
+        "name": "每日推荐牌",
+        "iconId": "furni_lightFood_board_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "只会印上最实惠商品的销售牌。“健康第一，销量肯定是第一啊。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_partitionGate_01": {
+        "id": "furni_lightFood_partitionGate_01",
+        "name": "用餐区隔门",
+        "iconId": "furni_lightFood_partitionGate_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 1,
+        "depth": 10,
+        "height": 10,
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "分隔区域用的隔门。“这是个控制客流的好主意，你真是天才！”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_wallSticker_01": {
+        "id": "furni_lightFood_wallSticker_01",
+        "name": "“果蔬大冒险”",
+        "iconId": "furni_lightFood_wallSticker_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 1,
+        "height": 10,
+        "comfort": 260,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "附赠墙纸的健康宣传挂画。“柠柠？绿绿？吉祥物？嗯？？？”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_table_01": {
+        "id": "furni_lightFood_table_01",
+        "name": "健康餐桌",
+        "iconId": "furni_lightFood_table_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 3,
+        "height": 3,
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "放置了一人份食物的双人桌。“这，是，单人套餐，我认真的。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_chair_01": {
+        "id": "furni_lightFood_chair_01",
+        "name": "绿色双人沙发",
+        "iconId": "furni_lightFood_chair_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 2,
+        "height": 3,
+        "comfort": 175,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的双人沙发。“舒适是第一要务，反正客人弄脏了也不是我洗。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_ceiling_01": {
+        "id": "furni_lightFood_ceiling_01",
+        "name": "轻松花园吊顶",
+        "iconId": "furni_lightFood_ceiling_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 10,
+        "height": 4,
+        "comfort": 340,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "挂上许多装饰的吊顶。“上面的东西会掉下来吗？怎么还没掉下来？快掉啊！”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_carpet_01": {
+        "id": "furni_lightFood_carpet_01",
+        "name": "分隔线地毯",
+        "iconId": "furni_lightFood_carpet_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 10,
+        "height": 1,
+        "comfort": 190,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "画着分割线的可清洗地毯。“美观和实用，我全都要。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_downlight_01": {
+        "id": "furni_lightFood_downlight_01",
+        "name": "健康吸顶灯",
+        "iconId": "furni_lightFood_downlight_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 1,
+        "comfort": 30,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "健康的标准吸顶灯。“别管它怎么称呼，买最常见的灯就好，对，就走道里那种。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_wallpaper_01": {
+        "id": "furni_lightFood_wallpaper_01",
+        "name": "健康壁纸",
+        "iconId": "furni_lightFood_wallpaper_01",
+        "type": "WALLPAPER",
+        "location": "WALL",
+        "category": "WALL",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "店里用的清新壁纸。“我也没想好壁纸要用几种绿色，投个骰子决定吧。”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_lightFood_floor_01": {
+        "id": "furni_lightFood_floor_01",
+        "name": "健康地砖",
+        "iconId": "furni_lightFood_floor_01",
+        "type": "FLOOR",
+        "location": "FLOOR",
+        "category": "FLOOR",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "店里用的耐脏地砖。“你看，是不是擦一遍就干净了？”",
+        "obtainApproach": "部分关卡幸运掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 5,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beerhouse_priceList_01": {
+        "id": "furni_beerhouse_priceList_01",
+        "name": "高脚价目表",
+        "iconId": "furni_beerhouse_priceList_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 1,
+        "height": 9,
+        "comfort": 385,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "可拆卸的高脚价目表。维多利亚人开在哥伦比亚的七城风情餐厅？真是奇怪......",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_cashierDesk_01": {
+        "id": "furni_beerhouse_cashierDesk_01",
+        "name": "整洁服务台",
+        "iconId": "furni_beerhouse_cashierDesk_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 3,
+        "height": 4,
+        "comfort": 405,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "贴心服务一应俱全的餐厅前台，记得给小费。只有最珍贵的荣耀值得被人知晓。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_foodCabinet_01": {
+        "id": "furni_beerhouse_foodCabinet_01",
+        "name": "美食保温柜",
+        "iconId": "furni_beerhouse_foodCabinet_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 1,
+        "height": 4,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "储存店内明星食品的柜子。似乎还能听到柜中美食传来的滋滋响声。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_wineRack_01": {
+        "id": "furni_beerhouse_wineRack_01",
+        "name": "啤酒储藏柜",
+        "iconId": "furni_beerhouse_wineRack_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 2,
+        "height": 5,
+        "comfort": 225,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "储存店内明星饮品的柜子。这家店取悦人们的东西无一不闪耀着黄金般的光辉。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_banner1_01": {
+        "id": "furni_beerhouse_banner1_01",
+        "name": "餐厅宣传板",
+        "iconId": "furni_beerhouse_banner1_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 3,
+        "height": 4,
+        "comfort": 250,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "发布店内优惠的宣传板。顾客想要的信息经常集中于“优惠”、“推荐”、“回馈”等字眼后面。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_wallSticker_01": {
+        "id": "furni_beerhouse_wallSticker_01",
+        "name": "原木墙贴",
+        "iconId": "furni_beerhouse_wallSticker_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 14,
+        "depth": 1,
+        "height": 8,
+        "comfort": 335,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "置于前台后方的装饰墙贴。七城装修风格的灵魂，就是木材。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_diningTable1_01": {
+        "id": "furni_beerhouse_diningTable1_01",
+        "name": "双排沙发座（满位）",
+        "iconId": "furni_beerhouse_diningTable1_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 4,
+        "height": 4,
+        "comfort": 345,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "餐厅内的双排沙发座，客人们已就位。桌上放着“杨森兄弟双人餐”，和朋友一起享用如何？",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_diningTable2_01": {
+        "id": "furni_beerhouse_diningTable2_01",
+        "name": "双排沙发座（未满）",
+        "iconId": "furni_beerhouse_diningTable2_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 4,
+        "height": 4,
+        "comfort": 345,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "餐厅内的双排沙发座，还有空位。桌上放着“德荣单人餐”，好好犒劳自己。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_framedArt1_01": {
+        "id": "furni_beerhouse_framedArt1_01",
+        "name": "复制版名画",
+        "iconId": "furni_beerhouse_framedArt1_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 2,
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "色调偏红的油画，复制品。画上似乎是食物原料的产地。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_framedArt2_01": {
+        "id": "furni_beerhouse_framedArt2_01",
+        "name": "临摹板名画",
+        "iconId": "furni_beerhouse_framedArt2_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 2,
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "色调偏黄的油画，仿制品。画上似乎是饮品原料的产地。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_banner2_01": {
+        "id": "furni_beerhouse_banner2_01",
+        "name": "大号宣传板",
+        "iconId": "furni_beerhouse_banner2_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 7,
+        "comfort": 245,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "印有餐厅吉祥物的宣传板。宣传语上写着：“黄金体验”。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_slopedCeiling1_01": {
+        "id": "furni_beerhouse_slopedCeiling1_01",
+        "name": "仿木上层穹顶",
+        "iconId": "furni_beerhouse_slopedCeiling1_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 3,
+        "height": 1,
+        "comfort": 350,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "餐厅的上层装饰穹顶。香脆食品下肚，填抚空虚躯壳。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_slopedCeiling2_01": {
+        "id": "furni_beerhouse_slopedCeiling2_01",
+        "name": "仿木下层穹顶",
+        "iconId": "furni_beerhouse_slopedCeiling2_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 2,
+        "height": 1,
+        "comfort": 310,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "餐厅的下层装饰穹顶。清爽饮品入喉，滋润干涸心田。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_ceilingLight_01": {
+        "id": "furni_beerhouse_ceilingLight_01",
+        "name": "七城式暖光吊灯",
+        "iconId": "furni_beerhouse_ceilingLight_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 2,
+        "height": 4,
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "七城地区常用的吊灯样式。“温暖的灯光最能引起食欲”，这句话怎么说都不会腻。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_wallpaper_01": {
+        "id": "furni_beerhouse_wallpaper_01",
+        "name": "七城式花纹墙纸",
+        "iconId": "furni_beerhouse_wallpaper_01",
+        "type": "WALLPAPER",
+        "location": "WALL",
+        "category": "WALL",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "餐厅特别定制的墙纸样式。就像肉食中解腻的蔬菜般恰到好处。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_beerhouse_floor_01": {
+        "id": "furni_beerhouse_floor_01",
+        "name": "七城式花纹地板",
+        "iconId": "furni_beerhouse_floor_01",
+        "type": "FLOOR",
+        "location": "FLOOR",
+        "category": "FLOOR",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "七城地区常用的地板样式。七城人可不这么认为。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_dormW_weaponRack_01": {
+        "id": "furni_dormW_weaponRack_01",
+        "name": "战利品陈列架",
+        "iconId": "furni_dormW_weaponRack_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 5,
+        "height": 7,
+        "comfort": 365,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "放满了萨科塔枪械的陈列架。部分萨卡兹拥有向同族展示战利品以炫耀武力的习惯。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 278,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_wallDecor_01": {
+        "id": "furni_dormW_wallDecor_01",
+        "name": "石板墙饰",
+        "iconId": "furni_dormW_wallDecor_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 1,
+        "height": 10,
+        "comfort": 180,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的石制墙饰。石板后藏着私人物品。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 168,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_partition_01": {
+        "id": "furni_dormW_partition_01",
+        "name": "防弹玻璃隔板",
+        "iconId": "furni_dormW_partition_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 5,
+        "height": 8,
+        "comfort": 210,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "军用规格的防弹玻璃隔板，一把共用吉他就靠在那里。即使推心置腹，保持距离依旧是项必要举措。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 160,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_barrel_01": {
+        "id": "furni_dormW_barrel_01",
+        "name": "大当量炸药原料",
+        "iconId": "furni_dormW_barrel_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 3,
+        "height": 4,
+        "comfort": 140,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "W储存炸药原料的桶。“放那就好，至少还能知道哪里会炸。”",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 120,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_toolbox_01": {
+        "id": "furni_dormW_toolbox_01",
+        "name": "起爆器制作工具",
+        "iconId": "furni_dormW_toolbox_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 4,
+        "height": 2,
+        "comfort": 160,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "W制作起爆器的工具箱。“从制作到起爆，整个过程她都会参与。”",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 135,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_table_01": {
+        "id": "furni_dormW_table_01",
+        "name": "高脚餐台",
+        "iconId": "furni_dormW_table_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 4,
+        "height": 4,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "盛放鲜果和饮品的高脚台，特意铺上了白桌布。这张桌子能夺走W的微笑。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 170,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_mirror_01": {
+        "id": "furni_dormW_mirror_01",
+        "name": "红框落地镜",
+        "iconId": "furni_dormW_mirror_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 115,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "用于检查装备佩戴情况的镜子。这面镜子完全不符合佣兵的习惯，但W还是执意要把它放在这里。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 108,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_snookerTable_01": {
+        "id": "furni_dormW_snookerTable_01",
+        "name": "萨卡兹台球桌",
+        "iconId": "furni_dormW_snookerTable_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 11,
+        "depth": 5,
+        "height": 6,
+        "comfort": 540,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "普通的台球桌，台面已被换成萨卡兹们喜爱的颜色。工作般休闲，休闲般工作。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 410,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_triangle_01": {
+        "id": "furni_dormW_triangle_01",
+        "name": "萨卡兹式摆球器",
+        "iconId": "furni_dormW_triangle_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 2,
+        "comfort": 55,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "定制的摆球器，造型独特。萨卡兹们不喜欢循规蹈矩，发明出独特的摆球规则也算意料之中。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 53,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_dartboard_01": {
+        "id": "furni_dormW_dartboard_01",
+        "name": "挂式飞镖盘",
+        "iconId": "furni_dormW_dartboard_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 5,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "贴着任务目标的飞镖盘。在命中“目标”和插科打诨间，灵感闪现。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 123,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_shelf_01": {
+        "id": "furni_dormW_shelf_01",
+        "name": "挂式置物架",
+        "iconId": "furni_dormW_shelf_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 2,
+        "height": 2,
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "便于拆装的简易置物架。总有人喜欢测试这些东西的承重上限，然后“被迫”买个新的。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_bulletinboard_01": {
+        "id": "furni_dormW_bulletinboard_01",
+        "name": "休息室布告板",
+        "iconId": "furni_dormW_bulletinboard_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 7,
+        "comfort": 140,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "色调鲜艳的布告板。每位佣兵都知道随机应变，但有计划总归是件好事。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 120,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_carpet_01": {
+        "id": "furni_dormW_carpet_01",
+        "name": "兽毛绒毯",
+        "iconId": "furni_dormW_carpet_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 15,
+        "depth": 10,
+        "height": 1,
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "不知用什么动物毛皮制作的地毯。有些佣兵擅长在最平常的地方排布陷阱，极为致命。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 128,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_wallSticker_01": {
+        "id": "furni_dormW_wallSticker_01",
+        "name": "木栅墙饰",
+        "iconId": "furni_dormW_wallSticker_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 13,
+        "depth": 1,
+        "height": 10,
+        "comfort": 300,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的木制墙饰。栅栏后藏着公共用品。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 228,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_walllamp_01": {
+        "id": "furni_dormW_walllamp_01",
+        "name": "休息室小壁灯",
+        "iconId": "furni_dormW_walllamp_01",
+        "type": "WALLLAMP",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 60,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的小壁灯。将壁灯取下，灯泡向右旋转三圈，即可作为简易手榴弹使用。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 58,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_ceiling_01": {
+        "id": "furni_dormW_ceiling_01",
+        "name": "休息室光源吊顶",
+        "iconId": "furni_dormW_ceiling_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 28,
+        "depth": 6,
+        "height": 2,
+        "comfort": 440,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的吊顶。几乎所有佣兵休息室的吊顶上都藏有公开的秘密，萨卡兹佣兵尤擅此道。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 335,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_fluorescentLamp_01": {
+        "id": "furni_dormW_fluorescentLamp_01",
+        "name": "休息室灯管",
+        "iconId": "furni_dormW_fluorescentLamp_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 1,
+        "comfort": 195,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的灯管。无论猎物或猎人，终将被鲜血染红。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 148,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_ceilingLight_01": {
+        "id": "furni_dormW_ceilingLight_01",
+        "name": "休息室吊灯",
+        "iconId": "furni_dormW_ceilingLight_01",
+        "type": "CEILINGLAMP",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 60,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "佣兵休息室的吊灯。所有细节都可以用来完成契约——或是分享讯息。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 58,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_wallpaper_01": {
+        "id": "furni_dormW_wallpaper_01",
+        "name": "休息室墙纸",
+        "iconId": "furni_dormW_wallpaper_01",
+        "type": "WALLPAPER",
+        "location": "WALL",
+        "category": "WALL",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "有一面墙损毁多次，已放弃修复。伤口可以愈合，疤痕却无法消退。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 203,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_dormW_floor_01": {
+        "id": "furni_dormW_floor_01",
+        "name": "休息室地砖",
+        "iconId": "furni_dormW_floor_01",
+        "type": "FLOOR",
+        "location": "FLOOR",
+        "category": "FLOOR",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "整洁的地砖，没什么特别之处。其中一块地砖下藏有能炸毁整间休息室的爆炸物。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 203,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_act9d0_carpet_01": {
+        "id": "furni_act9d0_carpet_01",
+        "name": "周年庆典地毯",
+        "iconId": "furni_act9d0_carpet_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 3,
+        "themeId": "",
+        "width": 7,
+        "depth": 5,
+        "height": 1,
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "为了纪念明日方舟开服一周年特别订做的地毯。印满了大家所熟悉的可爱兔兔，是罗德岛在住人员献给博士的礼物。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act9d0_bed_01": {
+        "id": "furni_act9d0_bed_01",
+        "name": "周年庆典床榻",
+        "iconId": "furni_act9d0_bed_01",
+        "type": "BEDDING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 3,
+        "themeId": "",
+        "width": 8,
+        "depth": 6,
+        "height": 6,
+        "comfort": 230,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "为了纪念明日方舟开服一周年特别订做的豪华床。充满喜庆意味的昂贵床铺，是罗德岛非战斗干员献给博士的礼物。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act9d0_walllamp_01": {
+        "id": "furni_act9d0_walllamp_01",
+        "name": "周年庆典壁灯",
+        "iconId": "furni_act9d0_walllamp_01",
+        "type": "WALLLAMP",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 3,
+        "themeId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 3,
+        "comfort": 70,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "为了纪念明日方舟开服一周年特别订做的壁灯。以非常规方式安装在墙上的壁灯，是罗德岛战斗干员献给博士的礼物。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_bookshelf": {
+        "id": "furni_act7d5_bookshelf",
+        "name": "组合式书架",
+        "iconId": "furni_act7d5_bookshelf",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 1,
+        "height": 6,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "行动预备组A6宿舍里的架子，上面放了大家喜欢看的书。每个人按照身高分配了位置，但大家经常拿其他人的书看。",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_atomicClock": {
+        "id": "furni_act7d5_atomicClock",
+        "name": "莱茵生命原子钟",
+        "iconId": "furni_act7d5_atomicClock",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 1,
+        "height": 6,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "白面鸮房间里绝对精准的计时工具。每一秒内需要做的事，白面鸮早已计算完毕。",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_weaponRack": {
+        "id": "furni_act7d5_weaponRack",
+        "name": "刻俄柏的武器架",
+        "iconId": "furni_act7d5_weaponRack",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 6,
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "刻俄柏休息时放武器的架子。她花了许多年告诉自己武器绝不能离手，在几天之内明白了原来武器也可以放在架子上。",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_wallSticker": {
+        "id": "furni_act7d5_wallSticker",
+        "name": "预备干员激励海报",
+        "iconId": "furni_act7d5_wallSticker",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 3,
+        "comfort": 35,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "贴在集训室内的海报。送给离真正成为罗德岛干员还有几步路的朋友，加油！",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_petHouse": {
+        "id": "furni_act7d5_petHouse",
+        "name": "“大黑”的新家",
+        "iconId": "furni_act7d5_petHouse",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 5,
+        "depth": 5,
+        "height": 3,
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "香草为抚养的源石虫“大黑”准备的小屋子。在办理了各式各样的手续后，香草终于获得了源石虫抚养许可，“大黑”可以有个家了！",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_act7d5_apron": {
+        "id": "furni_act7d5_apron",
+        "name": "家用围裙",
+        "iconId": "furni_act7d5_apron",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 40,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "从超市里买来的普通围裙，只要做家务的人都能用。有角的干员在戴围裙的时候可能要颇费一番功夫。",
+        "obtainApproach": "午间逸话里程碑奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_tangyuan_ceiling_01": {
+        "id": "furni_tangyuan_ceiling_01",
+        "name": "题字吊顶（汤圆馆）",
+        "iconId": "furni_tangyuan_ceiling_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 13,
+        "depth": 2,
+        "height": 6,
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的题字吊顶之二。鲜香糯软，五味八方任君选。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_tangyuan_priceList_01": {
+        "id": "furni_tangyuan_priceList_01",
+        "name": "价目表（汤圆馆）",
+        "iconId": "furni_tangyuan_priceList_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 1,
+        "height": 4,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "龙门食坊的价目表之二。茶汤一碗，逸闻不断。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
       },
       "furni_NY2020_wallpaper_01": {
         "id": "furni_NY2020_wallpaper_01",
@@ -15709,7 +18595,7 @@
         "comfort": 75,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "“走吧，难道你还想听他唠叨吗。”",
-        "obtainApproach": "活动获得",
+        "obtainApproach": "SA-6突袭模式首次通关掉落",
         "processedProductId": "3401",
         "processedProductCount": 0,
         "processedByProductPercentage": 0,
@@ -15753,7 +18639,117 @@
         "comfort": 75,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "“我们需要运用正义和言语统一异见。”",
-        "obtainApproach": "H6-4首次三星通关掉落",
+        "obtainApproach": "H6-4首次通关掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_dropS007_repulsion_01": {
+        "id": "furni_dropS007_repulsion_01",
+        "name": "饰牌《认知》",
+        "iconId": "furni_dropS007_repulsion_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "“是我，非我，谁我？”",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_dropS007_easyRider_01": {
+        "id": "furni_dropS007_easyRider_01",
+        "name": "饰牌《骑行》",
+        "iconId": "furni_dropS007_easyRider_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "一条泥路向远方。",
+        "obtainApproach": "H7-4首次通关掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_dropS009_carmen_01": {
+        "id": "furni_dropS009_carmen_01",
+        "name": "饰牌《热情》",
+        "iconId": "furni_dropS009_carmen_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "“火热的萨卡兹舞女能让风暴为之平息，那当她充满愤恨时，什么能给她带来安宁？”",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_contract_s0_01": {
+        "id": "furni_contract_s0_01",
+        "name": "荒芜之旗",
+        "iconId": "furni_contract_s0_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "某座繁华移动城市的市旗。在一场天灾中不幸毁于一旦，旗帜被幸存者们复原以纪念。",
+        "obtainApproach": "危机合约赛季奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_contract_s1_01": {
+        "id": "furni_contract_s1_01",
+        "name": "黄铁之旗",
+        "iconId": "furni_contract_s1_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "某支传奇雇佣兵队伍使用的旗帜。这支雇佣兵队伍在一次危机合约任务中全军覆没，他们的旗帜则由天灾信使们复原以纪念。",
+        "obtainApproach": "危机合约赛季奖励",
         "processedProductId": "3401",
         "processedProductCount": 0,
         "processedByProductPercentage": 0,
@@ -15864,6 +18860,50 @@
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
         "description": "很大很大，很可爱，看起来很软的兔兔的雕像。虽然没什么人见过这种神奇的生物，但它真的很可爱。",
         "obtainApproach": "朝陇山购物兑换码奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_lawson_kantoCooking_01": {
+        "id": "furni_lawson_kantoCooking_01",
+        "name": "罗森熬点坊",
+        "iconId": "furni_lawson_kantoCooking_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 3,
+        "themeId": "",
+        "width": 9,
+        "depth": 6,
+        "height": 6,
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "罗森便利店搭建在罗德岛内的的小木屋，专门贩卖各类煮食。一天的期待，都集中在选择串串的几分钟内。",
+        "obtainApproach": "罗森兑换码奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_MSR001_room_01": {
+        "id": "furni_MSR001_room_01",
+        "name": "“说唱”",
+        "iconId": "furni_MSR001_room_01",
+        "type": "WALLPAPER",
+        "location": "NONE",
+        "category": "WALL",
+        "rarity": 3,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 360,
+        "usage": "能够用来装扮宿舍，提高宿舍的氛围",
+        "description": "激烈的言词交织在旋律中不停弹跳。一连串撼动思考的字词驳得我体无完肤，但我却只想再多唱几句。再多唱几句！",
+        "obtainApproach": "塞壬唱片兑换码奖励",
         "processedProductId": "3401",
         "processedProductCount": 0,
         "processedByProductPercentage": 0,
@@ -16104,7 +19144,7 @@
         "height": 4,
         "comfort": 475,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
-        "description": "行动组A4小队干员们用以游玩桌游的桌子。将手中的牌交给对方查看。",
+        "description": "行动组A4小队干员们用以游玩桌游的桌子。今晚也要填写新的人物卡。",
         "obtainApproach": "行动组A4小队信赖值收集",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -16280,7 +19320,7 @@
         "height": 2,
         "comfort": 145,
         "usage": "能够用来装扮宿舍，提高宿舍的氛围",
-        "description": "干员们用以游玩桌游的桌子。今晚也要填写新的人物卡。",
+        "description": "干员们用以游玩桌游的桌子。将手中的牌交给对方查看。",
         "obtainApproach": "家具商店购买",
         "processedProductId": "3401",
         "processedProductCount": 80,
@@ -18644,6 +21684,479 @@
             "pos1": 0
           }
         ]
+      },
+      "furni_set_restaurant": {
+        "id": "furni_set_restaurant",
+        "name": "龙门食坊",
+        "desc": "再现了龙门食坊的概念房间。欢庆佳节，恭迎宾客。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_restaurant_ceiling1_01",
+            "pos0": 16,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_restaurant_curtain_01",
+            "pos0": 30,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_restaurant_fryingTable_01",
+            "pos0": 27,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_restaurant_stockPotTable_01",
+            "pos0": 17,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_restaurant_barTable_01",
+            "pos0": 11,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_restaurant_chair_01",
+            "pos0": 9,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_chair_01",
+            "pos0": 14,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_restaurant_chair_01",
+            "pos0": 17,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_restaurant_chair_01",
+            "pos0": 20,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_restaurant_chair_01",
+            "pos0": 23,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_restaurant_diningTable_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_restaurant_longBench_01",
+            "pos0": 4,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_restaurant_screen_01",
+            "pos0": 0,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_restaurant_bonsai_01",
+            "pos0": 6,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_restaurant_pottedPlant_01",
+            "pos0": 2,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_priceList1_01",
+            "pos0": 2,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_restaurant_trottingHorseLamp_01",
+            "pos0": 6,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_trottingHorseLamp_01",
+            "pos0": 9,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_trottingHorseLamp_01",
+            "pos0": 15,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_trottingHorseLamp_01",
+            "pos0": 28,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_restaurant_spotlight_01",
+            "pos0": 3,
+            "pos1": 8
+          },
+          {
+            "furnitureId": "furni_restaurant_spotlight_01",
+            "pos0": 7,
+            "pos1": 8
+          },
+          {
+            "furnitureId": "furni_restaurant_downlight_01",
+            "pos0": 22,
+            "pos1": 6
+          },
+          {
+            "furnitureId": "furni_restaurant_carpet_01",
+            "pos0": 0,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_restaurant_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_restaurant_floor_01",
+            "pos0": 0,
+            "pos1": 0
+          }
+        ]
+      },
+      "furni_set_lightFood": {
+        "id": "furni_set_lightFood",
+        "name": "健康快餐店",
+        "desc": "新概念快餐店，店员招募中。美味与健康总可兼得。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_lightFood_priceList_01",
+            "pos0": 0,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_lightFood_sign_01",
+            "pos0": 9,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_cashierDesk_01",
+            "pos0": 0,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_lightFood_spotlight_01",
+            "pos0": 0,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_lightFood_foodCabinet_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_juicer_01",
+            "pos0": 8,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_orderingMachine_01",
+            "pos0": 14,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_lightFood_vendingMachine_01",
+            "pos0": 17,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_board_01",
+            "pos0": 2,
+            "pos1": 6
+          },
+          {
+            "furnitureId": "furni_lightFood_partitionGate_01",
+            "pos0": 21,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_wallSticker_01",
+            "pos0": 22,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_table_01",
+            "pos0": 25,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_lightFood_chair_01",
+            "pos0": 24,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_ceiling_01",
+            "pos0": 22,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_carpet_01",
+            "pos0": 22,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_downlight_01",
+            "pos0": 3,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_downlight_01",
+            "pos0": 6,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_downlight_01",
+            "pos0": 9,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_downlight_01",
+            "pos0": 13,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_downlight_01",
+            "pos0": 16,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_lightFood_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_lightFood_floor_01",
+            "pos0": 0,
+            "pos1": 0
+          }
+        ]
+      },
+      "furni_set_beerhouse": {
+        "id": "furni_set_beerhouse",
+        "name": "七城风情餐厅",
+        "desc": "再现了七城风情餐厅的概念房间。味道如何？",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_beerhouse_priceList_01",
+            "pos0": 0,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_beerhouse_cashierDesk_01",
+            "pos0": 0,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beerhouse_foodCabinet_01",
+            "pos0": 0,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_beerhouse_wineRack_01",
+            "pos0": 10,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beerhouse_banner1_01",
+            "pos0": 12,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beerhouse_wallSticker_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beerhouse_diningTable1_01",
+            "pos0": 16,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_beerhouse_diningTable2_01",
+            "pos0": 24,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_beerhouse_framedArt1_01",
+            "pos0": 21,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beerhouse_framedArt2_01",
+            "pos0": 24,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beerhouse_banner2_01",
+            "pos0": 30,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beerhouse_slopedCeiling1_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beerhouse_slopedCeiling2_01",
+            "pos0": 0,
+            "pos1": 8
+          },
+          {
+            "furnitureId": "furni_beerhouse_ceilingLight_01",
+            "pos0": 5,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_beerhouse_ceilingLight_01",
+            "pos0": 15,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_beerhouse_ceilingLight_01",
+            "pos0": 25,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_beerhouse_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beerhouse_floor_01",
+            "pos0": 0,
+            "pos1": 0
+          }
+        ]
+      },
+      "furni_set_dormW": {
+        "id": "furni_set_dormW",
+        "name": "萨卡兹佣兵休息室",
+        "desc": "以萨卡兹风格建造的休息室。危险与舒适并存。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_dormW_weaponRack_01",
+            "pos0": 0,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_dormW_wallDecor_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_partition_01",
+            "pos0": 6,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_barrel_01",
+            "pos0": 8,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_toolbox_01",
+            "pos0": 12,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_dormW_table_01",
+            "pos0": 16,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_dormW_mirror_01",
+            "pos0": 15,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_snookerTable_01",
+            "pos0": 21,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_dormW_triangle_01",
+            "pos0": 24,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_dormW_dartboard_01",
+            "pos0": 26,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_dormW_shelf_01",
+            "pos0": 21,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_dormW_bulletinboard_01",
+            "pos0": 30,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_carpet_01",
+            "pos0": 19,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_wallSticker_01",
+            "pos0": 21,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_walllamp_01",
+            "pos0": 21,
+            "pos1": 7
+          },
+          {
+            "furnitureId": "furni_dormW_walllamp_01",
+            "pos0": 21,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_dormW_walllamp_01",
+            "pos0": 21,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_dormW_ceiling_01",
+            "pos0": 3,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_dormW_fluorescentLamp_01",
+            "pos0": 0,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_dormW_ceilingLight_01",
+            "pos0": 0,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_dormW_ceilingLight_01",
+            "pos0": 32,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_dormW_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_dormW_floor_01",
+            "pos0": 0,
+            "pos1": 0
+          }
+        ]
       }
     },
     "groups": {
@@ -19711,6 +23224,231 @@
           "furni_elite_wallpaper_01",
           "furni_elite_floor_01",
           "furni_elite_ceiling_01"
+        ]
+      },
+      "furni_set_restaurant_1": {
+        "id": "furni_set_restaurant_1",
+        "name": "餐厨一体区",
+        "themeId": "furni_set_restaurant",
+        "comfort": 325,
+        "count": 4,
+        "furniture": [
+          "furni_restaurant_fryingTable_01",
+          "furni_restaurant_stockPotTable_01",
+          "furni_restaurant_barTable_01",
+          "furni_restaurant_chair_01"
+        ]
+      },
+      "furni_set_restaurant_2": {
+        "id": "furni_set_restaurant_2",
+        "name": "就餐区",
+        "themeId": "furni_set_restaurant",
+        "comfort": 140,
+        "count": 4,
+        "furniture": [
+          "furni_restaurant_screen_01",
+          "furni_restaurant_diningTable_01",
+          "furni_restaurant_longBench_01",
+          "furni_restaurant_carpet_01"
+        ]
+      },
+      "furni_set_restaurant_3": {
+        "id": "furni_set_restaurant_3",
+        "name": "店面装潢",
+        "themeId": "furni_set_restaurant",
+        "comfort": 145,
+        "count": 4,
+        "furniture": [
+          "furni_restaurant_curtain_01",
+          "furni_restaurant_trottingHorseLamp_01",
+          "furni_restaurant_spotlight_01",
+          "furni_restaurant_downlight_01"
+        ]
+      },
+      "furni_set_restaurant_4": {
+        "id": "furni_set_restaurant_4",
+        "name": "食坊基调",
+        "themeId": "furni_set_restaurant",
+        "comfort": 125,
+        "count": 4,
+        "furniture": [
+          "furni_restaurant_wallpaper_01",
+          "furni_restaurant_floor_01",
+          "furni_restaurant_bonsai_01",
+          "furni_restaurant_pottedPlant_01"
+        ]
+      },
+      "furni_set_restaurant_5": {
+        "id": "furni_set_restaurant_5",
+        "name": "饺子坊",
+        "themeId": "furni_set_restaurant",
+        "comfort": 0,
+        "count": 2,
+        "furniture": [
+          "furni_restaurant_ceiling1_01",
+          "furni_restaurant_priceList1_01"
+        ]
+      },
+      "furni_set_lightFood_1": {
+        "id": "furni_set_lightFood_1",
+        "name": "健康点餐区",
+        "themeId": "furni_set_lightFood",
+        "comfort": 145,
+        "count": 5,
+        "furniture": [
+          "furni_lightFood_priceList_01",
+          "furni_lightFood_sign_01",
+          "furni_lightFood_cashierDesk_01",
+          "furni_lightFood_spotlight_01",
+          "furni_lightFood_board_01"
+        ]
+      },
+      "furni_set_lightFood_2": {
+        "id": "furni_set_lightFood_2",
+        "name": "健康备餐区",
+        "themeId": "furni_set_lightFood",
+        "comfort": 115,
+        "count": 4,
+        "furniture": [
+          "furni_lightFood_foodCabinet_01",
+          "furni_lightFood_juicer_01",
+          "furni_lightFood_orderingMachine_01",
+          "furni_lightFood_vendingMachine_01"
+        ]
+      },
+      "furni_set_lightFood_3": {
+        "id": "furni_set_lightFood_3",
+        "name": "健康用餐区",
+        "themeId": "furni_set_lightFood",
+        "comfort": 190,
+        "count": 5,
+        "furniture": [
+          "furni_lightFood_ceiling_01",
+          "furni_lightFood_wallSticker_01",
+          "furni_lightFood_table_01",
+          "furni_lightFood_chair_01",
+          "furni_lightFood_carpet_01"
+        ]
+      },
+      "furni_set_lightFood_4": {
+        "id": "furni_set_lightFood_4",
+        "name": "健康装潢",
+        "themeId": "furni_set_lightFood",
+        "comfort": 120,
+        "count": 4,
+        "furniture": [
+          "furni_lightFood_wallpaper_01",
+          "furni_lightFood_floor_01",
+          "furni_lightFood_downlight_01",
+          "furni_lightFood_partitionGate_01"
+        ]
+      },
+      "furni_set_beerhouse_1": {
+        "id": "furni_set_beerhouse_1",
+        "name": "出餐与制作",
+        "themeId": "furni_set_beerhouse",
+        "comfort": 210,
+        "count": 4,
+        "furniture": [
+          "furni_beerhouse_priceList_01",
+          "furni_beerhouse_cashierDesk_01",
+          "furni_beerhouse_foodCabinet_01",
+          "furni_beerhouse_wineRack_01"
+        ]
+      },
+      "furni_set_beerhouse_2": {
+        "id": "furni_set_beerhouse_2",
+        "name": "用餐与赏鉴",
+        "themeId": "furni_set_beerhouse",
+        "comfort": 160,
+        "count": 4,
+        "furniture": [
+          "furni_beerhouse_diningTable1_01",
+          "furni_beerhouse_diningTable2_01",
+          "furni_beerhouse_framedArt1_01",
+          "furni_beerhouse_framedArt2_01"
+        ]
+      },
+      "furni_set_beerhouse_3": {
+        "id": "furni_set_beerhouse_3",
+        "name": "宣传与装饰",
+        "themeId": "furni_set_beerhouse",
+        "comfort": 165,
+        "count": 4,
+        "furniture": [
+          "furni_beerhouse_wallSticker_01",
+          "furni_beerhouse_ceilingLight_01",
+          "furni_beerhouse_banner1_01",
+          "furni_beerhouse_banner2_01"
+        ]
+      },
+      "furni_set_beerhouse_4": {
+        "id": "furni_set_beerhouse_4",
+        "name": "七城经典装潢",
+        "themeId": "furni_set_beerhouse",
+        "comfort": 200,
+        "count": 4,
+        "furniture": [
+          "furni_beerhouse_wallpaper_01",
+          "furni_beerhouse_floor_01",
+          "furni_beerhouse_slopedCeiling1_01",
+          "furni_beerhouse_slopedCeiling2_01"
+        ]
+      },
+      "furni_set_dormW_1": {
+        "id": "furni_set_dormW_1",
+        "name": "“工作”套组",
+        "themeId": "furni_set_dormW",
+        "comfort": 205,
+        "count": 5,
+        "furniture": [
+          "furni_dormW_weaponRack_01",
+          "furni_dormW_barrel_01",
+          "furni_dormW_toolbox_01",
+          "furni_dormW_table_01",
+          "furni_dormW_bulletinboard_01"
+        ]
+      },
+      "furni_set_dormW_2": {
+        "id": "furni_set_dormW_2",
+        "name": "“休闲”套组",
+        "themeId": "furni_set_dormW",
+        "comfort": 185,
+        "count": 5,
+        "furniture": [
+          "furni_dormW_snookerTable_01",
+          "furni_dormW_triangle_01",
+          "furni_dormW_shelf_01",
+          "furni_dormW_dartboard_01",
+          "furni_dormW_carpet_01"
+        ]
+      },
+      "furni_set_dormW_3": {
+        "id": "furni_set_dormW_3",
+        "name": "“装饰”套组",
+        "themeId": "furni_set_dormW",
+        "comfort": 210,
+        "count": 5,
+        "furniture": [
+          "furni_dormW_ceiling_01",
+          "furni_dormW_partition_01",
+          "furni_dormW_fluorescentLamp_01",
+          "furni_dormW_ceilingLight_01",
+          "furni_dormW_mirror_01"
+        ]
+      },
+      "furni_set_dormW_4": {
+        "id": "furni_set_dormW_4",
+        "name": "“装潢”套组",
+        "themeId": "furni_set_dormW",
+        "comfort": 165,
+        "count": 5,
+        "furniture": [
+          "furni_dormW_wallpaper_01",
+          "furni_dormW_floor_01",
+          "furni_dormW_wallDecor_01",
+          "furni_dormW_wallSticker_01",
+          "furni_dormW_walllamp_01"
         ]
       }
     },

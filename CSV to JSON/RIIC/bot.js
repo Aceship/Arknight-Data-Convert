@@ -166,7 +166,7 @@ function createJSON(csv){
     for (i=1;i<csv.length;i++){
         var currRow = csv[i]
         if(currRow[1]){
-            json[currRow[1]]={name:currRow[2],desc:currRow[5]}
+            json[currRow[1]]={name:currRow[2],desc:currRow[5],descformat:currRow[6]}
         }
     }
     return json

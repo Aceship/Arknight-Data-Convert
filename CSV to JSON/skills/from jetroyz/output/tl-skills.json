@@ -131,16 +131,16 @@
 	"skchr_amiya_3": {
 		"name": "Chimaera",
 		"desc": [
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends",
-			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks ignore Defense and Magic resistance. Amiya is forcibly retreated after the skill ends"
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends",
+			"Attack +{{atk}:.0%}, Max HP +{{max_hp}:.0%}, increase attack range, attacks change to true damage. Amiya is forcibly retreated after the skill ends"
 		]
 	},
 	"skcom_atk_up[3]": {
@@ -161,16 +161,31 @@
 	"skchr_skfire_2": {
 		"name": "Flame of Heaven",
 		"desc": [
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
-			"Increase attack interval (+{base_attack_time} seconds), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds"
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds",
+			"Increase attack interval (+{{base_attack_time}:.0%}), attack changes to summoning comets from the sky. Comets require time to reach the ground. They deal {{attack@atk_scale}:.0%} magical damage to enemies in a large area and stun them for {attack@stun} seconds"
+		]
+	},
+	"skchr_leizi_2": {
+		"name": "Lightning Omen",
+		"desc": [
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce",
+			"Attack +{{atk}:.0%}, attacks no longer reduce damage after each bounce"
 		]
 	},
 	"skchr_nightm_1": {
@@ -191,16 +206,16 @@
 	"skchr_nightm_2": {
 		"name": "Nightmare Shadow",
 		"desc": [
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds",
-			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal damage that ignores Defense and Magic resistance based on the distance moved, lasting for {{duration}:.0f} seconds"
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds",
+			"Immediately inflict Nightmare effect on up to {{max_target}:.0f} targets within attack range: Enemy movement speed {{move_speed}:.0%}, additionally deal true damage proportionally to the distance moved, lasting for {{duration}:.0f} seconds"
 		]
 	},
 	"skchr_ifrit_1": {
@@ -236,16 +251,16 @@
 	"skchr_ifrit_3": {
 		"name": "Burning Ground",
 		"desc": [
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
-			"Deal {{atk_scale}:.0%} magical damage to enemies within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second"
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second",
+			"Deal {{atk_scale}:.0%} magical damage to enemies on the ground within attack range every second and inflict {{magic_resistance}:.0f} Magic resistance. However, Ifrit loses {{hp_ratio}:.0%} Max HP every second"
 		]
 	},
 	"skchr_mostma_2": {
@@ -321,6 +336,51 @@
 			"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",
 			"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range",
 			"Attack +{{atk}:.0%}, increase attack range, greatly reduce attack interval ({base_attack_time} seconds). Attacks by firing lava randomly at up to {{attack@max_target}:.0f} enemies within attack range"
+		]
+	},
+	"skchr_cerber_1": {
+		"name": "“Very Cold Tomahawk”",
+		"desc": [
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power, prioritizes an unblocked enemy and binds them for {duration} seconds. Can hold {{cnt}:.0f} charges"
+		]
+	},
+	"skchr_cerber_2": {
+		"name": "“Very Hot Blade”",
+		"desc": [
+			"Slightly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Slightly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Slightly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Highly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), prioritize the enemy with the highest Defense"
+		]
+	},
+	"skchr_cerber_3": {
+		"name": "“Very Heavy Spear”",
+		"desc": [
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds",
+			"Increase attack range, Attack +{{atk}:.0%}, change damage type to physical damage, prioritize the enemy with the lowest Defense and seal their special abilities for {attack@silence} seconds"
 		]
 	},
 	"skcom_heal_self[1]": {
@@ -437,16 +497,16 @@
 	"skchr_sunbr_2": {
 		"name": "Food Preparation",
 		"desc": [
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}",
-			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{base_attack_time} seconds), Attack +{{atk}:.0%}"
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}",
+			"Begins cooking and stops attacking enemies for {{disarm}:.0f} seconds, Defense +{{def}:.0%}. After finishing cooking, focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%}), Attack +{{atk}:.0%}"
 		]
 	},
 	"skchr_durnar_2": {
@@ -482,16 +542,46 @@
 	"skchr_nearl_2": {
 		"name": "First Aid Mode",
 		"desc": [
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)",
-			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds)"
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})",
+			"Attack +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{{base_attack_time}:.0%})"
+		]
+	},
+	"skchr_hmau_1": {
+		"name": "Counter Treatment",
+		"desc": [
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack",
+			"The next attack is changed to healing a nearby ally for {{heal_scale}:.0%} Attack"
+		]
+	},
+	"skchr_hmau_2": {
+		"name": "Counter Healing Mode",
+		"desc": [
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP",
+			"Attack and Defense +{{atk}:.0%}, stops attacking enemies and focuses on healing nearby allies (attack interval +{base_attack_time} seconds). Healed allies recover 1 SP"
 		]
 	},
 	"skchr_liskam_1": {
@@ -512,16 +602,16 @@
 	"skchr_liskam_2": {
 		"name": "Counter Shock",
 		"desc": [
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends"
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, every attack deals magical damage to up to {{attack@max_target}:.0f} enemies and has {{attack@buff_prob}:.0%} chance to stun the targets for {{attack@stun}:.0f} second. Liskarm is stunned for {{stun}:.0f} seconds after the skill ends"
 		]
 	},
 	"skchr_moeshd_1": {
@@ -614,6 +704,36 @@
 			"Block count -1, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, every attack recovers {{hp_ratio}:.0%} Max HP, attack multiple enemies equal to Block count"
 		]
 	},
+	"skchr_asbest_1": {
+		"name": "Safeguard Mode",
+		"desc": [
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}",
+			"Block the next magic attack and reduce magic damage taken within the skill duration by {{fake}:.0%}"
+		]
+	},
+	"skchr_asbest_2": {
+		"name": "Thermal Mode",
+		"desc": [
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, greatly increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, greatly increase attack range. Attacks change to splash attacks",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, Defense +{{def}:.0%}, greatly increase attack range. Attacks change to splash attacks"
+		]
+	},
 	"skchr_hsguma_1": {
 		"name": "Battle Intent",
 		"desc": [
@@ -704,6 +824,51 @@
 			"All nearby allies are healed for {{attack@heal_scale}:.0%} of Saria's Attack every second. Additionally, all nearby enemies receive +{{fake.b}:.0%} magic damage taken and {{demkni_s_3.move_speed}:.0%} movement speed"
 		]
 	},
+	"skchr_nian_1": {
+		"name": "Scorching Tin",
+		"desc": [
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage",
+			"Defense +{{def}:.0%}, Attack +{{atk}:.0%}, normal attacks deal magical damage"
+		]
+	},
+	"skchr_nian_2": {
+		"name": "Copper Seal",
+		"desc": [
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds",
+			"Stops attacking enemies. Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}. Every time Nian is attacked, inflict {{atk_scale}:.0%} magical damage to the attacker and silence them for {{silence}:.0f} seconds"
+		]
+	},
+	"skchr_nian_3": {
+		"name": "Iron Guard",
+		"desc": [
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)",
+			"Attack +{{nian_s_3[self].atk}:.0%}. Nearby allies gain Defense +{{nian_s_3[ally].def}:.0%}, Block count +1 and [Resist] (reduce duration of stun, chill and freeze by 50%)"
+		]
+	},
 	"skcom_atk_up[1]": {
 		"name": "Attack Strengthening·Type α",
 		"desc": [
@@ -788,6 +953,36 @@
 			"Reduce Defense to 0, Attack +{{atk}:.0%}"
 		]
 	},
+	"skchr_peacok_1": {
+		"name": "Conviction",
+		"desc": [
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges",
+			"The next attack has {{atk_scale}:.0%} Attack power ({{peacok_s_1[crit].prob}:.0%} chance to increase to {{atk_scale_fake}:.0%}). Can hold 3 charges"
+		]
+	},
+	"skchr_peacok_2": {
+		"name": "Genesis",
+		"desc": [
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead",
+			"Immediately deal {{success.atk_scale}:.0%} magic damage to all nearby enemies and seal their special abilities for {success.silence} seconds. This skill has {{prob}:.0%} chance to fail, causing all nearby allies to be stunned for {{failure.stun}:.0f} seconds instead"
+		]
+	},
 	"skchr_frostl_1": {
 		"name": "Frosty Spear",
 		"desc": [
@@ -863,6 +1058,66 @@
 			"Attack and Defense +{{atk}:.0%}"
 		]
 	},
+	"skchr_cutter_1": {
+		"name": "Red Shift",
+		"desc": [
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage",
+			"Immediately throw {{times}:.0f} daggers towards random enemies ahead, each dealing {{atk_scale}:.0%} physical damage"
+		]
+	},
+	"skchr_cutter_2": {
+		"name": "Crimson Cutter",
+		"desc": [
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies",
+			"Deal {{atk_scale}:.0%} physical damage to up to {{max_target}:.0f} nearby enemies. Attack scaling is doubled when attacking flying enemies"
+		]
+	},
+	"skchr_utage_1": {
+		"name": "Distracted",
+		"desc": [
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Stops attacking enemies. Reduce Block count to 0, Defense +{{def}:.0%} and recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second"
+		]
+	},
+	"skchr_utage_2": {
+		"name": "Landing Strike·Doorbreaker",
+		"desc": [
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds",
+			"Immediately lose {{hp_ratio}:.0%} Max HP after deployment. Attack +{{atk}:.0%} and change damage type to magical damage for {{duration}:.0f} seconds"
+		]
+	},
 	"skchr_brownb_1": {
 		"name": "High Mobility",
 		"desc": [
@@ -881,16 +1136,16 @@
 	"skchr_brownb_2": {
 		"name": "Swift Punch",
 		"desc": [
-			"Reduce attack interval ({base_attack_time} seconds)",
-			"Reduce attack interval ({base_attack_time} seconds)",
-			"Reduce attack interval ({base_attack_time} seconds)",
-			"Highly reduce attack interval ({base_attack_time} seconds)",
-			"Highly reduce attack interval ({base_attack_time} seconds)",
-			"Highly reduce attack interval ({base_attack_time} seconds)",
-			"Highly reduce attack interval ({base_attack_time} seconds)",
-			"Greatly reduce attack interval ({base_attack_time} seconds)",
-			"Greatly reduce attack interval ({base_attack_time} seconds)",
-			"Greatly reduce attack interval ({base_attack_time} seconds)"
+			"Reduce attack interval ({{base_attack_time}:.0%})",
+			"Reduce attack interval ({{base_attack_time}:.0%})",
+			"Reduce attack interval ({{base_attack_time}:.0%})",
+			"Highly reduce attack interval ({{base_attack_time}:.0%})",
+			"Highly reduce attack interval ({{base_attack_time}:.0%})",
+			"Highly reduce attack interval ({{base_attack_time}:.0%})",
+			"Highly reduce attack interval ({{base_attack_time}:.0%})",
+			"Greatly reduce attack interval ({{base_attack_time}:.0%})",
+			"Greatly reduce attack interval ({{base_attack_time}:.0%})",
+			"Greatly reduce attack interval ({{base_attack_time}:.0%})"
 		]
 	},
 	"skchr_swire_1": {
@@ -1043,6 +1298,36 @@
 			"Attack +{{atk}:.0%}, change damage type to magical damage, attack an additional target, ranged attacks no longer reduce Attack. Automatic activation"
 		]
 	},
+	"skchr_bibeak_1": {
+		"name": "Feather Blades",
+		"desc": [
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead",
+			"The next attack has {{atk_scale}:.0%} Attack power and deals {{ranged@atk_scale}:.0%} magic damage to another enemy ahead"
+		]
+	},
+	"skchr_bibeak_2": {
+		"name": "Divergent Sword Slash",
+		"desc": [
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges",
+			"Deal {{atk_scale}:.0%} magic damage to up to {{max_target}:.0f} enemies ahead and stun them for {stun} seconds. Can hold 3 charges"
+		]
+	},
 	"skchr_ghost_2": {
 		"name": "Fractured Body",
 		"desc": [
@@ -1076,16 +1361,16 @@
 	"skchr_broca_2": {
 		"name": "High Voltage Current",
 		"desc": [
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
-			"Increase attack interval (+{base_attack_time} seconds), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and stops the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends"
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends",
+			"Increase attack interval (+{{base_attack_time}:.0%}), increase attack range, Attack +{{atk}:.0%}, normal attacks deal magical damage and slow the enemies for {attack@sluggish} seconds. Operator is stunned for {{stun}:.0f} seconds after the skill ends"
 		]
 	},
 	"skchr_astesi_1": {
@@ -1116,6 +1401,36 @@
 			"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",
 			"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count",
 			"Attack +{{atk}:.0%}, Defense +{{def}:.0%}, Block count +{{block_cnt}:.0f}, attack multiple enemies equal to Block count"
+		]
+	},
+	"skcom_heal_self[3]": {
+		"name": "Health Recovery·Type γ",
+		"desc": [
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP",
+			"Immediately recover {{heal_scale}:.0%} of Max HP"
+		]
+	},
+	"skchr_sidero_2": {
+		"name": "Breaker Recovery",
+		"desc": [
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second",
+			"Reduce attack range, Attack +{{atk}:.0%} Attack power, recover {{hp_recovery_per_sec_by_max_hp_ratio}:.0%} Max HP every second"
 		]
 	},
 	"skchr_savage_1": {
@@ -1487,6 +1802,36 @@
 			"Attack speed {{attack_speed}:.0f}, Attack +{{atk}:.0%}"
 		]
 	},
+	"skchr_finlpp_1": {
+		"name": "Healing Wave",
+		"desc": [
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack",
+			"Immediately heal all allies within range for {{heal_scale}:.0%} Attack"
+		]
+	},
+	"skchr_finlpp_2": {
+		"name": "Gushing Spring",
+		"desc": [
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack",
+			"Greatly reduce attack interval (reduced to {{base_attack_time}:.0%}), every heal randomly heals a wounded ally within range for {{attack@heal_scale}:.0%} Attack"
+		]
+	},
 	"skcom_heal_up[3]": {
 		"name": "Healing Strengthening·Type γ",
 		"desc": [
@@ -1799,31 +2144,31 @@
 	"skchr_mm_1": {
 		"name": "Paralysis Bullet",
 		"desc": [
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds",
-			"The next attack has {{atk_scale}:.0%} Attack power and stops the target for {sluggish} seconds"
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds",
+			"The next attack has {{atk_scale}:.0%} Attack power and slows the target for {sluggish} seconds"
 		]
 	},
 	"skchr_mm_2": {
 		"name": "Binding Shock",
 		"desc": [
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
-			"Slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, attacks stop the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds"
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds",
+			"Slightly increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attacks slow the target for {attack@sluggish} seconds and have {{attack@prob}:.0%} chance to stun them for {attack@stun} seconds"
 		]
 	},
 	"skchr_yuki_1": {
@@ -1859,16 +2204,16 @@
 	"skchr_glaze_1": {
 		"name": "Obstruction Shot",
 		"desc": [
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds",
-			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks stop the target for {attack@sluggish} seconds"
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds",
+			"Attack range +{{ability_range_forward_extend}:.0f} tiles, attacks slow the target for {attack@sluggish} seconds"
 		]
 	},
 	"skchr_glaze_2": {
@@ -1991,8 +2336,23 @@
 			"Immediately fire a flame bomb, dealing {{atk_scale}:.0%} physical damage to all enemies within the attack area and inflicting {{def}:.0f} Defense for {{duration}:.0f} seconds"
 		]
 	},
+	"skchr_sesa_2": {
+		"name": "Time-Delayed Vibrating Gadgets",
+		"desc": [
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds",
+			"Attacks change to firing a time-delayed grenade, dealing {{attack@atk_scale}:.0%} physical damage after exploding and inflicting {{attack@attack_speed}:.0f} attack speed to the targets for {{attack@duration}:.0f} seconds"
+		]
+	},
 	"skchr_excu_1": {
-		"name": "Firearm Retraction",
+		"name": "Muzzle Choking",
 		"desc": [
 			"Attack +{{atk}:.0%}, apply trait effect to all enemies within attack range",
 			"Attack +{{atk}:.0%}, apply trait effect to all enemies within attack range",
@@ -2171,6 +2531,51 @@
 			"Attack area changes to 4 tiles ahead of self, slightly increase attack interval (+{base_attack_time} seconds), Attack +{{atk}:.0%}, talent activation chance increases to {{talent@prob}:.0%}"
 		]
 	},
+	"skchr_cqbw_1": {
+		"name": "K of Hearts",
+		"desc": [
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds",
+			"Immediately fire a grenade, dealing {{atk_scale}:.0%} physical damage and stunning the targets for {stun} seconds"
+		]
+	},
+	"skchr_cqbw_2": {
+		"name": "Jack-in-the-box",
+		"desc": [
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"The next attack changes to burying a landmine on an eligible tile within attack range (lasts for 120 seconds). Landmines trigger when an enemy passes over, dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds"
+		]
+	},
+	"skchr_cqbw_3": {
+		"name": "D12",
+		"desc": [
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds",
+			"Plant bombs on up to {{max_target}:.0f} targets with the highest HP within attack range. The bombs will explode after a delay, each dealing {{atk_scale}:.0%} physical damage to all nearby enemies and stunning them for {stun} seconds"
+		]
+	},
 	"skchr_gravel_1": {
 		"name": "Shadow Raid",
 		"desc": [
@@ -2294,16 +2699,16 @@
 	"skchr_red_1": {
 		"name": "Execution Mode",
 		"desc": [
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion",
-			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical evasion"
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion",
+			"Attack +{{atk}:.0%} after deploying, additionally gain {{prob}:.0%} physical and magical evasion"
 		]
 	},
 	"skchr_red_2": {
@@ -2369,16 +2774,46 @@
 	"skchr_slchan_2": {
 		"name": "Binding Chain",
 		"desc": [
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds",
-			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with large force, dealing {{atk_scale}:.0%} damage that ignores Defense and Magic resistance and stuns them for {stun} seconds"
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with small force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with medium force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds",
+			"Immediately pull up to {{max_target}:.0f} enemies from a large area ahead towards self with large force, dealing {{atk_scale}:.0%} true damage and stunning them for {stun} seconds"
+		]
+	},
+	"skchr_snsant_1": {
+		"name": "Barbed Hook",
+		"desc": [
+			"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with small force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with medium force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds.",
+			"The next attack will pull the enemy towards self with large force, dealing {{atk_scale}:.0%} physical damage and slowing them for {sluggish} seconds."
+		]
+	},
+	"skchr_snsant_2": {
+		"name": "Retractable Electric Net",
+		"desc": [
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with small force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with small force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with small force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with medium force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds",
+			"Fire a net forwards, pulling all enemies nearby the targeted location towards self with large force, dealing {{atk_scale}:.0%} magical damage and slowing them for {sluggish} seconds"
 		]
 	},
 	"skchr_mantic_1": {
@@ -2441,6 +2876,141 @@
 			"Immediately rush forward and target the closest enemy in a straight line ahead, pushing back all enemies around the target with huge force and dealing {{atk_scale}:.0%} physical damage. Additionally, inflict {{move_speed}:.0%} movement speed to all targets for {{duration}:.0f} seconds"
 		]
 	},
+	"skchr_phatom_1": {
+		"name": "Phantom of the Night",
+		"desc": [
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds",
+			"After deployment, gain {{prob}:.0%} physical evasion and obtain a shield that absorbs physical damage equal to {{hp_ratio}:.0%} of Max HP for {{duration}:.0f} seconds"
+		]
+	},
+	"skchr_phatom_2": {
+		"name": "Bloodstained Movement",
+		"desc": [
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)",
+			"After deployment, gain {{times}:.0f} layers of stackable Attack buffs, each granting +{{atk}:.0%} Attack (every attack consumes 1 layer)"
+		]
+	},
+	"skchr_phatom_3": {
+		"name": "Night Raid",
+		"desc": [
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds",
+			"After deployment, immediately deal {{atk_scale}:.0%} physical damage to all nearby enemies and push them away with small force. Additionally, randomly apply one of the following status effects (slow, bind, stun) for {sluggish} seconds"
+		]
+	},
+	"skchr_weedy_1": {
+		"name": "Cannon Strike",
+		"desc": [
+			"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with small force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with medium force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds",
+			"The next attack will push the target away with large force, dealing {{atk_scale}:.0%} physical damage and stunning them for {stun} seconds"
+		]
+	},
+	"skchr_weedy_2": {
+		"name": "Water Cannon Mode",
+		"desc": [
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with very small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with very small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with very small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with small force. Infinite duration",
+			"Increase attack interval (+{{base_attack_time}:.0%}), Attack +{{atk}:.0%}, attack range +{{ability_range_forward_extend}:.0f} tiles, attacks change to ranged splash attacks which push the targets away with medium force. Infinite duration"
+		]
+	},
+	"skchr_weedy_3": {
+		"name": "LN2 Cannon",
+		"desc": [
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with medium force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with large force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with large force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with large force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot",
+			"Immediately fire a shot of compressed LN2, dealing {{atk_scale}:.0%} magic splash damage and pushing the targets away with huge force. Additionally, for {{duration}:.0f} seconds the targets receive true damage proportional to the distance moved. If the Water Cannon is adjacent to Weedy, it will fire the same shot"
+		]
+	},
+	"skchr_haak_1": {
+		"name": "Rapid Firing",
+		"desc": [
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}",
+			"Attack speed +{{attack_speed}:.0f}"
+		]
+	},
+	"skchr_haak_2": {
+		"name": "Burst Stimulant·Type γ",
+		"desc": [
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Defense and Max HP +{{max_hp}:.0%} to self and the target for the duration of the skill"
+		]
+	},
+	"skchr_haak_3": {
+		"name": "Burst Stimulant·Durian",
+		"desc": [
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill",
+			"Immediately attack the nearest ally ahead (prioritize allies directly in front) 15 times with 500 Attack power. Thereafter, grant Attack +{{atk}:.0%}, Attack speed +{{attack_speed}:.0f} to self and the target for the duration of the skill"
+		]
+	},
 	"skcom_quickattack[1]": {
 		"name": "Swift Strike·Type α",
 		"desc": [
@@ -2486,16 +3056,16 @@
 	"skchr_skgoat_2": {
 		"name": "Quicksand",
 		"desc": [
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds",
-			"Stops attacking enemies. All enemies within attack range get stopped once every {interval} seconds"
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds",
+			"Stops attacking enemies. All enemies within attack range get slowed once every {interval} seconds"
 		]
 	},
 	"skchr_otter_1": {
@@ -2556,6 +3126,36 @@
 			"All enemies within attack range have {{def}:.0%} Defense and {{magic_resistance}:.0%} Magic resistance",
 			"All enemies within attack range have {{def}:.0%} Defense and {{magic_resistance}:.0%} Magic resistance",
 			"All enemies within attack range have {{def}:.0%} Defense and {{magic_resistance}:.0%} Magic resistance"
+		]
+	},
+	"skchr_vodfox_1": {
+		"name": "Terminal Disease",
+		"desc": [
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration",
+			"Attack +{{atk}:.0%}, damage increase from talent increased by {scale_delta_to_one}x. Infinite duration"
+		]
+	},
+	"skchr_vodfox_2": {
+		"name": "Curse Doll",
+		"desc": [
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds",
+			"Obtain a curse doll. Able to store up to 1 curse doll. Curse dolls will inflict {{atk}:.0%} Attack and Defense to nearby enemies after being deployed and self-destruct after 15 seconds"
 		]
 	},
 	"skchr_glassb_1": {
@@ -2648,6 +3248,36 @@
 			"All allies within attack range gain Attack equal to {{atk}:.0%} of Sora's Attack"
 		]
 	},
+	"skchr_tknogi_1": {
+		"name": "Traceless",
+		"desc": [
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status",
+			"All allies within attack range gain {{prob}:.0%} physical and magic evasion. Additionally, enemies lose stealth status"
+		]
+	},
+	"skchr_tknogi_2": {
+		"name": "Encircling Forest",
+		"desc": [
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second",
+			"Stops attacking enemies. Talent activation requirement is changed to {{talent@hp_ratio}:.0%} HP and the Shelter effect is increased to {talent_scale}x. All allies within attack range are healed for {{attack@atk_to_hp_recovery_ratio}:.0%} of Tsukinogi's Attack every second"
+		]
+	},
 	"skchr_aglina_1": {
 		"name": "Secret Staff·Speed Charge Mode",
 		"desc": [
@@ -2666,16 +3296,16 @@
 	"skchr_aglina_2": {
 		"name": "Secret Staff·Particle Mode",
 		"desc": [
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
-			"Massively reduce attack interval (reduced to {base_attack_time} seconds), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active"
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active",
+			"Massively reduce attack interval (reduced to {{base_attack_time}:.0%}), however every attack will only deal {{damage_scale}:.0%} magical damage. Unable to attack when skill is not active"
 		]
 	},
 	"skchr_aglina_3": {
@@ -2696,16 +3326,16 @@
 	"skchr_mgllan_1": {
 		"name": "High-efficiency Refrigeration Module",
 		"desc": [
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
-			"Passive: Magallan and her drones stop all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Stop effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends"
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends",
+			"Passive: Magallan and her drones slow all enemies within attack range for {attack@sluggish} seconds every {attack@interval} seconds. </br></br>Active: Slow effect is changed to bind for {attack@frozen_duration} seconds. All drones will be retrieved after the skill ends"
 		]
 	},
 	"skchr_mgllan_2": {
@@ -2927,6 +3557,36 @@
 			"Attack +{{atk}:.0%}, every attack deals additional magic damage equal to {{attack@skill.atk_scale}:.0%} Attack. Additionally, obtain +1 cost when killing an enemy"
 		]
 	},
+	"skcom_assist_cost[3]": {
+		"name": "Support Order·Type γ",
+		"desc": [
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active",
+			"Stops attacking and gradually obtain {{value}:.0f} cost while the skill is active"
+		]
+	},
+	"skchr_elysm_2": {
+		"name": "Focused Listening",
+		"desc": [
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status",
+			"Stops attacking and gradually obtain {{value}:.0f} cost. While the skill is active, lock-on to up to {{max_target}:.0f} nearby enemies. Enemies locked-on to have {{move_speed}:.0%} movement speed, {{def}:.0%} Defense and lose stealth status"
+		]
+	},
 	"skchr_grani_2": {
 		"name": "Never Back Down!",
 		"desc": [
@@ -2970,6 +3630,36 @@
 			"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",
 			"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds",
 			"Increase attack interval (+{base_attack_time} seconds), every attack deals {{attack@atk_scale}:.0%} damage and has {{attack@buff_prob}:.0%} chance to stun the target for {attack@stun} seconds"
+		]
+	},
+	"skchr_bpipe_2": {
+		"name": "High Efficiency Impact",
+		"desc": [
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges",
+			"The next attack has {{atk_scale}:.0%} Attack power and attacks an additional time. Can hold {{cnt}:.0f} charges"
+		]
+	},
+	"skchr_bpipe_3": {
+		"name": "Closed Bolt Burst Fire",
+		"desc": [
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits",
+			"Increase attack interval (+{base_attack_time} seconds), Block count +{{block_cnt}:.0f}, Attack and Defense +{{atk}:.0%}, attacks deal 3 hits"
 		]
 	}
 }

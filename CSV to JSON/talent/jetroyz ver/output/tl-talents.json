@@ -91,11 +91,11 @@
 		[
 			{
 				"name": "Static Field",
-				"desc": "Attacks inflict 0.4 seconds of stop effect to enemies"
+				"desc": "Attacks inflict 0.4 seconds of slow to enemies"
 			},
 			{
 				"name": "Static Field",
-				"desc": "Attacks inflict 0.6 seconds of stop effect to enemies"
+				"desc": "Attacks inflict 0.6 seconds of slow to enemies"
 			}
 		]
 	],
@@ -152,6 +152,26 @@
 			{
 				"name": "Dual Personality",
 				"desc": "When equipping Skill 1, obtain 45% (+5%) physical and magic evasion. When equipping Skill 2, Attack +18% (+3%)"
+			}
+		]
+	],
+	"char_306_leizi": [
+		[
+			{
+				"name": "Uninterrupted Passage",
+				"desc": "When attacking unblocked enemies, increase Attack to 110%"
+			},
+			{
+				"name": "Uninterrupted Passage",
+				"desc": "When attacking unblocked enemies, increase Attack to 113% (+3%)"
+			},
+			{
+				"name": "Uninterrupted Passage",
+				"desc": "When attacking unblocked enemies, increase Attack to 120%"
+			},
+			{
+				"name": "Uninterrupted Passage",
+				"desc": "When attacking unblocked enemies, increase Attack to 123% (+3%)"
 			}
 		]
 	],
@@ -242,6 +262,32 @@
 			{
 				"name": "Subjective Time Dilation",
 				"desc": "Movement speed of enemies within attack range -18% (+3%)"
+			}
+		]
+	],
+	"char_2013_cerber": [
+		[
+			{
+				"name": "Whittling",
+				"desc": "When attacking, deal additional magic damage equal to 25% of the target's Defense"
+			},
+			{
+				"name": "Whittling",
+				"desc": "When attacking, deal additional magic damage equal to 29% (+4%) of the target's Defense"
+			},
+			{
+				"name": "Whittling",
+				"desc": "When attacking, deal additional magic damage equal to 40% of the target's Defense"
+			},
+			{
+				"name": "Whittling",
+				"desc": "When attacking, deal additional magic damage equal to 44% (+4%) of the target's Defense"
+			}
+		],
+		[
+			{
+				"name": "Lone Journey",
+				"desc": "When there are no allies in the 4 adjacent tiles, Attack +8% and Attack speed +8"
 			}
 		]
 	],
@@ -451,6 +497,38 @@
 			}
 		]
 	],
+	"char_226_hmau": [
+		[
+			{
+				"name": "Gatekeeper",
+				"desc": "Defense +6%"
+			},
+			{
+				"name": "Gatekeeper",
+				"desc": "Defense +8% (+2%)"
+			},
+			{
+				"name": "Gatekeeper",
+				"desc": "Defense +6%. If the tile behind is a high tile, healing effectiveness to self +75%"
+			},
+			{
+				"name": "Gatekeeper",
+				"desc": "Defense +8% (+2%). If the tile behind is a high tile, healing effectiveness to self +85% (+10%)"
+			}
+		]
+	],
+	"char_378_asbest": [
+		[
+			{
+				"name": "Moist Skin",
+				"desc": "Magic resistance +5. When attacked by a magic normal attack, recover 1 SP to self"
+			},
+			{
+				"name": "Moist Skin",
+				"desc": "Magic resistance +10. When attacked by a magic normal attack, recover 3 SP to self"
+			}
+		]
+	],
 	"char_136_hsguma": [
 		[
 			{
@@ -504,6 +582,32 @@
 			{
 				"name": "Spiritual Recovery",
 				"desc": "When healing an ally, grant 1 SP to the target"
+			}
+		]
+	],
+	"char_2014_nian": [
+		[
+			{
+				"name": "Mountainous Armor",
+				"desc": "When in team, all ally 【Defender】 operatives gain Max HP +8%"
+			},
+			{
+				"name": "Mountainous Armor",
+				"desc": "When in team, all ally 【Defender】 operatives gain Max HP +12% (+4%)"
+			},
+			{
+				"name": "Mountainous Armor",
+				"desc": "When in team, all ally 【Defender】 operatives gain Max HP +16%"
+			},
+			{
+				"name": "Mountainous Armor",
+				"desc": "When in team, all ally 【Defender】 operatives gain Max HP +20% (+4%)"
+			}
+		],
+		[
+			{
+				"name": "Omniscience",
+				"desc": "Immediately gain 3 shields after deployment (can block 3 attacks)"
 			}
 		]
 	],
@@ -687,6 +791,54 @@
 			}
 		]
 	],
+	"char_337_utage": [
+		[
+			{
+				"name": "Serious Mode",
+				"desc": "Based on HP lost, increase Attack speed (up to +50 Attack speed when 50% HP is lost)"
+			},
+			{
+				"name": "Serious Mode",
+				"desc": "Based on HP lost, increase Attack speed (up to +75 Attack speed when 60% HP is lost)"
+			},
+			{
+				"name": "Serious Mode",
+				"desc": "Based on HP lost, increase Attack speed (up to +100 Attack speed when 70% HP is lost)"
+			}
+		]
+	],
+	"char_159_peacok": [
+		[
+			{
+				"name": "Stable Descent",
+				"desc": "Deployment cost -2, redeploy time -8 seconds, however stun self for 10 seconds after deployment"
+			},
+			{
+				"name": "Stable Descent",
+				"desc": "Deployment cost -4, redeploy time -15 seconds, however stun self for 10 seconds after deployment"
+			}
+		]
+	],
+	"char_301_cutter": [
+		[
+			{
+				"name": "Photoetched Marks",
+				"desc": "Normal attacks have 12% chance to recover 1 additional SP"
+			},
+			{
+				"name": "Photoetched Marks",
+				"desc": "Normal attacks have 15% (+3%) chance to recover 1 additional SP"
+			},
+			{
+				"name": "Photoetched Marks",
+				"desc": "Normal attacks have 20% chance to recover 1 additional SP"
+			},
+			{
+				"name": "Photoetched Marks",
+				"desc": "Normal attacks have 23% (+3%) chance to recover 1 additional SP"
+			}
+		]
+	],
 	"char_308_swire": [
 		[
 			{
@@ -848,6 +1000,38 @@
 			{
 				"name": "Drill Fortification",
 				"desc": "When blocking 2 or more enemies, Attack and Defense +14% (+2%)"
+			}
+		]
+	],
+	"char_252_bibeak": [
+		[
+			{
+				"name": "Soul Absorption",
+				"desc": "Increase attack speed by +4 for every enemy killed, stacks up to 5 layers"
+			},
+			{
+				"name": "Soul Absorption",
+				"desc": "Increase attack speed by +4 for every enemy killed, stacks up to 6 (+1) layers"
+			},
+			{
+				"name": "Soul Absorption",
+				"desc": "Increase attack speed by +6 for every enemy killed, stacks up to 5 layers"
+			},
+			{
+				"name": "Soul Absorption",
+				"desc": "Increase attack speed by +6 for every enemy killed, stacks up to 6 (+1) layers"
+			}
+		]
+	],
+	"char_333_sidero": [
+		[
+			{
+				"name": "Mercenary's Tenacity",
+				"desc": "After killing 7 enemies, Attack speed +15 and gain [Resist] effect (reduce duration of stun, chill and freeze by 50%)"
+			},
+			{
+				"name": "Mercenary's Tenacity",
+				"desc": "After killing 5 (-2) enemies, Attack speed +15 and gain [Resist] effect (reduce duration of stun, chill and freeze by 50%)"
 			}
 		]
 	],
@@ -1105,19 +1289,31 @@
 		[
 			{
 				"name": "Minimally Invasive Healing",
-				"desc": "When in team, all operators with less than 10 initial cost receive 10% more healing"
+				"desc": "When in team, all operators with 10 or less initial cost receive 10% more healing"
 			},
 			{
 				"name": "Minimally Invasive Healing",
-				"desc": "When in team, all operators with less than 10 initial cost receive 13% (+3%) more healing"
+				"desc": "When in team, all operators with 10 or less initial cost receive 13% (+3%) more healing"
 			},
 			{
 				"name": "Minimally Invasive Healing",
-				"desc": "When in team, all operators with less than 10 initial cost receive 20% more healing"
+				"desc": "When in team, all operators with 10 or less initial cost receive 20% more healing"
 			},
 			{
 				"name": "Minimally Invasive Healing",
-				"desc": "When in team, all operators with less than 10 initial cost receive 23% (+3%) more healing"
+				"desc": "When in team, all operators with 10 or less initial cost receive 23% (+3%) more healing"
+			}
+		]
+	],
+	"char_385_finlpp": [
+		[
+			{
+				"name": "Rapid Recovery",
+				"desc": "After healing the target, grant [Resist] effect to them for 2 seconds (reduce duration of stun, chill and freeze by 50%)"
+			},
+			{
+				"name": "Rapid Recovery",
+				"desc": "After healing the target, grant [Resist] effect to them for 4 seconds (reduce duration of stun, chill and freeze by 50%)"
 			}
 		]
 	],
@@ -1525,6 +1721,26 @@
 			}
 		]
 	],
+	"char_379_sesa": [
+		[
+			{
+				"name": "Weakpoint Demolition",
+				"desc": "When deployed, all blocked enemies receive +7% physical damage"
+			},
+			{
+				"name": "Weakpoint Demolition",
+				"desc": "When deployed, all blocked enemies receive +9% (+2%) physical damage"
+			},
+			{
+				"name": "Weakpoint Demolition",
+				"desc": "When deployed, all blocked enemies receive +14% physical damage"
+			},
+			{
+				"name": "Weakpoint Demolition",
+				"desc": "When deployed, all blocked enemies receive +16% (+2%) physical damage"
+			}
+		]
+	],
 	"char_103_angel": [
 		[
 			{
@@ -1581,6 +1797,56 @@
 			}
 		]
 	],
+	"char_113_cqbw": [
+		[
+			{
+				"name": "Ambush",
+				"desc": "10 seconds after deployment, gain 40% physical and magic evasion and become less likely to be targeted by enemies"
+			},
+			{
+				"name": "Ambush",
+				"desc": "10 seconds after deployment, gain 60% physical and magic evasion and become less likely to be targeted by enemies"
+			}
+		],
+		[
+			{
+				"name": "Ruthless",
+				"desc": "Stunned enemies within attack range have +18% physical damage taken"
+			},
+			{
+				"name": "Ruthless",
+				"desc": "Stunned enemies within attack range have +21% (+3%) physical damage taken"
+			}
+		]
+	],
+	"char_376_therex": [
+		[
+			{
+				"name": "Delayed Detonation·I",
+				"desc": "3 seconds after deployment, deal 300% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 10%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			},
+			{
+				"name": "Delayed Detonation·II",
+				"desc": "3 seconds after deployment, deal 320% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 18%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			},
+			{
+				"name": "Delayed Detonation·III",
+				"desc": "3 seconds after deployment, deal 340% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 21%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			},
+			{
+				"name": "Delayed Detonation·IV",
+				"desc": "3 seconds after deployment, deal 360% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 24%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			},
+			{
+				"name": "Delayed Detonation·V",
+				"desc": "3 seconds after deployment, deal 380% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 27%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			},
+			{
+				"name": "Delayed Detonation·VI",
+				"desc": "3 seconds after deployment, deal 400% physical damage to all enemies in the surrounding 8 tiles and apply 【Weakening】 effect to them (damage taken is increased by 30%) (When stacked, only the strongest effect becomes active). Afterwards, Thermal-EX is forcibly retreated"
+			}
+		]
+	],
 	"char_237_gravel": [
 		[
 			{
@@ -1589,11 +1855,11 @@
 			},
 			{
 				"name": "Dwarfish Reinforcement",
-				"desc": "Self deployment cost -1, All operatives with 10 or less cost gain Defense +6%"
+				"desc": "Self deployment cost -1, All operatives with 10 or less initial cost gain Defense +6%"
 			},
 			{
 				"name": "Dwarfish Reinforcement",
-				"desc": "Self deployment cost -1, All operatives with 10 or less cost gain Defense +8% (+2%)"
+				"desc": "Self deployment cost -1, All operatives with 10 or less initial cost gain Defense +8% (+2%)"
 			}
 		]
 	],
@@ -1725,19 +1991,101 @@
 		[
 			{
 				"name": "Wing Chun",
-				"desc": "When attacking, 20% chance to increase Attack to 125% and knock the target back"
+				"desc": "When attacking, 20% chance to increase Attack to 125% and knock the target back with very small force"
 			},
 			{
 				"name": "Wing Chun",
-				"desc": "When attacking, 20% chance to increase Attack to 135% (+10%) and knock the target back"
+				"desc": "When attacking, 20% chance to increase Attack to 135% (+10%) and knock the target back with very small force"
 			},
 			{
 				"name": "Wing Chun",
-				"desc": "When attacking, 20% chance to increase Attack to 150% and knock the target back"
+				"desc": "When attacking, 20% chance to increase Attack to 150% and knock the target back with very small force"
 			},
 			{
 				"name": "Wing Chun",
-				"desc": "When attacking, 20% chance to increase Attack to 160% (+10%) and knock the target back"
+				"desc": "When attacking, 20% chance to increase Attack to 160% (+10%) and knock the target back with very small force"
+			}
+		]
+	],
+	"char_383_snsant": [
+		[
+			{
+				"name": "Insect-catching Expert",
+				"desc": "When pulling 【Infected Lifeforms】, silence them for 4 seconds"
+			},
+			{
+				"name": "Insect-catching Expert",
+				"desc": "When pulling 【Infected Lifeforms】, silence them for 8 (+4) seconds"
+			},
+			{
+				"name": "Insect-catching Expert",
+				"desc": "When pulling 【Infected Lifeforms】, increase force by 1 stage and silence them for 4 seconds"
+			},
+			{
+				"name": "Insect-catching Expert",
+				"desc": "When pulling 【Infected Lifeforms】, increase force by 1 stage and silence them for 8 (+4) seconds"
+			}
+		]
+	],
+	"char_225_haak": [
+		[
+			{
+				"name": "Drug Cocktail",
+				"desc": "When attacking, randomly activate one of the following effects: Recover 13% HP to self; Increase Attack to 130%; Slow the target for 1 second; Stun the target for 0.6 seconds"
+			},
+			{
+				"name": "Drug Cocktail",
+				"desc": "When attacking, randomly activate one of the following effects: Recover 14% HP to self; Increase Attack to 140%; Slow the target for 1.2 seconds; Stun the target for 0.8 seconds"
+			},
+			{
+				"name": "Drug Cocktail",
+				"desc": "When attacking, randomly activate one of the following effects: Recover 15% HP to self; Increase Attack to 150%; Slow the target for 1.4 seconds; Stun the target for 1 second"
+			}
+		],
+		[
+			{
+				"name": "Medicine Diffusion",
+				"desc": "Healing received by self +20%"
+			},
+			{
+				"name": "Medicine Diffusion",
+				"desc": "Healing received by self +25% (+5%)"
+			}
+		]
+	],
+	"char_250_phatom": [
+		[
+			{
+				"name": "Phantom in the Mirror",
+				"desc": "Can summon a clone. The clone has the same skills as Phantom and has a separate redeploy time"
+			},
+			{
+				"name": "Phantom in the Mirror",
+				"desc": "Can summon a clone with higher stats. The clone has the same skills as Phantom and has a separate redeploy time"
+			}
+		],
+		[
+			{
+				"name": "Phantom Mastery",
+				"desc": "Redeploy time of the clone -10 seconds"
+			}
+		]
+	],
+	"char_400_weedy": [
+		[
+			{
+				"name": "Industrial Water Cannon",
+				"desc": "Can use a water cannon that lasts for 15 seconds. The water cannon can attack a single enemy and push it away with small force"
+			},
+			{
+				"name": "Industrial Water Cannon",
+				"desc": "Can use a water cannon that lasts for 20 seconds. The water cannon can attack a single enemy and push it away with small force"
+			}
+		],
+		[
+			{
+				"name": "Water Cannon Enhancement",
+				"desc": "Increase the force of the water cannon's normal attacks and skills by 1 level. If the water cannon is deployed adjacent to Weedy, recover 1 SP to Weedy every 3 seconds"
 			}
 		]
 	],
@@ -1773,11 +2121,11 @@
 		[
 			{
 				"name": "Geological Exploration",
-				"desc": "Slight increase to the duration of the stop effect (+0.1)"
+				"desc": "Slight increase to the duration of the slow effect (+0.1)"
 			},
 			{
 				"name": "Geological Exploration",
-				"desc": "Small increase to the duration of the stop effect (+0.13)"
+				"desc": "Small increase to the duration of the slow effect (+0.13)"
 			}
 		]
 	],
@@ -1801,19 +2149,19 @@
 		[
 			{
 				"name": "Weakening",
-				"desc": "Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 115%"
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 15%) (When stacked, only the strongest effect becomes active)"
 			},
 			{
 				"name": "Weakening",
-				"desc": "Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 118% (+3%)"
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 18% (+3%)) (When stacked, only the strongest effect becomes active)"
 			},
 			{
 				"name": "Weakening",
-				"desc": "Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 130%"
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 30%) (When stacked, only the strongest effect becomes active)"
 			},
 			{
 				"name": "Weakening",
-				"desc": "Apply 【Weakening】 effect to enemies within attack range: When the target has less than 40% HP, their damage taken is increased to 133% (+3%)"
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 33% (+3%)) (When stacked, only the strongest effect becomes active)"
 			}
 		],
 		[
@@ -1864,6 +2212,54 @@
 			{
 				"name": "Counter Device",
 				"desc": "Prioritize attacking drones, Attack +55% (+5%) when attacking drones"
+			}
+		]
+	],
+	"char_254_vodfox": [
+		[
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 10%) (When stacked, only the strongest effect becomes active)"
+			},
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 13% (+3%)) (When stacked, only the strongest effect becomes active)"
+			},
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 20%) (When stacked, only the strongest effect becomes active)"
+			},
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 23% (+3%)) (When stacked, only the strongest effect becomes active)"
+			},
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 30%) (When stacked, only the strongest effect becomes active)"
+			},
+			{
+				"name": "Omen of Defeat",
+				"desc": "When enemies within attack range have less than 40% HP, apply 【Weakening】 effect (damage taken is increased by 33% (+3%)) (When stacked, only the strongest effect becomes active)"
+			}
+		]
+	],
+	"char_343_tknogi": [
+		[
+			{
+				"name": "Blessing",
+				"desc": "When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 12%)"
+			},
+			{
+				"name": "Blessing",
+				"desc": "When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 14% (+2%))"
+			},
+			{
+				"name": "Blessing",
+				"desc": "When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 18%)"
+			},
+			{
+				"name": "Blessing",
+				"desc": "When allies within attack range have less than 40% HP, apply 【Shelter】 effect (physical and magic damage taken is reduced by 20% (+2%))"
 			}
 		]
 	],
@@ -2099,6 +2495,26 @@
 			}
 		]
 	],
+	"char_401_elysm": [
+		[
+			{
+				"name": "Sniper Support",
+				"desc": "When deployed, deployment cost of all 【Sniper】 operatives -1. Additionally, when skill is active all 【Sniper】 operatives gain +10 attack speed"
+			},
+			{
+				"name": "Sniper Support",
+				"desc": "When deployed, deployment cost of all 【Sniper】 operatives -1. Additionally, when skill is active all 【Sniper】 operatives gain +13 (+3) attack speed"
+			},
+			{
+				"name": "Sniper Support",
+				"desc": "When deployed, deployment cost of all 【Sniper】 operatives -2. Additionally, when skill is active all 【Sniper】 operatives gain +20 attack speed"
+			},
+			{
+				"name": "Sniper Support",
+				"desc": "When deployed, deployment cost of all 【Sniper】 operatives -2. Additionally, when skill is active all 【Sniper】 operatives gain +23 (+3) attack speed"
+			}
+		]
+	],
 	"char_112_siege": [
 		[
 			{
@@ -2122,6 +2538,36 @@
 			{
 				"name": "Obliterate",
 				"desc": "Obtain 1 SP when an enemy dies within the adjacent 4 tiles"
+			}
+		]
+	],
+	"char_222_bpipe": [
+		[
+			{
+				"name": "Precise Reloading",
+				"desc": "Every attack has 25% chance to increase Attack to 110% and attack an additional target"
+			},
+			{
+				"name": "Precise Reloading",
+				"desc": "Every attack has 28% (+3%) chance to increase Attack to 110% and attack an additional target"
+			},
+			{
+				"name": "Precise Reloading",
+				"desc": "Every attack has 25% chance to increase Attack to 130% and attack an additional target"
+			},
+			{
+				"name": "Precise Reloading",
+				"desc": "Every attack has 28% (+3%) chance to increase Attack to 130% and attack an additional target"
+			}
+		],
+		[
+			{
+				"name": "Military Tradition",
+				"desc": "When in team, all 【Vanguard】 operatives gain initial SP +6"
+			},
+			{
+				"name": "Military Tradition",
+				"desc": "When in team, all 【Vanguard】 operatives gain initial SP +8 (+2)"
 			}
 		]
 	]

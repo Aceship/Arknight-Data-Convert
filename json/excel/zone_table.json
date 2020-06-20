@@ -91,6 +91,19 @@
       "lockedText": "完成上一章以解锁",
       "canPreview": true
     },
+    "main_7": {
+      "zoneID": "main_7",
+      "zoneIndex": 7,
+      "type": "MAINLINE",
+      "zoneNameFirst": "第七章",
+      "zoneNameSecond": "苦难摇篮",
+      "zoneNameTitleCurrent": "07",
+      "zoneNameTitleUnCurrent": "07",
+      "zoneNameTitleEx": "EPISODE",
+      "zoneNameThird": "EPISODE 07",
+      "lockedText": "完成上一章以解锁",
+      "canPreview": true
+    },
     "weekly_1": {
       "zoneID": "weekly_1",
       "zoneIndex": 1,
@@ -232,6 +245,45 @@
       "zoneNameTitleEx": null,
       "zoneNameThird": null,
       "lockedText": "",
+      "canPreview": false
+    },
+    "act9d0_zone1": {
+      "zoneID": "act9d0_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "阵中往事",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act9d0_zone2": {
+      "zoneID": "act9d0_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "破败前线",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act9d0_zone3": {
+      "zoneID": "act9d0_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "战火回想",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
       "canPreview": false
     },
     "act5d0_zone1": {
@@ -413,6 +465,18 @@
     }
   },
   "zoneValidInfo": {
+    "act9d0_zone1": {
+      "startTs": 1587441600,
+      "endTs": 1589486399
+    },
+    "act9d0_zone2": {
+      "startTs": 1588060800,
+      "endTs": 1589486399
+    },
+    "act9d0_zone3": {
+      "startTs": 1588665600,
+      "endTs": 1589486399
+    },
     "act5d0_zone1": {
       "startTs": 1574150400,
       "endTs": 1575316799
